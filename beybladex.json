@@ -1,6 +1,6 @@
 [
   {
-    "id": "e283f5c7-92e1-4c1d-872f-524a8e63b6d0",
+    "id": "162dd7d4-9b89-48ad-b626-4f4b250ab4de",
     "series": "BX",
     "product_codes": [
       "BX-01",
@@ -13,7 +13,7 @@
     "bit": "F"
   },
   {
-    "id": "23c93e4d-7b2a-4a25-8e7d-94d1b8c0a2e5",
+    "id": "9b20c0cc-81b8-44c1-9ae6-c32d1c99e6b7",
     "series": "BX",
     "product_codes": [
       "BX-02"
@@ -23,7 +23,7 @@
     "bit": "T"
   },
   {
-    "id": "18a5f6e9-0b1c-4d3e-9f8a-5a7b2c9d0e1f",
+    "id": "6dfe270a-ab53-4d22-8c5e-8b6a5ec66cf0",
     "series": "BX",
     "product_codes": [
       "BX-03",
@@ -35,7 +35,7 @@
     "bit": "B"
   },
   {
-    "id": "4e7c1d3f-8a5b-4c9d-8e6f-1a2b3c4d5e6f",
+    "id": "8b12ecac-741c-4fa4-960c-4c50995629e9",
     "series": "BX",
     "product_codes": [
       "BX-04",
@@ -46,7 +46,7 @@
     "bit": "N"
   },
   {
-    "id": "5f3a2c1b-9e8d-4f7c-a0b1-6d7e8f9a0c1b",
+    "id": "7c320d1c-2672-4445-b725-a37ec978fdef",
     "series": "BX",
     "product_codes": [
       "BX-08"
@@ -56,7 +56,7 @@
     "bit": "B"
   },
   {
-    "id": "6a9e1d3c-5b8a-4f7d-9e0c-2d4e6f8a0b9c",
+    "id": "bc912b40-65d6-4b5c-a6c2-086145a106ba",
     "series": "BX",
     "product_codes": [
       "BX-08"
@@ -66,7 +66,7 @@
     "bit": "N"
   },
   {
-    "id": "3d5f9c1b-7a8e-4c9d-a0b1-2c4d6e8f0a1b",
+    "id": "7a176a25-bfee-4400-a066-f54028f3b04a",
     "series": "BX",
     "product_codes": [
       "BX-08"
@@ -76,7 +76,7 @@
     "bit": "T"
   },
   {
-    "id": "7f8a9b1c-2d3e-4f5a-8b6c-9d0e1f2a3b4c",
+    "id": "9a678cfa-2dac-4d93-ae47-8bcedf801210",
     "series": "BX",
     "product_codes": [
       "BX-13"
@@ -86,7 +86,7 @@
     "bit": "HN"
   },
   {
-    "id": "8c9d0e1f-2a3b-4c5d-6e7f-8a9b0c1d2e3f",
+    "id": "235eaa4f-fb40-434e-a38e-3eb4dde88c68",
     "series": "BX",
     "product_codes": [
       "BX-14"
@@ -96,7 +96,7 @@
     "bit": "LF"
   },
   {
-    "id": "9b8a7c6d-5e4f-3a2b-1c0d-9e8f7a6b5c4d",
+    "id": "d0b89152-1523-4d16-bf89-091fb455398d",
     "series": "BX",
     "product_codes": [
       "BX-14 02"
@@ -106,7 +106,7 @@
     "bit": "N"
   },
   {
-    "id": "0d1c2b3a-4e5f-6c7d-8e9f-0a1b2c3d4e5f",
+    "id": "e55ba667-cf29-4d43-84d8-ddf291fd5b93",
     "series": "BX",
     "product_codes": [
       "BX-14 03"
@@ -116,7 +116,7 @@
     "bit": "B"
   },
   {
-    "id": "f8e7d6c5-4b3a-2f1d-0c9b-8a7f6e5d4c3b",
+    "id": "215acee1-09ac-4ea8-9edc-ad0d3dcb7d00",
     "series": "BX",
     "product_codes": [
       "BX-14 04"
@@ -126,7 +126,7 @@
     "bit": "LF"
   },
   {
-    "id": "e6d5c4b3-a2f1-d0c9-b8a7-f6e5d4c3b2a1",
+    "id": "8ebe1443-6ccd-47fc-b3ce-f8ce8685dd90",
     "series": "BX",
     "product_codes": [
       "BX-14 05"
@@ -136,7 +136,7 @@
     "bit": "LF"
   },
   {
-    "id": "a9b8c7d6-e5f4-3a2b-1c0d-9e8f7a6b5c4d",
+    "id": "15e73d45-5453-4eec-bf34-801c529213e1",
     "series": "BX",
     "product_codes": [
       "BX-14 06"
@@ -146,7 +146,7 @@
     "bit": "T"
   },
   {
-    "id": "c1d2e3f4-5a6b-7c8d-9e0f-1a2b3c4d5e6f",
+    "id": "27a7e929-80f3-4ac9-96c8-3dfd86fe4af4",
     "series": "BX",
     "product_codes": [
       "BX-15"
@@ -156,7 +156,7 @@
     "bit": "P"
   },
   {
-    "id": "d2e3f4a5-b6c7-d8e9-f0a1-b2c3d4e5f6a7",
+    "id": "0e4964cf-405f-4799-a55c-4b7f3bc8b793",
     "series": "BX",
     "product_codes": [
       "BX-16 01"
@@ -166,7 +166,7 @@
     "bit": "O"
   },
   {
-    "id": "e3f4a5b6-c7d8-e9f0-a1b2-c3d4e5f6a7b8",
+    "id": "e2b0b067-041d-434e-b82f-8396ca76e16e",
     "series": "BX",
     "product_codes": [
       "BX-16"
@@ -176,7 +176,7 @@
     "bit": "HN"
   },
   {
-    "id": "f4a5b6c7-d8e9-f0a1-b2c3-d4e5f6a7b8c9",
+    "id": "49da2781-d5c1-4780-9ccd-5ea43d88410f",
     "series": "BX",
     "product_codes": [
       "BX-16"
@@ -186,7 +186,7 @@
     "bit": "F"
   },
   {
-    "id": "a5b6c7d8-e9f0-a1b2-c3d4-e5f6a7b8c9d0",
+    "id": "6ec053d4-8575-4c31-8f6a-857cb1da9631",
     "series": "BX",
     "product_codes": [
       "BX-19"
@@ -196,7 +196,7 @@
     "bit": "S"
   },
   {
-    "id": "b6c7d8e9-f0a1-b2c3-d4e5-f6a7b8c9d0e1",
+    "id": "c1555416-e1d9-4e9b-861f-656e7b14304b",
     "series": "BX",
     "product_codes": [
       "BX-20"
@@ -206,7 +206,7 @@
     "bit": "R"
   },
   {
-    "id": "c7d8e9f0-a1b2-c3d4-e5f6-a7b8c9d0e1f2",
+    "id": "540cb54f-6319-433e-8f57-de73801b126c",
     "series": "BX",
     "product_codes": [
       "BX-20"
@@ -216,7 +216,7 @@
     "bit": "F"
   },
   {
-    "id": "d8e9f0a1-b2c3-d4e5-f6a7-b8c9d0e1f2a3",
+    "id": "bb8daf74-db96-4972-a943-f025a65e0585",
     "series": "BX",
     "product_codes": [
       "BX-20"
@@ -226,7 +226,7 @@
     "bit": "T"
   },
   {
-    "id": "e9f0a1b2-c3d4-e5f6-a7b8-c9d0e1f2a3b4",
+    "id": "8049441b-147e-4745-a6d5-2fa7091ee8af",
     "series": "BX",
     "product_codes": [
       "BX-21"
@@ -236,7 +236,7 @@
     "bit": "HT"
   },
   {
-    "id": "f0a1b2c3-d4e5-f6a7-b8c9-d0e1f2a3b4c5",
+    "id": "6b42c0a0-0968-4169-bd1f-1a15b1a9a922",
     "series": "BX",
     "product_codes": [
       "BX-21"
@@ -246,7 +246,7 @@
     "bit": "LF"
   },
   {
-    "id": "a1b2c3d4-e5f6-a7b8-c9d0-e1f2a3b4c5d6",
+    "id": "9a1bbdc0-b43f-424d-8d7e-29f298679df0",
     "series": "BX",
     "product_codes": [
       "BX-21"
@@ -256,7 +256,7 @@
     "bit": "N"
   },
   {
-    "id": "b2c3d4e5-f6a7-b8c9-d0e1-f2a3b4c5d6e7",
+    "id": "0a13d9f3-f652-48e8-a720-2826006152a8",
     "series": "BX",
     "product_codes": [
       "BX-23"
@@ -266,7 +266,7 @@
     "bit": "GF"
   },
   {
-    "id": "c3d4e5f6-a7b8-c9d0-e1f2-a3b4c5d6e7f8",
+    "id": "62bdc409-be54-4f02-9443-51b19feb4982",
     "series": "BX",
     "product_codes": [
       "BX-24"
@@ -276,7 +276,7 @@
     "bit": "GB"
   },
   {
-    "id": "d4e5f6a7-b8c9-d0e1-f2a3-b4c5d6e7f8a9",
+    "id": "a034651b-4fa5-4ebc-9533-993e5a97fd32",
     "series": "BX",
     "product_codes": [
       "BX-24 02"
@@ -286,7 +286,7 @@
     "bit": "T"
   },
   {
-    "id": "e5f6a7b8-c9d0-e1f2-a3b4-c5d6e7f8a9b0",
+    "id": "34fcfa82-a39a-4406-b9cd-87ad061bf71a",
     "series": "BX",
     "product_codes": [
       "BX-24 03"
@@ -296,7 +296,7 @@
     "bit": "GB"
   },
   {
-    "id": "f6a7b8c9-d0e1-f2a3-b4c5-d6e7f8a9b0c1",
+    "id": "e8b1d4de-7e6a-4ff9-897d-c2f54ce4ac94",
     "series": "BX",
     "product_codes": [
       "BX-24 04"
@@ -306,7 +306,7 @@
     "bit": "F"
   },
   {
-    "id": "a7b8c9d0-e1f2-a3b4-c5d6-e7f8a9b0c1d2",
+    "id": "71efbec8-c03f-4b5b-801e-bbbebff59c02",
     "series": "BX",
     "product_codes": [
       "BX-24 05"
@@ -316,7 +316,7 @@
     "bit": "HN"
   },
   {
-    "id": "b8c9d0e1-f2a3-b4c5-d6e7-f8a9b0c1d2e3",
+    "id": "7f08dbea-4235-435d-b217-7f96949118b9",
     "series": "BX",
     "product_codes": [
       "BX-24 06"
@@ -326,7 +326,7 @@
     "bit": "GB"
   },
   {
-    "id": "c9d0e1f2-a3b4-c5d6-e7f8-a9b0c1d2e3f4",
+    "id": "8a69589f-9ee0-4ce4-9d95-e829c5651fd8",
     "series": "BX",
     "product_codes": [
       "BX-26"
@@ -336,7 +336,7 @@
     "bit": "GP"
   },
   {
-    "id": "d0e1f2a3-b4c5-d6e7-f8a9-b0c1d2e3f4a5",
+    "id": "dfc3163b-5da2-44bf-8b19-ff06b5717e58",
     "series": "BX",
     "product_codes": [
       "BX-27 01"
@@ -346,7 +346,7 @@
     "bit": "GN"
   },
   {
-    "id": "e1f2a3b4-c5d6-e7f8-a9b0-c1d2e3f4a5b6",
+    "id": "befb7d46-8bf0-4450-b9e7-8a1d1800028d",
     "series": "BX",
     "product_codes": [
       "BX-27 02"
@@ -356,7 +356,7 @@
     "bit": "HT"
   },
   {
-    "id": "f2a3b4c5-d6e7-f8a9-b0c1-d2e3f4a5b6c7",
+    "id": "33b32300-371e-4135-977b-6bb95df7e49f",
     "series": "BX",
     "product_codes": [
       "BX-27 03"
@@ -366,7 +366,7 @@
     "bit": "O"
   },
   {
-    "id": "a3b4c5d6-e7f8-a9b0-c1d2-e3f4a5b6c7d8",
+    "id": "76774b8b-289d-48ea-9827-655a9b8ca09a",
     "series": "BX",
     "product_codes": [
       "BX-31 01"
@@ -376,7 +376,7 @@
     "bit": "Q"
   },
   {
-    "id": "b4c5d6e7-f8a9-b0c1-d2e3-f4a5b6c7d8e9",
+    "id": "45425f14-ae9a-4651-9784-03d7b7b2d5c4",
     "series": "BX",
     "product_codes": [
       "BX-31 02"
@@ -386,7 +386,7 @@
     "bit": "S"
   },
   {
-    "id": "c5d6e7f8-a9b0-c1d2-e3f4-a5b6c7d8e9f0",
+    "id": "6f1df153-7e25-43ef-81cd-0a9e5f30b914",
     "series": "BX",
     "product_codes": [
       "BX-31 03"
@@ -396,7 +396,7 @@
     "bit": "O"
   },
   {
-    "id": "d6e7f8a9-b0c1-d2e3-f4a5-b6c7d8e9f0a1",
+    "id": "d977b6a6-0eab-44ae-849e-af70308acbe4",
     "series": "BX",
     "product_codes": [
       "BX-31 04"
@@ -406,7 +406,7 @@
     "bit": "P"
   },
   {
-    "id": "e7f8a9b0-c1d2-e3f4-a5b6-c7d8e9f0a1b2",
+    "id": "6cb6163e-bad9-4258-8a27-c592fa89cef2",
     "series": "BX",
     "product_codes": [
       "BX-31 05"
@@ -416,7 +416,7 @@
     "bit": "Q"
   },
   {
-    "id": "f8a9b0c1-d2e3-f4a5-b6c7-d8e9f0a1b2c3",
+    "id": "d1253214-789e-4dc6-b7ee-c8bb604f0557",
     "series": "BX",
     "product_codes": [
       "BX-31 06"
@@ -426,7 +426,7 @@
     "bit": "Q"
   },
   {
-    "id": "a9b0c1d2-e3f4-a5b6-c7d8-e9f0a1b2c3d4",
+    "id": "ef8ce559-ceef-4d51-aa9d-2a175425f3d4",
     "series": "BX",
     "product_codes": [
       "BX-33"
@@ -436,7 +436,7 @@
     "bit": "U"
   },
   {
-    "id": "b0c1d2e3-f4a5-b6c7-d8e9-f0a1b2c3d4e5",
+    "id": "5d133b04-4623-4e82-aa37-636023a17e98",
     "series": "BX",
     "product_codes": [
       "BX-34"
@@ -446,7 +446,7 @@
     "bit": "C"
   },
   {
-    "id": "c1d2e3f4-a5b6-c7d8-e9f0-a1b2c3d4e5f6",
+    "id": "3e932eff-d8be-4157-81c2-c52d986a390e",
     "series": "BX",
     "product_codes": [
       "BX-35 01"
@@ -456,7 +456,7 @@
     "bit": "D"
   },
   {
-    "id": "d2e3f4a5-b6c7-d8e9-f0a1-b2c3d4e5f6a7",
+    "id": "a755aaa1-17fc-4fdb-b586-6615cad8153c",
     "series": "BX",
     "product_codes": [
       "BX-35 02"
@@ -466,7 +466,7 @@
     "bit": "B"
   },
   {
-    "id": "e3f4a5b6-c7d8-e9f0-a1b2-c3d4e5f6a7b8",
+    "id": "0fa5549d-11ee-4fdf-9093-55c4c31cb3a1",
     "series": "BX",
     "product_codes": [
       "BX-35 03"
@@ -476,7 +476,7 @@
     "bit": "D"
   },
   {
-    "id": "f4a5b6c7-d8e9-f0a1-b2c3-d4e5f6a7b8c9",
+    "id": "1555c354-92d2-44d6-906c-ef1e0672cadd",
     "series": "BX",
     "product_codes": [
       "BX-35 04"
@@ -486,7 +486,7 @@
     "bit": "R"
   },
   {
-    "id": "a5b6c7d8-e9f0-a1b2-c3d4-e5f6a7b8c9d0",
+    "id": "0ec812e2-99a4-419b-936e-b1f035089f58",
     "series": "BX",
     "product_codes": [
       "BX-35 05"
@@ -496,7 +496,7 @@
     "bit": "H"
   },
   {
-    "id": "b6c7d8e9-f0a1-b2c3-d4e5-f6a7b8c9d0e1",
+    "id": "207cede6-75ef-42e5-a3ee-b59f1e9eb2f6",
     "series": "BX",
     "product_codes": [
       "BX-35 06"
@@ -506,7 +506,7 @@
     "bit": "D"
   },
   {
-    "id": "c7d8e9f0-a1b2-c3d4-e5f6-a7b8c9d0e1f2",
+    "id": "fad9489e-41cb-4fc8-8d47-4d9afec1155e",
     "series": "BX",
     "product_codes": [
       "BX-36 01"
@@ -516,7 +516,7 @@
     "bit": "E"
   },
   {
-    "id": "d8e9f0a1-b2c3-d4e5-f6a7-b8c9d0e1f2a3",
+    "id": "d663d567-045f-41a7-8480-3a845929e578",
     "series": "BX",
     "product_codes": [
       "BX-36 02"
@@ -526,7 +526,7 @@
     "bit": "HN"
   },
   {
-    "id": "e9f0a1b2-c3d4-e5f6-a7b8-c9d0e1f2a3b4",
+    "id": "73ea43ae-8b7a-449a-86e4-a69b3d0e0d5d",
     "series": "BX",
     "product_codes": [
       "BX-36 03"
@@ -536,7 +536,7 @@
     "bit": "GB"
   },
   {
-    "id": "f0a1b2c3-d4e5-f6a7-b8c9-d0e1f2a3b4c5",
+    "id": "1b43b6b5-c76e-49d5-8ebc-9c94b2fb4aad",
     "series": "BX",
     "product_codes": [
       "BX-37"
@@ -546,7 +546,7 @@
     "bit": "F"
   },
   {
-    "id": "a1b2c3d4-e5f6-a7b8-c9d0-e1f2a3b4c5d6",
+    "id": "96accf19-21a9-4daf-80a1-b7467f5ea619",
     "series": "BX",
     "product_codes": [
       "BX-38"
@@ -556,7 +556,7 @@
     "bit": "TP"
   },
   {
-    "id": "b2c3d4e5-f6a7-b8c9-d0e1-f2a3b4c5d6e7",
+    "id": "cb0d976d-6add-4d38-80dc-8373c0273387",
     "series": "BX",
     "product_codes": [
       "BX-39 01"
@@ -566,7 +566,7 @@
     "bit": "GP"
   },
   {
-    "id": "c3d4e5f6-a7b8-c9d0-e1f2-a3b4c5d6e7f8",
+    "id": "54c03041-6bd9-4549-99b1-db35be4773fe",
     "series": "BX",
     "product_codes": [
       "BX-39 02"
@@ -576,7 +576,7 @@
     "bit": "O"
   },
   {
-    "id": "d4e5f6a7-b8c9-d0e1-f2a3-b4c5d6e7f8a9",
+    "id": "ca9da9c9-6a59-45cb-a542-ca076e1fff64",
     "series": "BX",
     "product_codes": [
       "BX-39 03"
@@ -586,7 +586,7 @@
     "bit": "O"
   },
   {
-    "id": "e5f6a7b8-c9d0-e1f2-a3b4-c5d6e7f8a9b0",
+    "id": "a2c8bc11-5e79-468d-86fc-8f63840ebac6",
     "series": "BX",
     "product_codes": [
       "BX-00",
@@ -597,7 +597,7 @@
     "bit": "F"
   },
   {
-    "id": "f6a7b8c9-d0e1-f2a3-b4c5-d6e7f8a9b0c1",
+    "id": "7601a809-6aff-4c93-aeeb-7d388cb87e2d",
     "series": "BX",
     "product_codes": [
       "BX-00",
@@ -608,7 +608,7 @@
     "bit": "HT"
   },
   {
-    "id": "a7b8c9d0-e1f2-a3b4-c5d6-e7f8a9b0c1d2",
+    "id": "cabe2bb5-13cb-4571-8918-c2d55cb3d00b",
     "series": "BX",
     "product_codes": [
       "BX-00",
@@ -619,7 +619,7 @@
     "bit": "T"
   },
   {
-    "id": "b8c9d0e1-f2a3-b4c5-d6e7-f8a9b0c1d2e3",
+    "id": "e06214da-f574-4a41-b1a2-fe89d3a86a41",
     "series": "BX",
     "product_codes": [
       "BX-00",
@@ -630,7 +630,7 @@
     "bit": "T"
   },
   {
-    "id": "c9d0e1f2-a3b4-c5d6-e7f8-a9b0c1d2e3f4",
+    "id": "bb89ed93-d9ba-41c7-a717-769313db3cd2",
     "series": "BX",
     "product_codes": [
       "BX-00",
@@ -642,7 +642,7 @@
     "bit": null
   },
   {
-    "id": "d0e1f2a3-b4c5-d6e7-f8a9-b0c1d2e3f4a5",
+    "id": "ed1bbc76-5a4d-43c2-8a63-84bc61be5abf",
     "series": "BX",
     "product_codes": [
       "BX-00",
@@ -653,7 +653,7 @@
     "bit": "F"
   },
   {
-    "id": "e1f2a3b4-c5d6-e7f8-a9b0-c1d2e3f4a5b6",
+    "id": "7bc01360-1bd6-4d24-9dd8-2a14d4337290",
     "series": "BX",
     "product_codes": [
       "BX-00",
@@ -664,7 +664,7 @@
     "bit": "P"
   },
   {
-    "id": "f2a3b4c5-d6e7-f8a9-b0c1-d2e3f4a5b6c7",
+    "id": "a7f2bcbc-ffa3-4322-a440-e044491dd497",
     "series": "BX",
     "product_codes": [
       "BX-00",
@@ -675,7 +675,7 @@
     "bit": "GF"
   },
   {
-    "id": "a3b4c5d6-e7f8-a9b0-c1d2-e3f4a5b6c7d8",
+    "id": "ee006873-908f-41ae-9efa-5853c8eeb39f",
     "series": "BX",
     "product_codes": [
       "BX-00",
@@ -686,7 +686,7 @@
     "bit": null
   },
   {
-    "id": "b4c5d6e7-f8a9-b0c1-d2e3-f4a5b6c7d8e9",
+    "id": "a0700d82-8a99-4c6a-8ad0-f30bbd5dbc9d",
     "series": "BX",
     "product_codes": [
       "BX-00"
@@ -696,7 +696,7 @@
     "bit": null
   },
   {
-    "id": "c5d6e7f8-a9b0-c1d2-e3f4-a5b6c7d8e9f0",
+    "id": "87f66f37-f988-405f-b0a5-30b30e29c204",
     "series": "BX",
     "product_codes": [
       "BX-00 Giants"
@@ -706,7 +706,7 @@
     "bit": "GP"
   },
   {
-    "id": "d6e7f8a9-b0c1-d2e3-f4a5-b6c7d8e9f0a1",
+    "id": "e6fbe47e-f007-44d8-af6b-1315a382b2e2",
     "series": "BX",
     "product_codes": [
       "BX-00"
@@ -716,7 +716,7 @@
     "bit": "C"
   },
   {
-    "id": "e7f8a9b0-c1d2-e3f4-a5b6-c7d8e9f0a1b2",
+    "id": "24d34abd-15f8-4925-9e9c-202ba864fbe6",
     "series": "BX",
     "product_codes": [
       "BX-00"
@@ -726,7 +726,7 @@
     "bit": "F"
   },
   {
-    "id": "f8a9b0c1-d2e3-f4a5-b6c7-d8e9f0a1b2c3",
+    "id": "ec16ae88-4ea6-45cf-b6bd-019590065d33",
     "series": "BX",
     "product_codes": [
       "BX-00"
@@ -736,7 +736,7 @@
     "bit": "F"
   },
   {
-    "id": "a9b0c1d2-e3f4-a5b6-c7d8-e9f0a1b2c3d4",
+    "id": "9dea2abd-9ad3-4e1d-8135-833931e57634",
     "series": "BX",
     "product_codes": [
       "BX-00",
@@ -747,7 +747,7 @@
     "bit": "DB"
   },
   {
-    "id": "b0c1d2e3-f4a5-b6c7-d8e9-f0a1b2c3d4e5",
+    "id": "ae33ae06-9529-4acd-bd8b-d7e5cacd62d2",
     "series": "BX",
     "product_codes": [
       "BX-00"
@@ -757,7 +757,7 @@
     "bit": "LF"
   },
   {
-    "id": "c1d2e3f4-a5b6-c7d8-e9f0-a1b2c3d4e5f6",
+    "id": "33b3ad33-1d01-4084-b323-c408f0be21a6",
     "series": "BX",
     "product_codes": [
       "BX-00"
@@ -767,7 +767,7 @@
     "bit": "LF"
   },
   {
-    "id": "d2e3f4a5-b6c7-d8e9-f0a1-b2c3d4e5f6a7",
+    "id": "6db5ac6a-71f9-45fb-8ceb-570c2092b820",
     "series": "BX",
     "product_codes": [
       "BX-00"
@@ -777,7 +777,7 @@
     "bit": "DB"
   },
   {
-    "id": "e3f4a5b6-c7d8-e9f0-a1b2-c3d4e5f6a7b8",
+    "id": "1b70dd4a-543c-4bc0-a08b-e8e515a82284",
     "series": "BX",
     "product_codes": [
       "BX-00"
@@ -787,7 +787,7 @@
     "bit": "D"
   },
   {
-    "id": "f4a5b6c7-d8e9-f0a1-b2c3-d4e5f6a7b8c9",
+    "id": "09b17b06-f382-4575-8a0f-88e22c10a85e",
     "series": "BX",
     "product_codes": [
       "BX-00"
@@ -797,7 +797,7 @@
     "bit": "E"
   },
   {
-    "id": "a5b6c7d8-e9f0-a1b2-c3d4-e5f6a7b8c9d0",
+    "id": "103fb0ec-b962-4fa7-aa83-3cbfe14b3e63",
     "series": "BX",
     "product_codes": [
       "BX-00"
@@ -807,7 +807,7 @@
     "bit": "GF"
   },
   {
-    "id": "b6c7d8e9-f0a1-b2c3-d4e5-f6a7b8c9d0e1",
+    "id": "9c1f2080-b527-4026-801d-4ca2c2932c02",
     "series": "BX",
     "product_codes": [
       "BX-00"
@@ -817,7 +817,7 @@
     "bit": "Q"
   },
   {
-    "id": "c7d8e9f0-a1b2-c3d4-e5f6-a7b8c9d0e1f2",
+    "id": "66a5695e-2ded-4a0f-9f71-d85517943534",
     "series": "BX",
     "product_codes": [
       "BX-00"
@@ -827,7 +827,7 @@
     "bit": "GF"
   },
   {
-    "id": "d8e9f0a1-b2c3-d4e5-f6a7-b8c9d0e1f2a3",
+    "id": "ba9f3d7a-7fd2-4fba-9f99-684c647fac5e",
     "series": "BX",
     "product_codes": [
       "BX-00"
@@ -837,7 +837,7 @@
     "bit": "RA"
   },
   {
-    "id": "e9f0a1b2-c3d4-e5f6-a7b8-c9d0e1f2a3b4",
+    "id": "4c92eac1-41da-46c4-9147-d123b4f8c322",
     "series": "BX",
     "product_codes": [
       "BX-00"
@@ -847,7 +847,7 @@
     "bit": "RA"
   },
   {
-    "id": "f0a1b2c3-d4e5-f6a7-b8c9-d0e1f2a3b4c5",
+    "id": "633ad44d-c8e1-4421-946e-bcade3aa5461",
     "series": "BX",
     "product_codes": [
       "BX-00"
@@ -857,7 +857,7 @@
     "bit": "RA"
   },
   {
-    "id": "a1b2c3d4-e5f6-a7b8-c9d0-e1f2a3b4c5d6",
+    "id": "d96b3004-76db-429c-8a71-6044e436b37f",
     "series": "UX",
     "product_codes": [
       "UX-01",
@@ -869,7 +869,7 @@
     "bit": "A"
   },
   {
-    "id": "b2c3d4e5-f6a7-b8c9-d0e1-f2a3b4c5d6e7",
+    "id": "b93a77d7-15b9-47c4-9dea-bbfad193bbe7",
     "series": "UX",
     "product_codes": [
       "UX-02"
@@ -879,7 +879,7 @@
     "bit": "H"
   },
   {
-    "id": "c3d4e5f6-a7b8-c9d0-e1f2-a3b4c5d6e7f8",
+    "id": "0a7b79e1-77e4-4bc0-aa45-924ee6c3d461",
     "series": "UX",
     "product_codes": [
       "UX-03",
@@ -891,7 +891,7 @@
     "bit": "DB"
   },
   {
-    "id": "d4e5f6a7-b8c9-d0e1-f2a3-b4c5d6e7f8a9",
+    "id": "7c88c9d3-d577-435b-bc17-06871eb6ff99",
     "series": "UX",
     "product_codes": [
       "UX-05 01"
@@ -901,7 +901,7 @@
     "bit": "MN"
   },
   {
-    "id": "e5f6a7b8-c9d0-e1f2-a3b4-c5d6e7f8a9b0",
+    "id": "70cb189a-a1eb-455a-82d3-f714247cd20f",
     "series": "UX",
     "product_codes": [
       "UX-05 02"
@@ -911,7 +911,7 @@
     "bit": "LF"
   },
   {
-    "id": "f6a7b8c9-d0e1-f2a3-b4c5-d6e7f8a9b0c1",
+    "id": "380279df-3436-454b-825e-c27daea31a73",
     "series": "UX",
     "product_codes": [
       "UX-05 03"
@@ -921,7 +921,7 @@
     "bit": "GP"
   },
   {
-    "id": "a7b8c9d0-e1f2-a3b4-c5d6-e7f8a9b0c1d2",
+    "id": "5f60c03f-b548-4f34-ade1-7cac3a0dbaaf",
     "series": "UX",
     "product_codes": [
       "UX-06"
@@ -931,7 +931,7 @@
     "bit": "GN"
   },
   {
-    "id": "b8c9d0e1-f2a3-b4c5-d6e7-f8a9b0c1d2e3",
+    "id": "3b32495c-adbe-46b2-9c80-c6d6f83cf57a",
     "series": "UX",
     "product_codes": [
       "UX-07"
@@ -941,7 +941,7 @@
     "bit": "G"
   },
   {
-    "id": "c9d0e1f2-a3b4-c5d6-e7f8-a9b0c1d2e3f4",
+    "id": "536c78c4-309d-4ea1-af4a-e1c22ae95beb",
     "series": "UX",
     "product_codes": [
       "UX-07"
@@ -951,7 +951,7 @@
     "bit": "S"
   },
   {
-    "id": "d0e1f2a3-b4c5-d6e7-f8a9-b0c1d2e3f4a5",
+    "id": "1c73165c-7878-453e-ad2f-0699316cf71f",
     "series": "UX",
     "product_codes": [
       "UX-07"
@@ -961,7 +961,7 @@
     "bit": "GF"
   },
   {
-    "id": "e1f2a3b4-c5d6-e7f8-a9b0-c1d2e3f4a5b6",
+    "id": "bac76b26-9c67-4b69-b1ba-03cc74c95046",
     "series": "UX",
     "product_codes": [
       "UX-08"
@@ -971,7 +971,7 @@
     "bit": "FB"
   },
   {
-    "id": "f2a3b4c5-d6e7-f8a9-b0c1-d2e3f4a5b6c7",
+    "id": "8fc921ef-986b-4181-80eb-41074e4de880",
     "series": "UX",
     "product_codes": [
       "UX-09"
@@ -981,7 +981,7 @@
     "bit": "L"
   },
   {
-    "id": "a3b4c5d6-e7f8-a9b0-c1d2-e3f4a5b6c7d8",
+    "id": "893c51fe-24be-468b-982c-9af968b93fb8",
     "series": "UX",
     "product_codes": [
       "UX-10"
@@ -991,7 +991,7 @@
     "bit": "BS"
   },
   {
-    "id": "b4c5d6e7-f8a9-b0c1-d2e3-f4a5b6c7d8e9",
+    "id": "b084c35a-ed14-4f9a-9f08-0904d14d016c",
     "series": "UX",
     "product_codes": [
       "UX-10"
@@ -1001,7 +1001,7 @@
     "bit": "B"
   },
   {
-    "id": "c5d6e7f8-a9b0-c1d2-e3f4-a5b6c7d8e9f0",
+    "id": "d106754c-004c-4fb2-be47-09a3a1289bc5",
     "series": "UX",
     "product_codes": [
       "UX-10"
@@ -1011,7 +1011,7 @@
     "bit": "RA"
   },
   {
-    "id": "d6e7f8a9-b0c1-d2e3-f4a5-b6c7d8e9f0a1",
+    "id": "599ced27-cd21-4a3d-9cf2-0884a9fac8aa",
     "series": "UX",
     "product_codes": [
       "UX-10"
@@ -1021,7 +1021,7 @@
     "bit": null
   },
   {
-    "id": "e7f8a9b0-c1d2-e3f4-a5b6-c7d8e9f0a1b2",
+    "id": "2493fd86-8f74-444a-80ba-894707705b1c",
     "series": "UX",
     "product_codes": [
       "UX-11"
@@ -1031,7 +1031,7 @@
     "bit": "LR"
   },
   {
-    "id": "f8a9b0c1-d2e3-f4a5-b6c7-d8e9f0a1b2c3",
+    "id": "251f9a0f-c62b-4642-b1dc-259b31cac637",
     "series": "UX",
     "product_codes": [
       "UX-12 01"
@@ -1041,7 +1041,7 @@
     "bit": "GB"
   },
   {
-    "id": "a9b0c1d2-e3f4-a5b6-c7d8-e9f0a1b2c3d4",
+    "id": "c8a248fa-df7c-4b81-b52e-677a3f0e7bea",
     "series": "UX",
     "product_codes": [
       "UX-12 02"
@@ -1051,7 +1051,7 @@
     "bit": "H"
   },
   {
-    "id": "b0c1d2e3-f4a5-b6c7-d8e9-f0a1b2c3d4e5",
+    "id": "9b86b8a5-b5a9-481f-878a-1dbc5cbbf946",
     "series": "UX",
     "product_codes": [
       "UX-12 03"
@@ -1061,7 +1061,7 @@
     "bit": "F"
   },
   {
-    "id": "c1d2e3f4-a5b6-c7d8-e9f0-a1b2c3d4e5f6",
+    "id": "92c90438-1d3c-4a33-9506-8123a3b7551f",
     "series": "UX",
     "product_codes": [
       "UX-12 04"
@@ -1071,7 +1071,7 @@
     "bit": "E"
   },
   {
-    "id": "d2e3f4a5-b6c7-d8e9-f0a1-b2c3d4e5f6a7",
+    "id": "a72cea63-1b8b-4ae6-8848-f7a0da0d32a0",
     "series": "UX",
     "product_codes": [
       "UX-12 05"
@@ -1081,7 +1081,7 @@
     "bit": "N"
   },
   {
-    "id": "e3f4a5b6-c7d8-e9f0-a1b2-c3d4e5f6a7b8",
+    "id": "d7f4bff9-4e20-4ff7-951d-79d39f044e46",
     "series": "UX",
     "product_codes": [
       "UX-12 06"
@@ -1091,7 +1091,7 @@
     "bit": "C"
   },
   {
-    "id": "f4a5b6c7-d8e9-f0a1-b2c3-d4e5f6a7b8c9",
+    "id": "1e270c72-7661-45d4-b203-df34b7ade19d",
     "series": "UX",
     "product_codes": [
       "UX-13"
@@ -1101,7 +1101,7 @@
     "bit": "UN"
   },
   {
-    "id": "a5b6c7d8-e9f0-a1b2-c3d4-e5f6a7b8c9d0",
+    "id": "845da688-5593-46f0-a55c-4cba6b95253e",
     "series": "UX",
     "product_codes": [
       "UX-14"
@@ -1111,7 +1111,7 @@
     "bit": "Z"
   },
   {
-    "id": "b6c7d8e9-f0a1-b2c3-d4e5-f6a7b8c9d0e1",
+    "id": "bc315f78-8b40-444f-bede-ef98234460de",
     "series": "UX",
     "product_codes": [
       "UX-00"
@@ -1121,7 +1121,7 @@
     "bit": "A"
   },
   {
-    "id": "c7d8e9f0-a1b2-c3d4-e5f6-a7b8c9d0e1f2",
+    "id": "e8c5980c-033d-4a12-b9c9-4410f5b1523a",
     "series": "CX",
     "product_codes": [
       "CX-01",
@@ -1132,7 +1132,7 @@
     "bit": "V"
   },
   {
-    "id": "d8e9f0a1-b2c3-d4e5-f6a7-b8c9d0e1f2a3",
+    "id": "161bd5fe-6992-4051-b69e-6341ab7df998",
     "series": "CX",
     "product_codes": [
       "CX-02"
@@ -1142,7 +1142,7 @@
     "bit": "LO"
   },
   {
-    "id": "e9f0a1b2-c3d4-e5f6-a7b8-c9d0e1f2a3b4",
+    "id": "d0d9c9fd-1174-427c-9ece-028a606662d0",
     "series": "CX",
     "product_codes": [
       "CX-03",
@@ -1153,7 +1153,7 @@
     "bit": "W"
   },
   {
-    "id": "f0a1b2c3-d4e5-f6a7-b8c9-d0e1f2a3b4c5",
+    "id": "3759773d-ef43-4915-b3c6-4f54c6aa000e",
     "series": "CX",
     "product_codes": [
       "CX-05 01"
@@ -1163,7 +1163,7 @@
     "bit": "K"
   },
   {
-    "id": "a1b2c3d4-e5f6-a7b8-c9d0-e1f2a3b4c5d6",
+    "id": "f1fddd42-55a9-4c91-bb54-d937b5dac2b3",
     "series": "CX",
     "product_codes": [
       "CX-05 02"
@@ -1173,7 +1173,7 @@
     "bit": "D"
   },
   {
-    "id": "b2c3d4e5-f6a7-b8c9-d0e1-f2a3b4c5d6e7",
+    "id": "dd96cf2e-143d-400b-9e7c-98db5bdd7b7a",
     "series": "CX",
     "product_codes": [
       "CX-05 03"
@@ -1183,7 +1183,7 @@
     "bit": "O"
   },
   {
-    "id": "c3d4e5f6-a7b8-c9d0-e1f2-a3b4c5d6e7f8",
+    "id": "b33a747e-5d58-44c5-8457-ee997e4bfafd",
     "series": "CX",
     "product_codes": [
       "CX-05 04"
@@ -1193,7 +1193,7 @@
     "bit": "K"
   },
   {
-    "id": "d4e5f6a7-b8c9-d0e1-f2a3-b4c5d6e7f8a9",
+    "id": "77a6b118-c62b-4066-8a81-71ba1183a6ea",
     "series": "CX",
     "product_codes": [
       "CX-05 05"
@@ -1203,7 +1203,7 @@
     "bit": "LF"
   },
   {
-    "id": "e5f6a7b8-c9d0-e1f2-a3b4-c5d6e7f8a9b0",
+    "id": "07a30bd2-7f62-49e8-b90a-eceb1f09c6fc",
     "series": "CX",
     "product_codes": [
       "CX-05 06"
@@ -1213,7 +1213,7 @@
     "bit": "K"
   },
   {
-    "id": "f6a7b8c9-d0e1-f2a3-b4c5-d6e7f8a9b0c1",
+    "id": "415dd71a-662b-4865-9007-622e4f53badc",
     "series": "CX",
     "product_codes": [
       "CX-06 01"
@@ -1223,7 +1223,7 @@
     "bit": "GR"
   },
   {
-    "id": "a7b8c9d0-e1f2-a3b4-c5d6-e7f8a9b0c1d2",
+    "id": "195abfe9-a973-46d3-9f87-7a51e43276cc",
     "series": "CX",
     "product_codes": [
       "CX-06 02"
@@ -1233,7 +1233,7 @@
     "bit": "DB"
   },
   {
-    "id": "b8c9d0e1-f2a3-b4c5-d6e7-f8a9b0c1d2e3",
+    "id": "13c9be33-513c-42a9-9205-1d1a2c535456",
     "series": "CX",
     "product_codes": [
       "CX-06 03"
