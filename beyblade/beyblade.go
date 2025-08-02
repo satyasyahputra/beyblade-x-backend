@@ -3,9 +3,11 @@ package beyblade
 // Beyblade struct tetap sama
 type Beyblade struct {
 	ID           string   `json:"id"`
-	ProductCodes []string `json:"product_codes"`
 	Series       string   `json:"series"`
-	Bit          string   `json:"bit"`
-	Ratchet      string   `json:"ratchet"`
+	ProductCodes []string `json:"product_codes"`
 	Blade        string   `json:"blade"`
+	Assist       string   `json:"assist"`
+	Ratchet      string   `json:"ratchet"`
+	Bit          string   `json:"bit"`
+	ImageUrls    []string `json:"image_urls"`
 }

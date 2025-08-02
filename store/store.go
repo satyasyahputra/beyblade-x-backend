@@ -7,13 +7,13 @@ import (
 	"satyasyahputra/beyblade-x/beyblade"
 )
 
-const dbFile = "beybladex.json"
+const DBFile = "beybladex.json"
 
 func LoadBeyblade() []beyblade.Beyblade {
-	fileData, err := os.ReadFile(dbFile)
+	fileData, err := os.ReadFile(DBFile)
 	if err != nil {
 		if os.IsNotExist(err) {
-			log.Printf("File %s tidak ditemukan. Memulai dengan data kosong.", dbFile)
+			log.Printf("File %s tidak ditemukan. Memulai dengan data kosong.", DBFile)
 			return []beyblade.Beyblade{}
 		}
 		log.Fatalf("Gagal membaca file data: %v", err)
@@ -28,7 +28,7 @@ func LoadBeyblade() []beyblade.Beyblade {
 	if err != nil {
 		log.Fatalf("Gagal mengubah data dari JSON: %v", err)
 	}
-	log.Printf("Berhasil memuat %d data Beyblade dari %s", len(beyblades), dbFile)
+	log.Printf("Berhasil memuat %d data Beyblade dari %s", len(beyblades), DBFile)
 
 	return beyblades
 }
