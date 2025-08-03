@@ -1,6 +1,6 @@
 [
   {
-    "id": "162dd7d4-9b89-48ad-b626-4f4b250ab4de",
+    "id": "b2d034b7-e523-445a-84da-61ae8cd14ce8",
     "series": "BX",
     "product_codes": [
       "BX-01",
@@ -9,6 +9,7 @@
       "BX-22"
     ],
     "blade": "Dran Sword",
+    "assist": "",
     "ratchet": "3-60",
     "bit": "F",
     "image_urls": [
@@ -16,12 +17,13 @@
     ]
   },
   {
-    "id": "9b20c0cc-81b8-44c1-9ae6-c32d1c99e6b7",
+    "id": "d916b2bc-afef-44b2-903d-fd4e58a0d88a",
     "series": "BX",
     "product_codes": [
       "BX-02"
     ],
     "blade": "Hells Scythe",
+    "assist": "",
     "ratchet": "4-60",
     "bit": "T",
     "image_urls": [
@@ -29,7 +31,7 @@
     ]
   },
   {
-    "id": "6dfe270a-ab53-4d22-8c5e-8b6a5ec66cf0",
+    "id": "40948bc3-bd3f-4be7-b660-d6268062c35a",
     "series": "BX",
     "product_codes": [
       "BX-03",
@@ -37,139 +39,177 @@
       "BX-17"
     ],
     "blade": "Wizard Arrow",
+    "assist": "",
     "ratchet": "4-80",
     "bit": "B",
-    "image_urls": ["https://takaratomyasia.com/img/product/910473/thumb-product-910473-C01.jpg"]
+    "image_urls": [
+      "https://takaratomyasia.com/img/product/910473/thumb-product-910473-C01.jpg"
+    ]
   },
   {
-    "id": "8b12ecac-741c-4fa4-960c-4c50995629e9",
+    "id": "055349e3-33fc-4e71-9a82-a52a087a3311",
     "series": "BX",
     "product_codes": [
       "BX-04",
       "BX-06"
     ],
     "blade": "Knight Shield",
+    "assist": "",
     "ratchet": "3-80",
     "bit": "N",
-    "image_urls": ["https://takaratomyasia.com/img/product/910480/thumb-product-910480-BX601.jpg", "https://takaratomyasia.com/img/product/910404/thumb-product-910404-D01.jpg"]
+    "image_urls": [
+      "https://takaratomyasia.com/img/product/910480/thumb-product-910480-BX601.jpg",
+      "https://takaratomyasia.com/img/product/910404/thumb-product-910404-D01.jpg"
+    ]
   },
   {
-    "id": "7c320d1c-2672-4445-b725-a37ec978fdef",
+    "id": "74df62b0-2aa2-4a2f-a214-98fa210f784b",
     "series": "BX",
     "product_codes": [
       "BX-08"
     ],
     "blade": "Hells Scythe",
+    "assist": "",
     "ratchet": "3-80",
     "bit": "B",
-    "image_urls": ["https://takaratomyasia.com/img/product/910572/thumb-product-910572-C2.jpg"]
+    "image_urls": [
+      "https://takaratomyasia.com/img/product/910572/thumb-product-910572-C2.jpg"
+    ]
   },
   {
-    "id": "bc912b40-65d6-4b5c-a6c2-086145a106ba",
+    "id": "ae75f8b5-f7c0-41df-ae8e-c570ea925f08",
     "series": "BX",
     "product_codes": [
       "BX-08"
     ],
     "blade": "Wizard Arrow",
+    "assist": "",
     "ratchet": "4-60",
     "bit": "N",
-    "image_urls": ["https://takaratomyasia.com/img/product/910572/thumb-product-910572-C3.jpg"]
+    "image_urls": [
+      "https://takaratomyasia.com/img/product/910572/thumb-product-910572-C3.jpg"
+    ]
   },
   {
-    "id": "7a176a25-bfee-4400-a066-f54028f3b04a",
+    "id": "d7ef8ed4-1d23-4c6a-a34d-52eb72a662dd",
     "series": "BX",
     "product_codes": [
       "BX-08"
     ],
     "blade": "Knight Shield",
+    "assist": "",
     "ratchet": "4-80",
     "bit": "T",
-    "image_urls": ["https://takaratomyasia.com/img/product/910572/thumb-product-910572-C4.jpg?20240627_155331"]
+    "image_urls": [
+      "https://takaratomyasia.com/img/product/910572/thumb-product-910572-C4.jpg?20240627_155331"
+    ]
   },
   {
-    "id": "9a678cfa-2dac-4d93-ae47-8bcedf801210",
+    "id": "d703358c-0cf4-4aab-9aab-43bf57f74733",
     "series": "BX",
     "product_codes": [
       "BX-13"
     ],
     "blade": "Knight Lance",
+    "assist": "",
     "ratchet": "4-80",
     "bit": "HN",
-    "image_urls": ["https://takaratomyasia.com/img/product/910565/thumb-product-910565-A1.jpg"]
+    "image_urls": [
+      "https://takaratomyasia.com/img/product/910565/thumb-product-910565-A1.jpg"
+    ]
   },
   {
-    "id": "235eaa4f-fb40-434e-a38e-3eb4dde88c68",
+    "id": "e6afe419-c477-423d-84c9-0d7f0897023e",
     "series": "BX",
     "product_codes": [
       "BX-14 01"
     ],
     "blade": "Shark Edge",
+    "assist": "",
     "ratchet": "3-60",
     "bit": "LF",
-    "image_urls": ["https://static.wikia.nocookie.net/beyblade/images/7/7c/SharkEdge_3-60LF.png/revision/latest"]
+    "image_urls": [
+      "https://static.wikia.nocookie.net/beyblade/images/7/7c/SharkEdge_3-60LF.png/revision/latest"
+    ]
   },
   {
-    "id": "d0b89152-1523-4d16-bf89-091fb455398d",
+    "id": "46a47087-80d3-4f62-a652-28b7709d23b6",
     "series": "BX",
     "product_codes": [
       "BX-14 02"
     ],
     "blade": "Shark Edge",
+    "assist": "",
     "ratchet": "4-80",
     "bit": "N",
-    "image_urls": ["https://static.wikia.nocookie.net/beyblade/images/8/8b/SharkEdge_4-80N.png/revision/latest"]
+    "image_urls": [
+      "https://static.wikia.nocookie.net/beyblade/images/8/8b/SharkEdge_4-80N.png/revision/latest"
+    ]
   },
   {
-    "id": "e55ba667-cf29-4d43-84d8-ddf291fd5b93",
+    "id": "9ec7cf5b-8431-4543-a54e-cf1c4ffc8d8f",
     "series": "BX",
     "product_codes": [
       "BX-14 03"
     ],
     "blade": "Dran Sword",
+    "assist": "",
     "ratchet": "3-80",
     "bit": "B",
-    "image_urls": ["https://static.wikia.nocookie.net/beyblade/images/7/79/DranSword_3-80B.png/revision/latest"]
+    "image_urls": [
+      "https://static.wikia.nocookie.net/beyblade/images/7/79/DranSword_3-80B.png/revision/latest"
+    ]
   },
   {
-    "id": "215acee1-09ac-4ea8-9edc-ad0d3dcb7d00",
+    "id": "73b5047e-9315-4a0e-a045-3db609ecf14e",
     "series": "BX",
     "product_codes": [
       "BX-14 04"
     ],
     "blade": "Hells Scythe",
+    "assist": "",
     "ratchet": "4-80",
     "bit": "LF",
-    "image_urls": ["https://static.wikia.nocookie.net/beyblade/images/0/08/HellsScythe_4-80LF.png/revision/latest"]
+    "image_urls": [
+      "https://static.wikia.nocookie.net/beyblade/images/0/08/HellsScythe_4-80LF.png/revision/latest"
+    ]
   },
   {
-    "id": "8ebe1443-6ccd-47fc-b3ce-f8ce8685dd90",
+    "id": "7e96ae76-ae19-4829-b3cb-4d30ab33ba6a",
     "series": "BX",
     "product_codes": [
       "BX-14 05"
     ],
     "blade": "Knight Shield",
+    "assist": "",
     "ratchet": "4-60",
     "bit": "LF",
-    "image_urls": ["https://static.wikia.nocookie.net/beyblade/images/3/3c/KnightShield_4-60LF.png/revision/latest"]
+    "image_urls": [
+      "https://static.wikia.nocookie.net/beyblade/images/3/3c/KnightShield_4-60LF.png/revision/latest"
+    ]
   },
   {
-    "id": "15e73d45-5453-4eec-bf34-801c529213e1",
+    "id": "a88f9251-467c-4687-8f92-266f2a55249d",
     "series": "BX",
     "product_codes": [
       "BX-14 06"
     ],
     "blade": "Wizard Arrow",
+    "assist": "",
     "ratchet": "3-60",
     "bit": "T",
-    "image_urls": ["https://static.wikia.nocookie.net/beyblade/images/2/2b/WizardArrow_3-60T.png/revision/latest"]
+    "image_urls": [
+      "https://static.wikia.nocookie.net/beyblade/images/2/2b/WizardArrow_3-60T.png/revision/latest"
+    ]
   },
   {
-    "id": "27a7e929-80f3-4ac9-96c8-3dfd86fe4af4",
+    "id": "d233bb02-c40c-486e-89d9-e56798033ffe",
     "series": "BX",
     "product_codes": [
       "BX-15"
     ],
     "blade": "Leon Claw",
+    "assist": "",
     "ratchet": "5-60",
     "bit": "P",
     "image_urls": [
@@ -177,12 +217,13 @@
     ]
   },
   {
-    "id": "0e4964cf-405f-4799-a55c-4b7f3bc8b793",
+    "id": "ccd8eb53-4a55-4b22-837b-0797ed2f9b8f",
     "series": "BX",
     "product_codes": [
       "BX-16 01"
     ],
     "blade": "Viper Tail",
+    "assist": "",
     "ratchet": "5-80",
     "bit": "O",
     "image_urls": [
@@ -190,12 +231,13 @@
     ]
   },
   {
-    "id": "e2b0b067-041d-434e-b82f-8396ca76e16e",
+    "id": "163fd757-9fca-42a5-bd15-c3c5bbd83f6b",
     "series": "BX",
     "product_codes": [
       "BX-16"
     ],
     "blade": "Viper Tail",
+    "assist": "",
     "ratchet": "3-80",
     "bit": "HN",
     "image_urls": [
@@ -203,12 +245,13 @@
     ]
   },
   {
-    "id": "49da2781-d5c1-4780-9ccd-5ea43d88410f",
+    "id": "d96dbda7-9dfc-4419-84fd-0e0355a489c6",
     "series": "BX",
     "product_codes": [
       "BX-16"
     ],
     "blade": "Viper Tail",
+    "assist": "",
     "ratchet": "4-60",
     "bit": "F",
     "image_urls": [
@@ -216,12 +259,13 @@
     ]
   },
   {
-    "id": "6ec053d4-8575-4c31-8f6a-857cb1da9631",
+    "id": "e257d8e8-9772-48d7-a228-201f152f23f7",
     "series": "BX",
     "product_codes": [
       "BX-19"
     ],
     "blade": "Rhino Horn",
+    "assist": "",
     "ratchet": "3-80",
     "bit": "S",
     "image_urls": [
@@ -229,12 +273,13 @@
     ]
   },
   {
-    "id": "c1555416-e1d9-4e9b-861f-656e7b14304b",
+    "id": "634aeb73-b253-438b-bbe5-da7ddb7b16d0",
     "series": "BX",
     "product_codes": [
       "BX-20"
     ],
     "blade": "Dran Dagger",
+    "assist": "",
     "ratchet": "4-60",
     "bit": "R",
     "image_urls": [
@@ -242,12 +287,13 @@
     ]
   },
   {
-    "id": "540cb54f-6319-433e-8f57-de73801b126c",
+    "id": "8aa2c7d4-f462-467f-b1fd-5ad178533d4f",
     "series": "BX",
     "product_codes": [
       "BX-20"
     ],
     "blade": "Shark Edge",
+    "assist": "",
     "ratchet": "3-80",
     "bit": "F",
     "image_urls": [
@@ -255,12 +301,13 @@
     ]
   },
   {
-    "id": "bb8daf74-db96-4972-a943-f025a65e0585",
+    "id": "1e590265-c5d6-42d5-b81a-7987e25056a6",
     "series": "BX",
     "product_codes": [
       "BX-20"
     ],
     "blade": "Knight Shield",
+    "assist": "",
     "ratchet": "5-80",
     "bit": "T",
     "image_urls": [
@@ -268,12 +315,13 @@
     ]
   },
   {
-    "id": "8049441b-147e-4745-a6d5-2fa7091ee8af",
+    "id": "2f238775-68aa-4feb-b2d0-ff3a6fd2b5c6",
     "series": "BX",
     "product_codes": [
       "BX-21"
     ],
     "blade": "Hells Chain",
+    "assist": "",
     "ratchet": "5-60",
     "bit": "HT",
     "image_urls": [
@@ -281,12 +329,13 @@
     ]
   },
   {
-    "id": "6b42c0a0-0968-4169-bd1f-1a15b1a9a922",
+    "id": "cce793ba-2a67-4780-8255-e68afbd679a5",
     "series": "BX",
     "product_codes": [
       "BX-21"
     ],
     "blade": "Knight Lance",
+    "assist": "",
     "ratchet": "3-60",
     "bit": "LF",
     "image_urls": [
@@ -294,12 +343,13 @@
     ]
   },
   {
-    "id": "9a1bbdc0-b43f-424d-8d7e-29f298679df0",
+    "id": "bab07c6a-fbac-4378-8965-5d1e10f68e5c",
     "series": "BX",
     "product_codes": [
       "BX-21"
     ],
     "blade": "Wizard Arrow",
+    "assist": "",
     "ratchet": "4-80",
     "bit": "N",
     "image_urls": [
@@ -307,12 +357,13 @@
     ]
   },
   {
-    "id": "0a13d9f3-f652-48e8-a720-2826006152a8",
+    "id": "d0f2bc1d-a1d9-41c0-928c-327daadc1601",
     "series": "BX",
     "product_codes": [
       "BX-23"
     ],
     "blade": "Phoenix Wing",
+    "assist": "",
     "ratchet": "9-60",
     "bit": "GF",
     "image_urls": [
@@ -321,12 +372,13 @@
     ]
   },
   {
-    "id": "62bdc409-be54-4f02-9443-51b19feb4982",
+    "id": "3faa7102-accf-4ef2-be1b-32daf669cd67",
     "series": "BX",
     "product_codes": [
       "BX-24"
     ],
     "blade": "Wyvern Gale",
+    "assist": "",
     "ratchet": "5-80",
     "bit": "GB",
     "image_urls": [
@@ -334,12 +386,13 @@
     ]
   },
   {
-    "id": "a034651b-4fa5-4ebc-9533-993e5a97fd32",
+    "id": "f08a04a8-616a-4527-84b6-ce862b30bddd",
     "series": "BX",
     "product_codes": [
       "BX-24 02"
     ],
     "blade": "Wyvern Gale",
+    "assist": "",
     "ratchet": "3-60",
     "bit": "T",
     "image_urls": [
@@ -347,12 +400,13 @@
     ]
   },
   {
-    "id": "34fcfa82-a39a-4406-b9cd-87ad061bf71a",
+    "id": "353846e6-ef6e-47d2-9664-00deaaa865bd",
     "series": "BX",
     "product_codes": [
       "BX-24 03"
     ],
     "blade": "Knight Lance",
+    "assist": "",
     "ratchet": "4-60",
     "bit": "GB",
     "image_urls": [
@@ -360,12 +414,13 @@
     ]
   },
   {
-    "id": "e8b1d4de-7e6a-4ff9-897d-c2f54ce4ac94",
+    "id": "8e64a14a-d768-4540-ac61-cecd502ade83",
     "series": "BX",
     "product_codes": [
       "BX-24 04"
     ],
     "blade": "Viper Tail",
+    "assist": "",
     "ratchet": "5-60",
     "bit": "F",
     "image_urls": [
@@ -373,12 +428,13 @@
     ]
   },
   {
-    "id": "71efbec8-c03f-4b5b-801e-bbbebff59c02",
+    "id": "9f50fe87-98ed-4e62-8221-179711fd7332",
     "series": "BX",
     "product_codes": [
       "BX-24 05"
     ],
     "blade": "Leon Claw",
+    "assist": "",
     "ratchet": "3-80",
     "bit": "HN",
     "image_urls": [
@@ -386,12 +442,13 @@
     ]
   },
   {
-    "id": "7f08dbea-4235-435d-b217-7f96949118b9",
+    "id": "6edf8c9b-7cc2-4163-956e-0ecbf15a0c93",
     "series": "BX",
     "product_codes": [
       "BX-24 06"
     ],
     "blade": "Wizard Arrow",
+    "assist": "",
     "ratchet": "4-80",
     "bit": "GB",
     "image_urls": [
@@ -399,12 +456,13 @@
     ]
   },
   {
-    "id": "8a69589f-9ee0-4ce4-9d95-e829c5651fd8",
+    "id": "f448a45f-9325-47df-918e-9d84fa5a15c4",
     "series": "BX",
     "product_codes": [
       "BX-26"
     ],
     "blade": "Unicorn Sting",
+    "assist": "",
     "ratchet": "5-60",
     "bit": "GP",
     "image_urls": [
@@ -412,12 +470,13 @@
     ]
   },
   {
-    "id": "dfc3163b-5da2-44bf-8b19-ff06b5717e58",
+    "id": "7e5c041e-acf3-46ad-8cc3-9484385b9157",
     "series": "BX",
     "product_codes": [
       "BX-27 01"
     ],
     "blade": "Sphinx Cowl",
+    "assist": "",
     "ratchet": "9-80",
     "bit": "GN",
     "image_urls": [
@@ -425,12 +484,13 @@
     ]
   },
   {
-    "id": "befb7d46-8bf0-4450-b9e7-8a1d1800028d",
+    "id": "e6c0c45f-572e-4ca3-9ad8-f546f69df8e2",
     "series": "BX",
     "product_codes": [
       "BX-27 02"
     ],
     "blade": "Sphinx Cowl",
+    "assist": "",
     "ratchet": "4-60",
     "bit": "HT",
     "image_urls": [
@@ -438,12 +498,13 @@
     ]
   },
   {
-    "id": "33b32300-371e-4135-977b-6bb95df7e49f",
+    "id": "9e20a05f-4651-47d3-bdc2-4c5b0a39ef35",
     "series": "BX",
     "product_codes": [
       "BX-27 03"
     ],
     "blade": "Sphinx Cowl",
+    "assist": "",
     "ratchet": "5-60",
     "bit": "O",
     "image_urls": [
@@ -451,12 +512,13 @@
     ]
   },
   {
-    "id": "76774b8b-289d-48ea-9827-655a9b8ca09a",
+    "id": "ab2fc793-f428-446d-b152-22161e7693b6",
     "series": "BX",
     "product_codes": [
       "BX-31 01"
     ],
     "blade": "Tyranno Beat",
+    "assist": "",
     "ratchet": "4-70",
     "bit": "Q",
     "image_urls": [
@@ -464,12 +526,13 @@
     ]
   },
   {
-    "id": "45425f14-ae9a-4651-9784-03d7b7b2d5c4",
+    "id": "5ba9387c-fa27-4619-85f1-b7bba022832b",
     "series": "BX",
     "product_codes": [
       "BX-31 02"
     ],
     "blade": "Tyranno Beat",
+    "assist": "",
     "ratchet": "3-60",
     "bit": "S",
     "image_urls": [
@@ -477,12 +540,13 @@
     ]
   },
   {
-    "id": "6f1df153-7e25-43ef-81cd-0a9e5f30b914",
+    "id": "1bcfe90c-1b0b-4a22-84e8-7db7a2508591",
     "series": "BX",
     "product_codes": [
       "BX-31 03"
     ],
     "blade": "Hells Chain",
+    "assist": "",
     "ratchet": "9-80",
     "bit": "O",
     "image_urls": [
@@ -490,12 +554,13 @@
     ]
   },
   {
-    "id": "d977b6a6-0eab-44ae-849e-af70308acbe4",
+    "id": "d250b837-2971-4111-814d-bd649ff6948a",
     "series": "BX",
     "product_codes": [
       "BX-31 04"
     ],
     "blade": "Dran Dagger",
+    "assist": "",
     "ratchet": "4-70",
     "bit": "P",
     "image_urls": [
@@ -503,12 +568,13 @@
     ]
   },
   {
-    "id": "6cb6163e-bad9-4258-8a27-c592fa89cef2",
+    "id": "18ffe5d4-5b58-4a42-8f5c-cc96a6f42f6c",
     "series": "BX",
     "product_codes": [
       "BX-31 05"
     ],
     "blade": "Shark Edge",
+    "assist": "",
     "ratchet": "1-60",
     "bit": "Q",
     "image_urls": [
@@ -516,12 +582,13 @@
     ]
   },
   {
-    "id": "d1253214-789e-4dc6-b7ee-c8bb604f0557",
+    "id": "71656b37-f6da-4a75-9079-772ae3003008",
     "series": "BX",
     "product_codes": [
       "BX-31 06"
     ],
     "blade": "Rhino Horn",
+    "assist": "",
     "ratchet": "5-80",
     "bit": "Q",
     "image_urls": [
@@ -529,12 +596,13 @@
     ]
   },
   {
-    "id": "ef8ce559-ceef-4d51-aa9d-2a175425f3d4",
+    "id": "0a74baf5-d1cd-4ac1-a3ff-0467142f7ff9",
     "series": "BX",
     "product_codes": [
       "BX-33"
     ],
     "blade": "Weiss Tiger",
+    "assist": "",
     "ratchet": "3-60",
     "bit": "U",
     "image_urls": [
@@ -542,12 +610,13 @@
     ]
   },
   {
-    "id": "5d133b04-4623-4e82-aa37-636023a17e98",
+    "id": "0066fa0c-17be-47ec-adf7-ad5ad58db621",
     "series": "BX",
     "product_codes": [
       "BX-34"
     ],
     "blade": "Cobalt Dragoon",
+    "assist": "",
     "ratchet": "2-60",
     "bit": "C",
     "image_urls": [
@@ -555,12 +624,13 @@
     ]
   },
   {
-    "id": "3e932eff-d8be-4157-81c2-c52d986a390e",
+    "id": "82f082cf-62ef-49a8-8217-ae5aa0944370",
     "series": "BX",
     "product_codes": [
       "BX-35 01"
     ],
     "blade": "Black Shell",
+    "assist": "",
     "ratchet": "4-60",
     "bit": "D",
     "image_urls": [
@@ -568,12 +638,13 @@
     ]
   },
   {
-    "id": "a755aaa1-17fc-4fdb-b586-6615cad8153c",
+    "id": "58494b0b-f09e-4c4b-94e6-b721e22597f3",
     "series": "BX",
     "product_codes": [
       "BX-35 02"
     ],
     "blade": "Black Shell",
+    "assist": "",
     "ratchet": "9-80",
     "bit": "B",
     "image_urls": [
@@ -581,12 +652,13 @@
     ]
   },
   {
-    "id": "0fa5549d-11ee-4fdf-9093-55c4c31cb3a1",
+    "id": "2767dcdc-f190-443a-b16e-6e58bc9d952a",
     "series": "BX",
     "product_codes": [
       "BX-35 03"
     ],
     "blade": "Unicorn Sting",
+    "assist": "",
     "ratchet": "3-70",
     "bit": "D",
     "image_urls": [
@@ -594,12 +666,13 @@
     ]
   },
   {
-    "id": "1555c354-92d2-44d6-906c-ef1e0672cadd",
+    "id": "51d20811-87b1-4a97-8252-79bfbb4edb0d",
     "series": "BX",
     "product_codes": [
       "BX-35 04"
     ],
     "blade": "Wizard Rod",
+    "assist": "",
     "ratchet": "1-60",
     "bit": "R",
     "image_urls": [
@@ -607,56 +680,69 @@
     ]
   },
   {
-    "id": "0ec812e2-99a4-419b-936e-b1f035089f58",
+    "id": "597daf16-8477-4c7b-9230-d833e7284098",
     "series": "BX",
     "product_codes": [
       "BX-35 05"
     ],
     "blade": "Phoenix Wing",
+    "assist": "",
     "ratchet": "5-80",
     "bit": "H",
-    "image_urls": ["https://static.wikia.nocookie.net/beyblade/images/0/02/PhoenixWing_5-80H.jpeg/revision/latest"]
+    "image_urls": [
+      "https://static.wikia.nocookie.net/beyblade/images/0/02/PhoenixWing_5-80H.jpeg/revision/latest"
+    ]
   },
   {
-    "id": "207cede6-75ef-42e5-a3ee-b59f1e9eb2f6",
+    "id": "79e9b5b8-a207-494a-8461-b02426593bd0",
     "series": "BX",
     "product_codes": [
       "BX-35 06"
     ],
     "blade": "Viper Tail",
+    "assist": "",
     "ratchet": "5-70",
     "bit": "D",
-    "image_urls": ["https://static.wikia.nocookie.net/beyblade/images/c/c8/ViperTail_5-70D.jpeg/revision/latest"]
+    "image_urls": [
+      "https://static.wikia.nocookie.net/beyblade/images/c/c8/ViperTail_5-70D.jpeg/revision/latest"
+    ]
   },
   {
-    "id": "fad9489e-41cb-4fc8-8d47-4d9afec1155e",
+    "id": "3ddbba3c-46bd-43d1-a975-380ece9d9e6a",
     "series": "BX",
     "product_codes": [
       "BX-36 01"
     ],
     "blade": "Whale Wave",
+    "assist": "",
     "ratchet": "5-80",
     "bit": "E",
-    "image_urls": ["https://static.wikia.nocookie.net/beyblade/images/2/2e/WhaleWave_5-80E.png/revision/latest"]
+    "image_urls": [
+      "https://static.wikia.nocookie.net/beyblade/images/2/2e/WhaleWave_5-80E.png/revision/latest"
+    ]
   },
   {
-    "id": "d663d567-045f-41a7-8480-3a845929e578",
+    "id": "c8f540c1-8091-4440-885f-369a9fa385bb",
     "series": "BX",
     "product_codes": [
       "BX-36 02"
     ],
     "blade": "Whale Wave",
+    "assist": "",
     "ratchet": "4-70",
     "bit": "HN",
-    "image_urls": ["https://static.wikia.nocookie.net/beyblade/images/5/59/WhaleWave_4-70HN.png/revision/latest"]
+    "image_urls": [
+      "https://static.wikia.nocookie.net/beyblade/images/5/59/WhaleWave_4-70HN.png/revision/latest"
+    ]
   },
   {
-    "id": "73ea43ae-8b7a-449a-86e4-a69b3d0e0d5d",
+    "id": "6226b604-f6e0-46bc-bcee-22762dafe196",
     "series": "BX",
     "product_codes": [
       "BX-36 03"
     ],
     "blade": "Whale Wave",
+    "assist": "",
     "ratchet": "3-80",
     "bit": "GB",
     "image_urls": [
@@ -664,12 +750,13 @@
     ]
   },
   {
-    "id": "1b43b6b5-c76e-49d5-8ebc-9c94b2fb4aad",
+    "id": "98686da2-a582-419a-97e7-edba54c74aa0",
     "series": "BX",
     "product_codes": [
       "BX-37"
     ],
     "blade": "Bear Scratch",
+    "assist": "",
     "ratchet": "5-60",
     "bit": "F",
     "image_urls": [
@@ -677,12 +764,13 @@
     ]
   },
   {
-    "id": "96accf19-21a9-4daf-80a1-b7467f5ea619",
+    "id": "9c37447a-f5a8-4f1d-9a26-ccdb62f7f512",
     "series": "BX",
     "product_codes": [
       "BX-38"
     ],
     "blade": "Crimson Garuda",
+    "assist": "",
     "ratchet": "4-70",
     "bit": "TP",
     "image_urls": [
@@ -690,12 +778,13 @@
     ]
   },
   {
-    "id": "cb0d976d-6add-4d38-80dc-8373c0273387",
+    "id": "0180a6a8-b951-4bcb-80f0-ec4d5b67d0d4",
     "series": "BX",
     "product_codes": [
       "BX-39 01"
     ],
     "blade": "Shelter Drake",
+    "assist": "",
     "ratchet": "7-80",
     "bit": "GP",
     "image_urls": [
@@ -703,12 +792,13 @@
     ]
   },
   {
-    "id": "54c03041-6bd9-4549-99b1-db35be4773fe",
+    "id": "23a171f0-964f-4607-92f4-3588f574d5a5",
     "series": "BX",
     "product_codes": [
       "BX-39 02"
     ],
     "blade": "Shelter Drake",
+    "assist": "",
     "ratchet": "5-70",
     "bit": "O",
     "image_urls": [
@@ -716,12 +806,13 @@
     ]
   },
   {
-    "id": "ca9da9c9-6a59-45cb-a542-ca076e1fff64",
+    "id": "1d2eac61-0735-43ee-a6c9-8d777c8247d4",
     "series": "BX",
     "product_codes": [
       "BX-39 03"
     ],
     "blade": "Shelter Drake",
+    "assist": "",
     "ratchet": "3-60",
     "bit": "O",
     "image_urls": [
@@ -729,13 +820,14 @@
     ]
   },
   {
-    "id": "a2c8bc11-5e79-468d-86fc-8f63840ebac6",
+    "id": "b63dd677-bd2f-499b-9aa6-bcd99c6d7792",
     "series": "BX",
     "product_codes": [
       "BX-00",
       "BXH-01"
     ],
     "blade": "Cobalt Drake",
+    "assist": "",
     "ratchet": "4-60",
     "bit": "F",
     "image_urls": [
@@ -743,43 +835,46 @@
     ]
   },
   {
-    "id": "7601a809-6aff-4c93-aeeb-7d388cb87e2d",
+    "id": "f945f3f3-8f2d-4b68-8fbd-2cb133be98e9",
     "series": "BX",
     "product_codes": [
       "BX-00",
       "BXG-00"
     ],
     "blade": "Hells Chain",
+    "assist": "",
     "ratchet": "5-60",
     "bit": "HT",
     "image_urls": []
   },
   {
-    "id": "cabe2bb5-13cb-4571-8918-c2d55cb3d00b",
+    "id": "87f2ea81-7c4f-4696-b435-f66846cd8679",
     "series": "BX",
     "product_codes": [
       "BX-00",
       "BXG-01"
     ],
     "blade": "Dranzer Spiral",
+    "assist": "",
     "ratchet": "3-80",
     "bit": "T",
     "image_urls": []
   },
   {
-    "id": "e06214da-f574-4a41-b1a2-fe89d3a86a41",
+    "id": "8cfafc03-99db-4d45-998f-ccb81aa9471f",
     "series": "BX",
     "product_codes": [
       "BX-00",
       "BXG-03"
     ],
     "blade": "Hells Scythe",
+    "assist": "",
     "ratchet": "4-60",
     "bit": "T",
     "image_urls": []
   },
   {
-    "id": "bb89ed93-d9ba-41c7-a717-769313db3cd2",
+    "id": "a81c2345-72bf-40a3-9164-2ecdaad67799",
     "series": "BX",
     "product_codes": [
       "BX-00",
@@ -787,248 +882,270 @@
       "BX-00"
     ],
     "blade": "Phoenix Feather",
+    "assist": "",
     "ratchet": "",
     "bit": "",
     "image_urls": []
   },
   {
-    "id": "ed1bbc76-5a4d-43c2-8a63-84bc61be5abf",
+    "id": "40232d6d-a064-4951-bebd-c79ec0abc98d",
     "series": "BX",
     "product_codes": [
       "BX-00",
       "SP X"
     ],
     "blade": "Hells Scythe",
+    "assist": "",
     "ratchet": "3-80",
     "bit": "F",
     "image_urls": []
   },
   {
-    "id": "7bc01360-1bd6-4d24-9dd8-2a14d4337290",
+    "id": "d903e83a-4516-4fbc-8463-0461f6c863da",
     "series": "BX",
     "product_codes": [
       "BX-00",
       "BXG-05"
     ],
     "blade": "Leon Claw",
+    "assist": "",
     "ratchet": "5-60",
     "bit": "P",
     "image_urls": []
   },
   {
-    "id": "a7f2bcbc-ffa3-4322-a440-e044491dd497",
+    "id": "7b227f0a-7564-49dc-9922-90b69833c7eb",
     "series": "BX",
     "product_codes": [
       "BX-00",
       "BXG-06"
     ],
     "blade": "Shark Edge",
+    "assist": "",
     "ratchet": "5-60",
     "bit": "GF",
     "image_urls": []
   },
   {
-    "id": "ee006873-908f-41ae-9efa-5853c8eeb39f",
+    "id": "1f898807-35e0-4180-8d23-05e23ac50c99",
     "series": "BX",
     "product_codes": [
       "BX-00",
       "BXG-04"
     ],
     "blade": "Driger S",
+    "assist": "",
     "ratchet": "",
     "bit": "",
     "image_urls": []
   },
   {
-    "id": "a0700d82-8a99-4c6a-8ad0-f30bbd5dbc9d",
+    "id": "69ba0e91-62b9-470b-b338-c5c963c30c97",
     "series": "BX",
     "product_codes": [
       "BX-00"
     ],
     "blade": "Dran Sword Metal Coat Blue",
+    "assist": "",
     "ratchet": "",
     "bit": "",
     "image_urls": []
   },
   {
-    "id": "87f66f37-f988-405f-b0a5-30b30e29c204",
+    "id": "33445d41-9851-495f-a094-9ba73635dd8c",
     "series": "BX",
     "product_codes": [
       "BX-00 Giants"
     ],
     "blade": "Dran Dagger",
+    "assist": "",
     "ratchet": "2-80",
     "bit": "GP",
     "image_urls": []
   },
   {
-    "id": "e6fbe47e-f007-44d8-af6b-1315a382b2e2",
+    "id": "575aa0bb-3b82-44c4-aeb4-13d96b8dfc6e",
     "series": "BX",
     "product_codes": [
       "BX-00"
     ],
     "blade": "Cobalt Dragoon",
+    "assist": "",
     "ratchet": "2-60",
     "bit": "C",
     "image_urls": []
   },
   {
-    "id": "24d34abd-15f8-4925-9e9c-202ba864fbe6",
+    "id": "8a1a0c5c-39bf-45f9-8186-c2529c41979f",
     "series": "BX",
     "product_codes": [
       "BX-00"
     ],
     "blade": "Lightning L-Drago (Rapid Hit)",
+    "assist": "",
     "ratchet": "1-60",
     "bit": "F",
     "image_urls": []
   },
   {
-    "id": "ec16ae88-4ea6-45cf-b6bd-019590065d33",
+    "id": "a2002f73-b8ec-4ec2-ad3b-2e82c697ca39",
     "series": "BX",
     "product_codes": [
       "BX-00"
     ],
     "blade": "Lightning L-Drago (Upper)",
+    "assist": "",
     "ratchet": "1-60",
     "bit": "F",
     "image_urls": []
   },
   {
-    "id": "9dea2abd-9ad3-4e1d-8135-833931e57634",
+    "id": "18973359-a7ac-4935-b6ab-3b5f16568ca7",
     "series": "BX",
     "product_codes": [
       "BX-00",
       "BXC-05"
     ],
     "blade": "Phoenix Wing",
+    "assist": "",
     "ratchet": "9-80",
     "bit": "DB",
     "image_urls": []
   },
   {
-    "id": "ae33ae06-9529-4acd-bd8b-d7e5cacd62d2",
+    "id": "36be065e-2336-4b41-b025-7830e9778be0",
     "series": "BX",
     "product_codes": [
       "BX-00"
     ],
     "blade": "Knife Shinobi",
+    "assist": "",
     "ratchet": "4-60",
     "bit": "LF",
     "image_urls": []
   },
   {
-    "id": "33b3ad33-1d01-4084-b323-c408f0be21a6",
+    "id": "9c94a170-f1ca-4dbe-86e4-1a3fa8ed92c1",
     "series": "BX",
     "product_codes": [
       "BX-00"
     ],
     "blade": "Dran Dagger",
+    "assist": "",
     "ratchet": "9-60",
     "bit": "LF",
     "image_urls": []
   },
   {
-    "id": "6db5ac6a-71f9-45fb-8ceb-570c2092b820",
+    "id": "66fc302d-e3f6-450b-bb7a-b42de635e50a",
     "series": "BX",
     "product_codes": [
       "BX-00"
     ],
     "blade": "Dran Sword",
+    "assist": "",
     "ratchet": "4-80",
     "bit": "DB",
     "image_urls": []
   },
   {
-    "id": "1b70dd4a-543c-4bc0-a08b-e8e515a82284",
+    "id": "62a5bc02-60cd-4efc-9b30-add1a76db843",
     "series": "BX",
     "product_codes": [
       "BX-00"
     ],
     "blade": "Draciel Shield",
+    "assist": "",
     "ratchet": "7-60",
     "bit": "D",
     "image_urls": []
   },
   {
-    "id": "09b17b06-f382-4575-8a0f-88e22c10a85e",
+    "id": "fcd8e491-0180-453b-b463-9c6faba12798",
     "series": "BX",
     "product_codes": [
       "BX-00"
     ],
     "blade": "Mammoth Tusk",
+    "assist": "",
     "ratchet": "2-80",
     "bit": "E",
     "image_urls": []
   },
   {
-    "id": "103fb0ec-b962-4fa7-aa83-3cbfe14b3e63",
+    "id": "4ed2994d-94f5-4aa4-8660-84bb683ae460",
     "series": "BX",
     "product_codes": [
       "BX-00"
     ],
     "blade": "Phoenix Wing",
+    "assist": "",
     "ratchet": "9-60",
     "bit": "GF",
     "image_urls": []
   },
   {
-    "id": "9c1f2080-b527-4026-801d-4ca2c2932c02",
+    "id": "fc81722d-a4b0-4204-9c39-4dfe19747898",
     "series": "BX",
     "product_codes": [
       "BX-00"
     ],
     "blade": "Croc Crunch",
+    "assist": "",
     "ratchet": "2-60",
     "bit": "Q",
     "image_urls": []
   },
   {
-    "id": "66a5695e-2ded-4a0f-9f71-d85517943534",
+    "id": "45365d01-1df8-4f0d-89c7-9cd1225d941b",
     "series": "BX",
     "product_codes": [
       "BX-00"
     ],
     "blade": "Xeno Xcalibur",
+    "assist": "",
     "ratchet": "3-60",
     "bit": "GF",
     "image_urls": []
   },
   {
-    "id": "ba9f3d7a-7fd2-4fba-9f99-684c647fac5e",
+    "id": "d31500ba-2616-486c-b897-4a5275971612",
     "series": "BX",
     "product_codes": [
       "BX-00"
     ],
     "blade": "Victory Valkyrie",
+    "assist": "",
     "ratchet": "2-60",
     "bit": "RA",
     "image_urls": []
   },
   {
-    "id": "4c92eac1-41da-46c4-9147-d123b4f8c322",
+    "id": "116113ec-7bcc-44ae-9c61-276a096d6daa",
     "series": "BX",
     "product_codes": [
       "BX-00"
     ],
     "blade": "Dragoon Storm",
+    "assist": "",
     "ratchet": "4-60",
     "bit": "RA",
     "image_urls": []
   },
   {
-    "id": "633ad44d-c8e1-4421-946e-bcade3aa5461",
+    "id": "fe0db736-1e8d-4b2c-9284-1fed5a314f8f",
     "series": "BX",
     "product_codes": [
       "BX-00"
     ],
     "blade": "Storm Pegasis",
+    "assist": "",
     "ratchet": "3-70",
     "bit": "RA",
     "image_urls": []
   },
   {
-    "id": "d96b3004-76db-429c-8a71-6044e436b37f",
+    "id": "042e7984-32c6-472f-9a62-2d1d4a221191",
     "series": "UX",
     "product_codes": [
       "UX-01",
@@ -1036,6 +1153,7 @@
       "UX-00"
     ],
     "blade": "Dran Buster",
+    "assist": "",
     "ratchet": "1-60",
     "bit": "A",
     "image_urls": [
@@ -1043,12 +1161,13 @@
     ]
   },
   {
-    "id": "b93a77d7-15b9-47c4-9dea-bbfad193bbe7",
+    "id": "69e24c30-7bbf-4944-8db6-59153891c91e",
     "series": "UX",
     "product_codes": [
       "UX-02"
     ],
     "blade": "Hells Hammer",
+    "assist": "",
     "ratchet": "3-70",
     "bit": "H",
     "image_urls": [
@@ -1056,7 +1175,7 @@
     ]
   },
   {
-    "id": "0a7b79e1-77e4-4bc0-aa45-924ee6c3d461",
+    "id": "b27c9af2-b2ef-40ab-a21d-bbcfabb1dfed",
     "series": "UX",
     "product_codes": [
       "UX-03",
@@ -1064,6 +1183,7 @@
       "UX-00"
     ],
     "blade": "Wizard Rod",
+    "assist": "",
     "ratchet": "5-70",
     "bit": "DB",
     "image_urls": [
@@ -1071,12 +1191,13 @@
     ]
   },
   {
-    "id": "7c88c9d3-d577-435b-bc17-06871eb6ff99",
+    "id": "b63149ed-82d3-4a9e-a67d-34c18fa3ca5f",
     "series": "UX",
     "product_codes": [
       "UX-05 01"
     ],
     "blade": "Shinobi Shadow",
+    "assist": "",
     "ratchet": "1-80",
     "bit": "MN",
     "image_urls": [
@@ -1084,12 +1205,13 @@
     ]
   },
   {
-    "id": "70cb189a-a1eb-455a-82d3-f714247cd20f",
+    "id": "1ad60f91-0b70-42d6-bd21-416c305bf38e",
     "series": "UX",
     "product_codes": [
       "UX-05 02"
     ],
     "blade": "Shinobi Shadow",
+    "assist": "",
     "ratchet": "9-60",
     "bit": "LF",
     "image_urls": [
@@ -1097,12 +1219,13 @@
     ]
   },
   {
-    "id": "380279df-3436-454b-825e-c27daea31a73",
+    "id": "0045b439-467d-49cf-ad93-7dd1ec4d4301",
     "series": "UX",
     "product_codes": [
       "UX-05 03"
     ],
     "blade": "Shinobi Shadow",
+    "assist": "",
     "ratchet": "3-70",
     "bit": "GP",
     "image_urls": [
@@ -1110,12 +1233,13 @@
     ]
   },
   {
-    "id": "5f60c03f-b548-4f34-ade1-7cac3a0dbaaf",
+    "id": "630141a9-06c6-4313-b83b-28a22ee39fca",
     "series": "UX",
     "product_codes": [
       "UX-06"
     ],
     "blade": "Leon Crest",
+    "assist": "",
     "ratchet": "7-60",
     "bit": "GN",
     "image_urls": [
@@ -1123,12 +1247,13 @@
     ]
   },
   {
-    "id": "3b32495c-adbe-46b2-9c80-c6d6f83cf57a",
+    "id": "4fa3afbb-2611-488b-97a1-6cbe03ef4e9e",
     "series": "UX",
     "product_codes": [
       "UX-07"
     ],
     "blade": "Phoenix Rudder",
+    "assist": "",
     "ratchet": "9-70",
     "bit": "G",
     "image_urls": [
@@ -1136,12 +1261,13 @@
     ]
   },
   {
-    "id": "536c78c4-309d-4ea1-af4a-e1c22ae95beb",
+    "id": "874a57ec-9292-4f9a-b7a5-efb1ca85318c",
     "series": "UX",
     "product_codes": [
       "UX-07"
     ],
     "blade": "Wyvern Gale",
+    "assist": "",
     "ratchet": "2-60",
     "bit": "S",
     "image_urls": [
@@ -1149,12 +1275,13 @@
     ]
   },
   {
-    "id": "1c73165c-7878-453e-ad2f-0699316cf71f",
+    "id": "fc913ef8-e5e1-4c56-8a90-f9ba15c637f1",
     "series": "UX",
     "product_codes": [
       "UX-07"
     ],
     "blade": "Sphinx Cowl",
+    "assist": "",
     "ratchet": "1-80",
     "bit": "GF",
     "image_urls": [
@@ -1162,12 +1289,13 @@
     ]
   },
   {
-    "id": "bac76b26-9c67-4b69-b1ba-03cc74c95046",
+    "id": "52cbcab1-0d8c-478c-8e42-4a9debd3cb66",
     "series": "UX",
     "product_codes": [
       "UX-08"
     ],
     "blade": "Silver Wolf",
+    "assist": "",
     "ratchet": "3-80",
     "bit": "FB",
     "image_urls": [
@@ -1175,12 +1303,13 @@
     ]
   },
   {
-    "id": "8fc921ef-986b-4181-80eb-41074e4de880",
+    "id": "6f655af7-771e-443a-8e03-88bb08859a42",
     "series": "UX",
     "product_codes": [
       "UX-09"
     ],
     "blade": "Samurai Saber",
+    "assist": "",
     "ratchet": "2-70",
     "bit": "L",
     "image_urls": [
@@ -1188,12 +1317,13 @@
     ]
   },
   {
-    "id": "893c51fe-24be-468b-982c-9af968b93fb8",
+    "id": "b283bc64-35e1-45cd-ba7e-e91519118d59",
     "series": "UX",
     "product_codes": [
       "UX-10"
     ],
     "blade": "Knight Mail",
+    "assist": "",
     "ratchet": "3-85",
     "bit": "BS",
     "image_urls": [
@@ -1201,69 +1331,75 @@
     ]
   },
   {
-    "id": "b084c35a-ed14-4f9a-9f08-0904d14d016c",
+    "id": "a896e00d-5741-4f40-88fe-1c07b6c7b6e5",
     "series": "UX",
     "product_codes": [
       "UX-10"
     ],
     "blade": "Ptera Swing",
+    "assist": "",
     "ratchet": "7-70",
     "bit": "B",
     "image_urls": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYYotqhJWmRlOduH_GIyBYAVg_VbQvai832g&s"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYYotqhJWmRlOduH_GIyBYAVg_VbQvai832g\u0026s"
     ]
   },
   {
-    "id": "d106754c-004c-4fb2-be47-09a3a1289bc5",
+    "id": "cb70e9bd-19fc-4dae-83f3-48f7252b4016",
     "series": "UX",
     "product_codes": [
       "UX-10"
     ],
     "blade": "Tyranno Beat",
+    "assist": "",
     "ratchet": "1-60",
     "bit": "RA",
     "image_urls": []
   },
   {
-    "id": "599ced27-cd21-4a3d-9cf2-0884a9fac8aa",
+    "id": "d856a63b-a6ea-45bf-b0bf-605e28f2c978",
     "series": "UX",
     "product_codes": [
       "UX-10"
     ],
     "blade": "Hells Hammer",
+    "assist": "",
     "ratchet": "",
     "bit": "P",
     "image_urls": []
   },
   {
-    "id": "599ced27-cd21-4a3d-9cf2-0884a9fac8ab",
+    "id": "a0ff883f-6d47-4f9a-9d3e-36a91970e83c",
     "series": "UX",
     "product_codes": [
       "UX-10"
     ],
     "blade": "Hells Hammer",
+    "assist": "",
     "ratchet": "",
     "bit": "MN",
     "image_urls": []
   },
   {
-    "id": "599ced27-cd21-4a3d-9cf2-0884a9fac8ac",
+    "id": "ab720635-d5de-4d8a-88e4-e6fe2950d2e3",
     "series": "UX",
     "product_codes": [
       "UX-10"
     ],
     "blade": "Hells Hammer",
+    "assist": "",
     "ratchet": "",
     "bit": "R",
     "image_urls": []
   },
   {
-    "id": "2493fd86-8f74-444a-80ba-894707705b1c",
+    "id": "395f8a3d-d6a3-419a-b502-67a04eb4970a",
     "series": "UX",
     "product_codes": [
       "UX-11"
     ],
     "blade": "Impact Drake",
+    "assist": "",
     "ratchet": "9-60",
     "bit": "LR",
     "image_urls": [
@@ -1271,12 +1407,13 @@
     ]
   },
   {
-    "id": "251f9a0f-c62b-4642-b1dc-259b31cac637",
+    "id": "7079b365-d035-4095-8ac1-22a6874fd074",
     "series": "UX",
     "product_codes": [
       "UX-12 01"
     ],
     "blade": "Ghost Circle",
+    "assist": "",
     "ratchet": "0-80",
     "bit": "GB",
     "image_urls": [
@@ -1284,12 +1421,13 @@
     ]
   },
   {
-    "id": "c8a248fa-df7c-4b81-b52e-677a3f0e7bea",
+    "id": "06104d68-49a9-4c71-9556-556b4d174887",
     "series": "UX",
     "product_codes": [
       "UX-12 02"
     ],
     "blade": "Ghost Circle",
+    "assist": "",
     "ratchet": "4-60",
     "bit": "H",
     "image_urls": [
@@ -1297,12 +1435,13 @@
     ]
   },
   {
-    "id": "9b86b8a5-b5a9-481f-878a-1dbc5cbbf946",
+    "id": "0daa6d01-ff46-4a58-b5d9-7d2497c1556d",
     "series": "UX",
     "product_codes": [
       "UX-12 03"
     ],
     "blade": "Shinobi Shadow",
+    "assist": "",
     "ratchet": "3-80",
     "bit": "F",
     "image_urls": [
@@ -1310,12 +1449,13 @@
     ]
   },
   {
-    "id": "92c90438-1d3c-4a33-9506-8123a3b7551f",
+    "id": "214d4ca5-5e19-4708-ac36-e7b04d659d13",
     "series": "UX",
     "product_codes": [
       "UX-12 04"
     ],
     "blade": "Leon Claw",
+    "assist": "",
     "ratchet": "0-80",
     "bit": "E",
     "image_urls": [
@@ -1323,12 +1463,13 @@
     ]
   },
   {
-    "id": "a72cea63-1b8b-4ae6-8848-f7a0da0d32a0",
+    "id": "e3a29b98-b55b-4199-8333-c32dfda05ae7",
     "series": "UX",
     "product_codes": [
       "UX-12 05"
     ],
     "blade": "Phoenix Feather",
+    "assist": "",
     "ratchet": "2-60",
     "bit": "N",
     "image_urls": [
@@ -1336,12 +1477,13 @@
     ]
   },
   {
-    "id": "d7f4bff9-4e20-4ff7-951d-79d39f044e46",
+    "id": "2636e996-0276-42f8-8fe2-9a17ed7e434b",
     "series": "UX",
     "product_codes": [
       "UX-12 06"
     ],
     "blade": "Wyvern Gale",
+    "assist": "",
     "ratchet": "0-80",
     "bit": "C",
     "image_urls": [
@@ -1349,12 +1491,13 @@
     ]
   },
   {
-    "id": "1e270c72-7661-45d4-b203-df34b7ade19d",
+    "id": "47bf42d9-75a3-4260-8301-471b6869d0e7",
     "series": "UX",
     "product_codes": [
       "UX-13"
     ],
     "blade": "Golem Rock",
+    "assist": "",
     "ratchet": "1-60",
     "bit": "UN",
     "image_urls": [
@@ -1362,12 +1505,13 @@
     ]
   },
   {
-    "id": "845da688-5593-46f0-a55c-4cba6b95253e",
+    "id": "5badb972-c693-42ec-8077-2953f93cfd65",
     "series": "UX",
     "product_codes": [
       "UX-14"
     ],
     "blade": "Scorpio Spear",
+    "assist": "",
     "ratchet": "0-70",
     "bit": "Z",
     "image_urls": [
@@ -1375,12 +1519,13 @@
     ]
   },
   {
-    "id": "845da688-5593-46f0-a55c-4cba6b95253d",
+    "id": "c7d268a1-8599-4e24-828f-02cbf7095f84",
     "series": "UX",
     "product_codes": [
       "UX-14"
     ],
     "blade": "Shark Scale",
+    "assist": "",
     "ratchet": "4-50",
     "bit": "UF",
     "image_urls": [
@@ -1388,12 +1533,13 @@
     ]
   },
   {
-    "id": "845da688-5593-46f0-a55c-4cba6b95253f",
+    "id": "48866129-cb6a-4f03-bc5d-1596c2a06f1c",
     "series": "UX",
     "product_codes": [
       "UX-14"
     ],
     "blade": "Tyranno Roar",
+    "assist": "",
     "ratchet": "1-70",
     "bit": "L",
     "image_urls": [
@@ -1401,12 +1547,13 @@
     ]
   },
   {
-    "id": "845da688-5593-46f0-a55c-4cba1b95253e",
+    "id": "5ee7a397-adc9-4d1c-bec2-1d7c11c00a23",
     "series": "UX",
     "product_codes": [
       "UX-14"
     ],
     "blade": "HellsBrave",
+    "assist": "",
     "ratchet": "J3-60",
     "bit": "GF",
     "image_urls": [
@@ -1414,24 +1561,26 @@
     ]
   },
   {
-    "id": "bc315f78-8b40-444f-bede-ef98234460de",
+    "id": "7efab7db-9070-4f79-b01f-b01705d94d07",
     "series": "UX",
     "product_codes": [
       "UX-00"
     ],
     "blade": "Aero Pegasus",
+    "assist": "",
     "ratchet": "3-70",
     "bit": "A",
     "image_urls": []
   },
   {
-    "id": "e8c5980c-033d-4a12-b9c9-4410f5b1523a",
+    "id": "e4e5b465-bb57-41cd-9fe0-8cff57732700",
     "series": "CX",
     "product_codes": [
       "CX-01",
       "CX-04"
     ],
     "blade": "Dran Brave",
+    "assist": "",
     "ratchet": "S6-60",
     "bit": "V",
     "image_urls": [
@@ -1439,12 +1588,13 @@
     ]
   },
   {
-    "id": "161bd5fe-6992-4051-b69e-6341ab7df998",
+    "id": "2fec358b-eda5-4554-a49c-f4dd4c8dd64a",
     "series": "CX",
     "product_codes": [
       "CX-02"
     ],
     "blade": "Wizard Arc",
+    "assist": "",
     "ratchet": "R4-55",
     "bit": "LO",
     "image_urls": [
@@ -1452,13 +1602,14 @@
     ]
   },
   {
-    "id": "d0d9c9fd-1174-427c-9ece-028a606662d0",
+    "id": "3af71c53-98ff-4f1f-8dca-e1e66ed68ecf",
     "series": "CX",
     "product_codes": [
       "CX-03",
       "CX-04"
     ],
     "blade": "Perseus Dark",
+    "assist": "",
     "ratchet": "B6-80",
     "bit": "W",
     "image_urls": [
@@ -1466,12 +1617,13 @@
     ]
   },
   {
-    "id": "3759773d-ef43-4915-b3c6-4f54c6aa000e",
+    "id": "b8558cc7-0a94-4158-8a9c-b18b7c609c87",
     "series": "CX",
     "product_codes": [
       "CX-05 01"
     ],
     "blade": "Hells Reaper",
+    "assist": "",
     "ratchet": "T4-70",
     "bit": "K",
     "image_urls": [
@@ -1479,12 +1631,13 @@
     ]
   },
   {
-    "id": "f1fddd42-55a9-4c91-bb54-d937b5dac2b3",
+    "id": "17982f68-7636-4d10-b0a0-42451276ae96",
     "series": "CX",
     "product_codes": [
       "CX-05 02"
     ],
     "blade": "Rhino Reaper",
+    "assist": "",
     "ratchet": "C4-55",
     "bit": "D",
     "image_urls": [
@@ -1492,12 +1645,13 @@
     ]
   },
   {
-    "id": "dd96cf2e-143d-400b-9e7c-98db5bdd7b7a",
+    "id": "9ce04b35-02e9-4722-af63-bde25bf832c7",
     "series": "CX",
     "product_codes": [
       "CX-05 03"
     ],
     "blade": "Hells Arc",
+    "assist": "",
     "ratchet": "T3-85",
     "bit": "O",
     "image_urls": [
@@ -1505,12 +1659,13 @@
     ]
   },
   {
-    "id": "b33a747e-5d58-44c5-8457-ee997e4bfafd",
+    "id": "e5d0ac39-7883-4ee8-9bad-c29ab9cc672f",
     "series": "CX",
     "product_codes": [
       "CX-05 04"
     ],
     "blade": "Leon Crest",
+    "assist": "",
     "ratchet": "9-80",
     "bit": "K",
     "image_urls": [
@@ -1518,12 +1673,13 @@
     ]
   },
   {
-    "id": "77a6b118-c62b-4066-8a81-71ba1183a6ea",
+    "id": "981b3fc7-4ab7-4f35-8ff7-5c44891c6b7e",
     "series": "CX",
     "product_codes": [
       "CX-05 05"
     ],
     "blade": "Phoenix Rudder",
+    "assist": "",
     "ratchet": "4-70",
     "bit": "LF",
     "image_urls": [
@@ -1531,12 +1687,13 @@
     ]
   },
   {
-    "id": "07a30bd2-7f62-49e8-b90a-eceb1f09c6fc",
+    "id": "ce254cc5-a17f-4cb0-9b5e-b103055c1b62",
     "series": "CX",
     "product_codes": [
       "CX-05 06"
     ],
     "blade": "Whale Wave",
+    "assist": "",
     "ratchet": "7-60",
     "bit": "K",
     "image_urls": [
@@ -1544,12 +1701,13 @@
     ]
   },
   {
-    "id": "415dd71a-662b-4865-9007-622e4f53badc",
+    "id": "d53bff67-6ebe-465b-9c49-9aad37db2e82",
     "series": "CX",
     "product_codes": [
       "CX-06 01"
     ],
     "blade": "Fox Brush",
+    "assist": "",
     "ratchet": "J9-70",
     "bit": "GR",
     "image_urls": [
@@ -1557,12 +1715,13 @@
     ]
   },
   {
-    "id": "195abfe9-a973-46d3-9f87-7a51e43276cc",
+    "id": "f5f8eef6-5c56-4d0a-a70b-d4c3e689dc56",
     "series": "CX",
     "product_codes": [
       "CX-06 02"
     ],
     "blade": "Fox Brush",
+    "assist": "",
     "ratchet": "J0-80",
     "bit": "DB",
     "image_urls": [
@@ -1570,12 +1729,13 @@
     ]
   },
   {
-    "id": "13c9be33-513c-42a9-9205-1d1a2c535456",
+    "id": "d1f9d281-476a-4a8c-aff9-f9461ace4241",
     "series": "CX",
     "product_codes": [
       "CX-06 03"
     ],
     "blade": "Fox Brush",
+    "assist": "",
     "ratchet": "J2-60",
     "bit": "U",
     "image_urls": [
@@ -1583,7 +1743,7 @@
     ]
   },
   {
-    "id": "12c9be33-513c-42a9-9205-1d1a2c535456",
+    "id": "6347b50b-e5b6-42a5-92d8-fe0ea5563e3e",
     "series": "CX",
     "product_codes": [
       "CX-07"
@@ -1597,7 +1757,7 @@
     ]
   },
   {
-    "id": "12c9be43-513c-42a9-9205-1d1a2c535456",
+    "id": "c3a571fe-c7a4-468a-b186-f5317a988877",
     "series": "CX",
     "product_codes": [
       "CX-08 01"
@@ -1611,7 +1771,7 @@
     ]
   },
   {
-    "id": "12d9be43-513c-42a9-9205-1d1a2c535456",
+    "id": "49a75564-5056-406d-8125-b5abd5d8d651",
     "series": "CX",
     "product_codes": [
       "CX-08 02"
@@ -1625,7 +1785,7 @@
     ]
   },
   {
-    "id": "12d9be43-513c-42a9-9205-1d1a2c535456",
+    "id": "4d44bc0e-c22b-4ef9-9219-a88eb9c70c24",
     "series": "CX",
     "product_codes": [
       "CX-08 03"
@@ -1639,7 +1799,7 @@
     ]
   },
   {
-    "id": "12d9be43-513c-42a9-9205-1d1a2c535456",
+    "id": "056cff7b-80fb-454d-ba99-3a72f593ef80",
     "series": "CX",
     "product_codes": [
       "CX-08 04"
@@ -1653,7 +1813,7 @@
     ]
   },
   {
-    "id": "12d9be43-513c-42a9-9205-1d1a2c535456",
+    "id": "c8187c30-2c99-413a-aa4f-725f8dc3230c",
     "series": "CX",
     "product_codes": [
       "CX-08 05"
@@ -1667,7 +1827,7 @@
     ]
   },
   {
-    "id": "12d9be43-513c-42a9-9205-1d1b2c535456",
+    "id": "17116757-9ad8-4567-9e41-f98b44005960",
     "series": "CX",
     "product_codes": [
       "CX-08 06"

@@ -7,6 +7,7 @@ import (
 	"net/http"
 	"os"
 	"satyasyahputra/beyblade-x/converter"
+	"satyasyahputra/beyblade-x/download"
 	"satyasyahputra/beyblade-x/store"
 
 	"github.com/gorilla/mux"
@@ -30,6 +31,8 @@ func main() {
 		router()
 	case "convert":
 		converter.Convert()
+	case "download":
+		download.Download()
 	default:
 		fmt.Printf("Perintah tidak dikenal: %s\n", subcommand)
 	}

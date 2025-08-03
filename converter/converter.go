@@ -5,7 +5,11 @@ import (
 	"log"
 	"os"
 	"satyasyahputra/beyblade-x/store"
+
+	"github.com/google/uuid"
 )
+
+const BASE_IMAGE_URL = "https://satyasyahputra.github.io/beyblade-x-backend/beyblade-images/"
 
 func Convert() {
 	beyblades := store.LoadBeyblade()
@@ -13,6 +17,7 @@ func Convert() {
 		if bey.ImageUrls == nil {
 			bey.ImageUrls = []string{}
 		}
+		bey.ID = uuid.New().String() // re-generate ID
 		beyblades[i] = bey
 	}
 
