@@ -32,7 +32,7 @@ func main() {
 	case "convert":
 		converter.Convert()
 	case "convert-bits":
-		fmt.Println(store.LoadBit())
+		converter.ConvertBits()
 	case "download":
 		download.Download()
 	default:

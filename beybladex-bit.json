@@ -1,82 +1,202 @@
 {
+  "A": {
+    "description": "",
+    "weight": "2.6g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "B": {
+    "description": "",
+    "weight": "2.1g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "C": {
+    "description": "",
+    "weight": "2.1g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "D": {
+    "description": "",
+    "weight": "2g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "DB": {
+    "description": "",
+    "weight": "3.1g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "E": {
+    "description": "",
+    "weight": "3.2g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
   "F": {
     "description": "",
     "weight": "2.3g",
     "design": [],
     "strengths": [],
-    "weaknesses": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "FB": {
+    "description": "",
+    "weight": "1.9g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "G": {
+    "description": "",
+    "weight": "2.5g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "GB": {
+    "description": "",
+    "weight": "2.1g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "GF": {
+    "description": "",
+    "weight": "2.3g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "GP": {
+    "description": "",
+    "weight": "2.3g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "H": {
+    "description": "",
+    "weight": "2.6g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "HN": {
+    "description": "",
+    "weight": "2.2g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "HT": {
+    "description": "",
+    "weight": "2.2g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "LF": {
+    "description": "",
+    "weight": "2.1g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "MN": {
+    "description": "",
+    "weight": "2.7g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "N": {
+    "description": "",
+    "weight": "2g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "O": {
+    "description": "",
+    "weight": "2g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "P": {
+    "description": "",
+    "weight": "2.2g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "Q": {
+    "description": "",
+    "weight": "2.2g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "R": {
+    "description": "",
+    "weight": "2.1g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
+  },
+  "S": {
+    "description": "",
+    "weight": "2g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
     "gameplan": []
   },
   "T": {
-    "weight": "2.2g"
-  },
-  "B": {
-    "weight": "2.1g"
-  },
-  "N": {
-    "weight": "2g"
-  },
-  "HN": {
-    "weight": "2.2g"
-  },
-  "LF": {
-    "weight": "2.1g"
-  },
-  "P": {
-    "weight": "2.2g"
-  },
-  "O": {
-    "weight": "2g"
-  },
-  "S": {
-    "weight": "2g"
-  },
-  "R": {
-    "weight": "2.1g"
-  },
-  "HT": {
-    "weight": "2.2g"
-  },
-  "GF": {
-    "weight": "2.3g"
-  },
-  "GB": {
-    "weight": "2.1g"
-  },
-  "GP": {
-    "weight": "2.3g"
-  },
-  "A": {
-    "weight": "2.6g"
-  },
-  "H": {
-    "weight": "2.6g"
-  },
-  "DB": {
-    "weight": "3.1g"
+    "description": "",
+    "weight": "2.2g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
   },
   "U": {
-    "weight": "2.1g"
-  },
-  "C": {
-    "weight": "2.1g"
-  },
-  "Q": {
-    "weight": "2.2g"
-  },
-  "MN": {
-    "weight": "2.7g"
-  },
-  "D": {
-    "weight": "2g"
-  },
-  "G": {
-    "weight": "2.5g"
-  },
-  "E": {
-    "weight": "3.2g"
-  },
-  "FB": {
-    "weight": "1.9g"
+    "description": "",
+    "weight": "2.1g",
+    "design": [],
+    "strengths": [],
+    "weakness": [],
+    "gameplan": []
   }
 }
