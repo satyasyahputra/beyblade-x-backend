@@ -1,0 +1,82 @@
+{
+  "F": {
+    "description": "",
+    "weight": "2.3g",
+    "design": "",
+    "strengths": [],
+    "weaknesses": [],
+    "gameplan": []
+  },
+  "T": {
+    "weight": "2.2g"
+  },
+  "B": {
+    "weight": "2.1g"
+  },
+  "N": {
+    "weight": "2g"
+  },
+  "HN": {
+    "weight": "2.2g"
+  },
+  "LF": {
+    "weight": "2.1g"
+  },
+  "P": {
+    "weight": "2.2g"
+  },
+  "O": {
+    "weight": "2g"
+  },
+  "S": {
+    "weight": "2g"
+  },
+  "R": {
+    "weight": "2.1g"
+  },
+  "HT": {
+    "weight": "2.2g"
+  },
+  "GF": {
+    "weight": "2.3g"
+  },
+  "GB": {
+    "weight": "2.1g"
+  },
+  "GP": {
+    "weight": "2.3g"
+  },
+  "A": {
+    "weight": "2.6g"
+  },
+  "H": {
+    "weight": "2.6g"
+  },
+  "DB": {
+    "weight": "3.1g"
+  },
+  "U": {
+    "weight": "2.1g"
+  },
+  "C": {
+    "weight": "2.1g"
+  },
+  "Q": {
+    "weight": "2.2g"
+  },
+  "MN": {
+    "weight": "2.7g"
+  },
+  "D": {
+    "weight": "2g"
+  },
+  "G": {
+    "weight": "2.5g"
+  },
+  "E": {
+    "weight": "3.2g"
+  },
+  "FB": {
+    "weight": "1.9g"
+  }
+}
