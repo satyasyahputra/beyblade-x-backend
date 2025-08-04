@@ -11,3 +11,12 @@ type Beyblade struct {
 	Bit          string   `json:"bit"`
 	ImageUrls    []string `json:"image_urls"`
 }
+
+type Bit struct {
+	Description string   `json:"description"`
+	Weight      string   `json:"weight"`
+	Design      []string `json:"design"`
+	Strengths   []string `json:"strengths"`
+	Weakness    []string `json:"weakness"`
+	Gameplan    []string `json:"gameplan"`
+}
