@@ -26,10 +26,10 @@ func Convert() {
 		log.Fatalf("Gagal melakukan marshal JSON: %v", err)
 	}
 
-	err = os.WriteFile(store.DBFile, jsonData, 0644)
+	err = os.WriteFile(store.DB_BEYBLADE_FILE, jsonData, 0644)
 	if err != nil {
 		log.Fatalf("Gagal menulis file: %v", err)
 	}
 
-	log.Printf("Data berhasil ditulis ke %s", store.DBFile)
+	log.Printf("Data berhasil ditulis ke %s", store.DB_BEYBLADE_FILE)
 }

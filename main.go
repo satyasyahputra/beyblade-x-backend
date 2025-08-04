@@ -31,6 +31,8 @@ func main() {
 		router()
 	case "convert":
 		converter.Convert()
+	case "convert-bits":
+		converter.ConvertBits()
 	case "download":
 		download.Download()
 	default:

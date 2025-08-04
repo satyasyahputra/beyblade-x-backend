@@ -20,3 +20,5 @@ type Bit struct {
 	Weakness    []string `json:"weakness"`
 	Gameplan    []string `json:"gameplan"`
 }
+
+type BitMap map[string]Bit

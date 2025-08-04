@@ -1,5 +1,0 @@
-package converter
-
-func ConvertBit() {
-
-}
