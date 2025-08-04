@@ -19,6 +19,7 @@ type Bit struct {
 	Strengths   []string `json:"strengths"`
 	Weakness    []string `json:"weakness"`
 	Gameplan    []string `json:"gameplan"`
+	ImageUrl    string   `json:"image_url"`
 }
 
 type BitMap map[string]Bit
