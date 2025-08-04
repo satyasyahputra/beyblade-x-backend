@@ -7,14 +7,14 @@ import (
 	"satyasyahputra/beyblade-x/beyblade"
 )
 
-const DBFile = "beybladex.json"
-const DBBitFile = "beybladex-bit.json"
+const DB_BEYBLADE_FILE = "beybladex.json"
+const DB_BIT_FILE = "beybladex-bit.json"
 
 func LoadBeyblade() []beyblade.Beyblade {
-	fileData, err := os.ReadFile(DBFile)
+	fileData, err := os.ReadFile(DB_BEYBLADE_FILE)
 	if err != nil {
 		if os.IsNotExist(err) {
-			log.Printf("File %s tidak ditemukan. Memulai dengan data kosong.", DBFile)
+			log.Printf("File %s tidak ditemukan. Memulai dengan data kosong.", DB_BEYBLADE_FILE)
 			return []beyblade.Beyblade{}
 		}
 		log.Fatalf("Gagal membaca file data: %v", err)
@@ -29,31 +29,31 @@ func LoadBeyblade() []beyblade.Beyblade {
 	if err != nil {
 		log.Fatalf("Gagal mengubah data dari JSON: %v", err)
 	}
-	log.Printf("Berhasil memuat %d data Beyblade dari %s", len(beyblades), DBFile)
+	log.Printf("Berhasil memuat %d data Beyblade dari %s", len(beyblades), DB_BEYBLADE_FILE)
 
 	return beyblades
 }
 
-func LoadBit() []beyblade.Bit {
-	fileData, err := os.ReadFile(DBBitFile)
+func LoadBit() map[string]beyblade.Bit {
+	fileData, err := os.ReadFile(DB_BIT_FILE)
 	if err != nil {
 		if os.IsNotExist(err) {
-			log.Printf("File %s tidak ditemukan. Memulai dengan data kosong.", DBFile)
-			return []beyblade.Bit{}
+			log.Printf("File %s tidak ditemukan. Memulai dengan data kosong.", DB_BIT_FILE)
+			return map[string]beyblade.Bit{}
 		}
 		log.Fatalf("Gagal membaca file data: %v", err)
 	}
 
 	if len(fileData) == 0 {
-		return []beyblade.Bit{}
+		return map[string]beyblade.Bit{}
 	}
 
-	var beyblades []beyblade.Bit
-	err = json.Unmarshal(fileData, &beyblades)
+	var bits map[string]beyblade.Bit
+	err = json.Unmarshal(fileData, &bits)
 	if err != nil {
 		log.Fatalf("Gagal mengubah data dari JSON: %v", err)
 	}
-	log.Printf("Berhasil memuat %d data Beyblade dari %s", len(beyblades), DBFile)
+	log.Printf("Berhasil memuat %d data Bit dari %s", len(bits), DB_BIT_FILE)
 
-	return beyblades
+	return bits
 }
