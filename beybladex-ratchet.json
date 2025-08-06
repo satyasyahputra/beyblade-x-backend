@@ -1,0 +1,373 @@
+{
+  "4-60": {
+    "description": "4-60 is an OK ratchet with a low height. It has four sides with small contact points. It's a welcome addition to a collection but not a must-have, as there is a potential burst risk.",
+    "weight": "6.4g",
+    "design": [
+      "4-60 is a ratchet that has 4 sides and a low height, the contact areas for the ratchet are 4 small points."
+    ],
+    "strengths": [
+      "Low Height: It is one of the lowest height ratchets, making it a great use for attack combinations or other low height setups depending on context."
+    ],
+    "weaknesses": [
+      "Four sides with smaller hit points: The Ratchet has four sides with small square contact points compared to a three-sided design. Despite having smaller hit points than three sides it actually makes it easier to hit since it is not as rounded off meshed onto the ratchet.",
+      "No real difference in consistent stamina: There doesn't seem to be a significant difference in stamina performance between the three-sided and four-sided versions of the Ratchet. Though this varies on combo to combo and should absolutely get tested if you are to try anything at all."
+    ],
+    "gameplay": [
+      "It is OK but not too preferred compared to other more recent ratchets, while there might be some stamina advantage that should be tested combo to combo as there is potential burst risk."
+    ]
+  },
+  "4-80": {
+    "description": "The 4-80 is a tall, four-sided ratchet with small contact points. It is considered one of the worst ratchets to use due to its high vulnerability to bursting, making it a collection-only item and not suitable for competitive play.",
+    "weight": "7g",
+    "design": [
+      "The 4-80 is a ratchet with four sides and a tall height. The contact areas are four small points."
+    ],
+    "strengths": [
+      "General Stamina: The article states that 4-sided ratchets generally have promising enough stamina.",
+      "Tightness: The tightness of the 4-80 is usually quite high, similar to other tall-height ratchets, aside from potential quality control issues."
+    ],
+    "weaknesses": [
+      "Four sides with smaller hit points: The four small square contact points make the ratchet easier to hit and burst compared to a three-sided design.",
+      "Tall Height: Being one of the tallest ratchets combined with the easier-to-burst four points makes it extremely vulnerable to being burst."
+    ],
+    "gameplay": [
+      "The article states that the 4-80 is \"possibly the worst ratchet to ever use\" and has no real benefit. It is outclassed by other ratchets like 3-80, 5-80, and 9-80 for general use. The document advises that it should only be in a collection and not used for competitive play if other parts are available. It also mentions that while you can try to balance tune it, it is considered a waste of time due to its inherent weaknesses."
+    ]
+  },
+  "4-70": {
+    "description": "The 4-70 is a middle-height ratchet that offers a balance between low and tall ratchets. It is considered an okay part but is generally outclassed by others in the 70-height range.",
+    "weight": "6.5g",
+    "design": [
+      "The 4-70 is a ratchet with four sides and a middle height. Its contact areas are four small points."
+    ],
+    "strengths": [
+      "Middle Height: This height allows for combinations similar to those of the 60 height but with the potential to beat them by being taller and providing more stability."
+    ],
+    "weaknesses": [
+      "Four sides with smaller hit points: The ratchet's four sides have small square contact points, which are smaller than those on a three-sided design. Despite this, it's actually easier to hit because it is not as rounded as other ratchets."
+    ],
+    "gameplay": [
+      "The 4-70 is \"OK but not too preferred compared to other ratchets,\" and is considered the worst of all the 70 heights. It suggests using other options like the 5-70 or 3-70 if available."
+    ]
+  },
+  "3-80": {
+    "description": "The 3-80 is a tall, three-sided ratchet with wide contact points. Its design provides better defense against bursting compared to four-sided ratchets, making it a reliable choice for setups where a tall height is needed.",
+    "weight": "7.1g",
+    "design": [
+      "The 3-80 is a ratchet with three sides and a tall height. The contact areas are three wide points. The document notes that there isn't a significant difference in consistent stamina compared to ratchets with 5 or 9 sides, and that this is a case-by-case basis dependent on the Blader."
+    ],
+    "strengths": [
+      "The ratchet has three sides with wider hit points compared to a four-sided design. Although they are wider, the three sides are more rounded, which means they make less contact to cause a burst."
+    ],
+    "weaknesses": [
+      "The document states that the 3-80 has a tall height. This isn't a \"pure weakness,\" but it means the user should be careful about how they launch it. While 3-80s are generally tighter than 3-60s or 4-60s/80s, you need to be mindful of your launch technique."
+    ],
+    "gameplay": []
+  },
+  "3-60": {
+    "description": "The 3-60 is a low-height, three-sided ratchet with wide contact points. It is a good option for low-height attack combinations but is not considered to have a significant stamina advantage over other similar ratchets.",
+    "weight": "6.30g (LOW END) - 6.40g (HIGH END)",
+    "design": [
+      "The 3-60 is a ratchet with three sides and a low height. The contact areas are three wide points."
+    ],
+    "strengths": [
+      "The ratchet has three sides with wider, albeit rounded-off, hit points. Its low height makes it great for attack combinations or other low-height setups."
+    ],
+    "weaknesses": [
+      "The 3-60 ratchets are generally not \"uber tight\" for their low height. While this doesn't matter too much, the four-sided versions can be tighter."
+    ],
+    "gameplay": []
+  },
+  "5-60": {
+    "description": "5-60 has good burst resistance, solid stamina, and defense. It is highly recommended and a must-have for low-height combinations due to its benefits in defense and stamina.",
+    "weight": "6.6g",
+    "design": [
+      "5-60 is a ratchet that has 5 sides and a low height, the contact areas for the ratchet are 5 somewhat wide points."
+    ],
+    "strengths": [
+      "Defense: Due to being 5 sided and thick, this ratchet has some of the best defense out of all the ratchets and only really is worse than 9 sides due to how 9 sides is exposed.",
+      "Low Height: It is one of the lowest height ratchets, making it a great use for attack combinations or other low height setups depending on context."
+    ],
+    "weaknesses": [],
+    "gameplay": [
+      "It has good burst resistance and solid stamina and defense. If one is creating combinations on low height it is highly preferred over the 3-60 or even 4-60. It is highly recommended to use this ratchet and is a must have for bladers due to the benefit of the defense and stamina."
+    ]
+  },
+  "5-80": {
+    "description": "The 5-80 has good burst resistance, and solid stamina and defense. It is highly recommended and a must-have for bladers creating combinations with a tall height, as it is highly preferred over the 3-80 or 4-80.",
+    "weight": "7.2g",
+    "design": [
+      "5-80 is a ratchet with 5 sides and a tall height. The contact areas for the ratchet are 5 somewhat wide points."
+    ],
+    "strengths": [
+      "Stamina: Due to its shape and Outward Weight Distribution (OWD), it can have greater stamina than other ratchets, giving Beyblades more balance.",
+      "Defence: This ratchet's 5-sided and thick design gives it some of the best defense out of all the ratchets. It is only really worse than 9 sides due to how 9 sides are exposed."
+    ],
+    "weaknesses": [
+      "Tall Height: It is important to note that being tall in the case of 5-80 does not mean pure weakness; however, it means being careful how you launch."
+    ],
+    "gameplay": [
+      "5-80 has good burst resistance and solid stamina and defense. If one is creating combinations on tall height it is highly preferred over the 3-80 or even 4-80. It is highly recommended to use this ratchet and is a must-have for bladers."
+    ]
+  },
+  "9-60": {
+    "description": "The 9-60 is a low-height, nine-sided ratchet with excellent burst resistance and solid stamina. It is highly recommended for low-height combinations.",
+    "weight": "6.2g",
+    "design": [
+      "9-60 is a ratchet that has 9 sides and a low height, the contact areas for the ratchet are 9 filled out points."
+    ],
+    "strengths": [
+      "Stamina: It is as good as 5-60 compared to other ratchets.",
+      "Burst Resistance: It has the best resistance because it is incredibly hard to hit because it is small and rounded off.",
+      "Low Height: It is one of the lowest-height ratchets, making it great for attack combinations or other low-height setups."
+    ],
+    "weaknesses": [],
+    "gameplay": [
+      "9-60 has good burst resistance and solid stamina, if one is creating combinations on low height combos, it is highly recommended to use this ratchet and is a must-have for bladers."
+    ]
+  },
+  "9-80": {
+    "description": "The 9-80 is a tall, nine-sided ratchet with good stamina and the best burst resistance. It is a highly recommended part for tall-height combinations.",
+    "weight": "6.8g",
+    "design": [
+      "The 9-80 ratchet has 9 sides and a tall height. Its contact areas are described as 9 filled-out points."
+    ],
+    "strengths": [
+      "Stamina: The article states that the 9-80 has good stamina, being as good as the 5-80 ratchet.",
+      "Burst Resistance: It also has the best burst resistance, as its small and rounded-off design makes it incredibly hard to hit."
+    ],
+    "weaknesses": [
+      "The main weakness mentioned is its tall height, which is noted not as a \"pure weakness\" but as a factor requiring careful launching."
+    ],
+    "gameplay": [
+      "The document recommends the 9-80 for combinations on tall height combos, stating that it has good burst resistance and solid stamina. It is considered a \"must-have for bladers.\""
+    ]
+  },
+  "3-70": {
+    "description": "The 3-70 is a three-sided ratchet with a middle height, which provides stability and can be used in a variety of combinations. Its wide, rounded contact points give it good burst resistance, but its height makes it a more vulnerable target than a low-height ratchet.",
+    "weight": "6.4g",
+    "design": [
+      "The 3-70 is a three-sided ratchet with a tall height. It has three wide contact points. The article notes that consistent stamina is the same, but balancing and tuning are necessary to see if it makes a difference compared to other designs, like five-sided ones."
+    ],
+    "strengths": [
+      "Three sides with wider hit points: The ratchet has wider contact points than a four-sided design. The three sides are more rounded, which makes them less likely to cause a burst upon contact.",
+      "Middle Height: This unique height allows it to be used in combinations similar to those with a 60 ratchet, and it can potentially beat them by being taller, which helps with stabilization."
+    ],
+    "weaknesses": [
+      "Tall Height: The taller height makes the ratchet an easier target to hit, similar to an 80 ratchet but to a lesser degree. Since 70 is a middle height, this weakness is more pronounced than with a 60 ratchet but less so than with an 80."
+    ],
+    "gameplay": []
+  },
+  "1-60": {
+    "description": "The 1-60 is a low-height, one-sided ratchet designed for pure attack combinations. Its unique design allows for a single, strong impact hit.",
+    "weight": "6.0g",
+    "design": [
+      "The 1-60 is a ratchet with one side and a low height. Its contact areas are a single wide point."
+    ],
+    "strengths": [
+      "The low height of the ratchet makes it suitable for attack combinations or other low-height setups.",
+      "Its unique one-point design allows for a single, strong impact hit."
+    ],
+    "weaknesses": [
+      "The 1-60 generally has poor stamina and balance.",
+      "It is not meant for regular stamina combos."
+    ],
+    "gameplay": [
+      "The 1-60 ratchet is really good for pure attack combos and should only be used in an attack setting. It is considered a welcome addition to a blader's collection for this specific purpose."
+    ]
+  },
+  "5-70": {
+    "description": "The 5-70 is a middle-height, five-sided ratchet with good burst resistance, solid stamina, and defense. It is highly recommended for combinations where a tall height is needed and is a preferred choice over the 3-70 or 4-70.",
+    "weight": "6.6g",
+    "design": [
+      "The 5-70 is a ratchet with 5 sides and a tall height. Its contact areas are 5 somewhat wide points."
+    ],
+    "strengths": [
+      "Stamina: It has good stamina due to its shape and outward weight distribution, which gives Beyblades more balance.",
+      "Defense: It has strong defense because of its 5-sided and thick design, only being considered worse than 9-sided ratchets because they are more exposed."
+    ],
+    "weaknesses": [
+      "Its main weakness is its tall height, which is a similar issue to the 80 height but slightly less pronounced. Being a taller target makes the ratchet easier to hit."
+    ],
+    "gameplay": [
+      "The 5-70 has good burst resistance, solid stamina, and defense. It is highly recommended for creating combinations on the tall height, being preferred over the 3-70 or 4-70. It is considered a must-have for bladers, but it is also advised to balance tune it for specific combinations."
+    ]
+  },
+  "1-80": {
+    "description": "The 1-80 is a tall, one-sided ratchet with poor stamina and balance. It is best used for attack combinations that can benefit from a single, strong impact hit. However, its practical use is limited compared to other tall ratchets.",
+    "weight": "6.5g",
+    "design": [
+      "The 1-80 is a ratchet with one side and a tall height. Its contact area is a single wide point, and it is described as one of the tallest ratchets."
+    ],
+    "strengths": [
+      "Due to its height, it is best used in attack combinations or for anything that can use deflection.",
+      "The design, focused on one point, gives it a unique advantage of having a single strong impact hit."
+    ],
+    "weaknesses": [
+      "The 1-80 generally has poor stamina and balance.",
+      "It is not an ideal part for combinations that require endurance or stability."
+    ],
+    "gameplay": [
+      "The 1-80 has limited practical use compared to other tall ratchets. While it is noted for Takara Tomy exploring other heights, there is no current in-game benefit to using it. For this reason, it is recommended to be used only for collection."
+    ]
+  },
+  "2-60": {
+    "description": "The 2-60 is a low-height, two-sided ratchet that is prone to wobbling, which affects stamina and balance. It has two wide square contact points that can deliver powerful hits but also make it susceptible to bursting, particularly during collisions. While it may have situational benefits, other 60-height ratchets are generally considered better for competitive play, and this part is better suited for collection.",
+    "weight": "6.2g",
+    "design": [
+      "2-60 is a Ratchet with two wide square contact points and a low height."
+    ],
+    "strengths": [
+      "Low Height: It is one of the lowest height ratchets, making it good for aggressive attack setups.",
+      "Impact: Its large contact points can occasionally deliver powerful hits."
+    ],
+    "weaknesses": [
+      "Stamina: It is off-balance and constantly wobbles, which wastes stamina.",
+      "Failure to Maintain X Dash: It struggles to maintain a consistent pattern in the stadium, which can disrupt the Xtreme Dash and cause it to hit the walls.",
+      "Burst Risk: The wide square contact points make it prone to bursting. The high likelihood of making contact can trigger an explosion from wall collisions or even self-bursting in a pocket."
+    ],
+    "gameplay": [
+      "While there may be situational benefits, other 60-height ratchets (such as 3, 4, 5, or 9 sides) are better for competitive play. The 2-60 ratchet is considered better suited for collection rather than for competitive use."
+    ]
+  },
+  "7-60": {
+    "description": "The 7-60 is a heavy, low-height ratchet with seven sides, making it a versatile option for both defense and attack combinations. Its weight and low profile allow it to tank hits and deliver powerful blows, but its design can lead to scraping and inconsistent burst resistance.",
+    "weight": "7g",
+    "design": [
+      "The 7-60 is a ratchet with 7 sides and a low height. Its contact areas are composed of six wide ratchet points and one very protruding square point."
+    ],
+    "strengths": [
+      "The 7-60 is the heaviest low-height ratchet, which is beneficial for both attack and defense combinations.",
+      "For defense, its thickness and weight allow it to tank hits from most attackers. It can also be used on attackers to provide a small weight boost.",
+      "Its low height makes it great for attack combinations or other low-height setups."
+    ],
+    "weaknesses": [
+      "Due to its width and thickness, there is a risk of scraping and losing stamina if not launched properly.",
+      "Its heavy weight can also be a con, as it makes the bey slower and requires a harder launch to compensate.",
+      "The 7-60 can have inconsistent burst resistance, sometimes not bursting at all and other times bursting very hard, possibly due to the one protruding contact point.",
+      "It is not ideal for pure stamina combinations as it performs worse than the 3-60 in a stamina mirror."
+    ],
+    "gameplay": [
+      "The 7-60 is a versatile ratchet that can be used on Defense and Attack combinations due to its heavy weight. It is described as a must-have for any blader's collection for these types of combos."
+    ]
+  },
+  "9-70": {
+    "description": "The 9-70 is a middle-height, nine-sided ratchet with excellent burst resistance and is well-suited for balance combinations. While its height can make it a target, its design mitigates the risk of bursting.",
+    "weight": "6.4g",
+    "design": [
+      "The 9-70 ratchet has 9 sides and is of a middle height. Its contact areas are 9 filled-out points. To differentiate it from a 60-height ratchet, the nubs are described as small squares with 3 on one side and 4 on the other, adding up to 7."
+    ],
+    "strengths": [
+      "Burst Resistance: It has the best resistance because its small and rounded-off design makes it incredibly hard to hit.",
+      "Middle Height: This unique height allows for combinations similar to 60-height ratchets, and it can potentially beat them by being taller to stabilize. The 9-sided design also helps reduce the risk of bursting."
+    ],
+    "weaknesses": [
+      "Tall Height: Similar to the 80-height ratchet but less of an issue, being taller makes the ratchet an easier target to hit. Since 70 is the middle height, this weakness is more pronounced than with a 60-height ratchet but less so than with an 80-height ratchet."
+    ],
+    "gameplay": [
+      "The 9-70 should be used on balance combinations to optimize bits such as Taper, Point, Unite, and Hexa."
+    ]
+  },
+  "2-80": {
+    "description": "The 2-80 is a tall, two-sided ratchet that is described as one of the most useless ratchets. Its wide square contact points can deliver powerful hits but also make it extremely prone to bursting, especially due to its tall height.",
+    "weight": "6.9g",
+    "design": [
+      "The 2-80 is a Ratchet that has two wide square contact points and is at a tall height."
+    ],
+    "strengths": [
+      "Impact: The large contact points can occasionally deliver massive hits."
+    ],
+    "weaknesses": [
+      "Burst Risk: Due to its wide square contact points and tall height, the 2-80 ratchet is prone to bursting from wall collisions or self-bursting in a pocket.",
+      "The tall 80 height makes it very easy for the exposed contact points to get 'sniped' and burst."
+    ],
+    "gameplay": [
+      "The 2-80 might be the most useless Ratchet; while the shape could work for aggressive combinations, it is too prone to bursting, making it suitable only for collectors and nothing more."
+    ]
+  },
+  "2-70": {
+    "description": "The 2-70 is a middle-height, two-sided ratchet that has wide square contact points that can deliver massive hits. However, it is prone to wobbling and bursting, making it a poor choice for competitive play. This ratchet is better suited for collectors.",
+    "weight": "6.3g",
+    "design": [
+      "The 2-70 is a Ratchet with two wide square contact points and is at middle height."
+    ],
+    "strengths": [
+      "Its large contact points can occasionally deliver massive hits."
+    ],
+    "weaknesses": [
+      "The 2-70 is off-balance, which causes it to constantly wobble and waste stamina.",
+      "It also struggles to maintain a consistent pattern in the stadium, which can disrupt the Xtreme Dash and cause it to slam against walls.",
+      "Due to its wide square contact points, the 2-70 ratchet is prone to bursting from wall collisions or even self-bursting."
+    ],
+    "gameplay": [
+      "While the ratchet may have some situational benefits, it is better suited for collection rather than competitive use. The document suggests using other 70-height ratchets like 3, 4, 5, or 9 sides for competitive play."
+    ]
+  },
+  "3-85": {
+    "description": "The 3-85 is a tall, three-sided ratchet with a unique design that is meant to be slightly harder to hit directly due to its height. However, its poor burst resistance and potential for blade damage make it unsuitable for competitive play.",
+    "weight": "4.7g",
+    "design": [
+      "The 3-85 ratchet has three sides and a tall height. Its nubs are described as small squares with 4 on each side, adding up to 8. It also has a big plastic part and a different locking mechanism than other ratchets."
+    ],
+    "strengths": [
+      "Tall Height & Wide Contacts: Being tall makes it slightly harder to hit directly, and its smooth contact points reduce impact, theoretically making it harder to destabilize."
+    ],
+    "weaknesses": [
+      "Tall Height Issues: The 3-85 suffers from weak burst resistance, as tall ratchets tend to have lower locking strength, making it easier to burst.",
+      "Potential Blade Damage: Due to its locking mechanism, there is a risk of internal blade damage, as the ratchet may push into the locking system differently from standard designs."
+    ],
+    "gameplay": [
+      "The 3-85 lacks competitive viability as its tall height does not offer enough practical advantages. The inconsistency in burst resistance makes it unreliable in battle, leaving it better suited for collection rather than serious play."
+    ]
+  },
+  "7-70": {
+    "description": "The 7-70 is a mid-height, seven-sided ratchet that weighs 7.1g, making it a heavy option for its height class. It is suitable for both attack and defense setups due to its weight and ability to deflect attacks. It also has good burst resistance, but its weight can slow down the blade.",
+    "weight": "7.1g",
+    "design": [
+      "The 7-70 is a Ratchet with 7 sides and a mid-height structure. It has multiple wide contact points, one of which is a very protruding square point."
+    ],
+    "strengths": [
+      "Its mid-height is good for both Attack and Defense setups.",
+      "The weight and shape of the Ratchet make it good for deflecting attacks, and it has a strong lock that improves burst resistance."
+    ],
+    "weaknesses": [
+      "The heavy weight can slow down the blade, requiring a harder launch to compensate.",
+      "It is not designed for pure stamina."
+    ],
+    "gameplay": []
+  },
+  "7-80": {
+    "description": "The 7-80 is a heavy, tall-height, seven-sided ratchet with a focus on destabilizing opponents. Its weight and thickness are its main strengths, but its tall height makes it difficult to use consistently and can slow down the blade.",
+    "weight": "7.8g",
+    "design": [
+      "7-80 is a 7-sided Ratchet with a tall height, featuring multiple wide contact points with one very protruding square point."
+    ],
+    "strengths": [
+      "The main strength is its weight and thickness, which gives it the potential to down smash and destabilize opponents."
+    ],
+    "weaknesses": [
+      "The consistency is a weakness because its tall 80-height makes its performance hard to maintain, as this height is generally for niche use.",
+      "The heavy weight can slow down the blade, requiring a harder launch to compensate."
+    ],
+    "gameplay": [
+      "7-80 is described as a solid, tall height ratchet best used for defense or aggressive combinations that can destabilize opponents. It has a niche application, making it a welcome addition for those who prefer tall defense, but it is not a must-have part."
+    ]
+  },
+  "0-80": {
+    "description": "The 0-80 is a tall, three-sided ratchet with good stability and balance. Its thin, rounded-off contact points give it some burst resistance, but its height and tendency to self-destruct on 'extreme rails' make it a tricky part to use. It is a solid addition to a collection but requires precise control to be effective.",
+    "weight": "7.1g",
+    "design": [
+      "The 0-80 is a three-sided Ratchet with thin contact points. Despite not being literally zero-sided, its thinness creates three broad, square-like impact areas."
+    ],
+    "strengths": [
+      "The Ratchet has three sides with wider hit points compared to a four-sided design. The three sides are more rounded off, which results in less contact to cause a burst."
+    ],
+    "weaknesses": [
+      "The 0-80 has a tall height, which means a blader must be careful with their launch.",
+      "If the 0-80 makes contact with 'extreme rails,' self-destruction is likely, making precise control necessary."
+    ],
+    "gameplay": [
+      "The 0-80 is a solid tall ratchet with good stability and balance. It is a 'welcome addition to anyone's collection' but is not invincible and requires precise control."
+    ]
+  }
+}
