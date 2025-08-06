@@ -1570,7 +1570,9 @@
     "assist": "",
     "ratchet": "3-70",
     "bit": "A",
-    "image_urls": []
+    "image_urls": [
+      "https://satyasyahputra.github.io/beyblade-x-backend/beyblade-images/aero-pegasus.jpg"
+    ]
   },
   {
     "id": "e4e5b465-bb57-41cd-9fe0-8cff57732700",

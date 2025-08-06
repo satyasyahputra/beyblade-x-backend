@@ -128,6 +128,7 @@
   "F": {
     "description": "Flat is the go to for basic attack combos and does the job well enough, it is a must have for any bladers running attack combos.",
     "weight": "2.3g",
+    "image_url": "https://satyasyahputra.github.io/beyblade-x-backend/bit-images/F.png",
     "design": [
       "As Flat is well...flat its simple design works well for X for attack. Flat is a bit bottom that has a flat bottom with an indent on there, and features a stat of 80 for high Burst resistance."
     ],
@@ -242,6 +243,22 @@
       "A strong shoot is required for the bit to be consistent."
     ]
   },
+  "GR": {
+    "description": "-",
+    "weight": "-",
+    "design": [
+      "-"
+    ],
+    "strengths": [
+      "-"
+    ],
+    "weaknesses": [
+      "-"
+    ],
+    "gameplay": [
+      "-"
+    ]
+  },
   "H": {
     "description": "Hexa is a defense bit with a cone-like shape and divided sections. It provides good KO and burst resistance when tilted but can be easily knocked out if not. The Xtreme Dash gimmick is not considered very useful.",
     "weight": "2.6g",
@@ -297,6 +314,22 @@
     ],
     "gameplay": [
       "To maximize its effectiveness, you can use a flat launch or a slightly tilted angle shot to use the stadium's gimmicks and aim for knockouts."
+    ]
+  },
+  "K": {
+    "description": "-",
+    "weight": "-",
+    "design": [
+      "-"
+    ],
+    "strengths": [
+      "-"
+    ],
+    "weaknesses": [
+      "-"
+    ],
+    "gameplay": [
+      "-"
     ]
   },
   "L": {
@@ -556,6 +589,54 @@
     ],
     "gameplay": [
       "Tilt: To maximize the effectiveness of this Bit, you must tilt it, you cannot do a flat launch other wise you can self KO pretty bad, not unless you are confident in your skill should you try and risk it."
+    ]
+  },
+  "W": {
+    "description": "-",
+    "weight": "-",
+    "design": [
+      "-"
+    ],
+    "strengths": [
+      "-"
+    ],
+    "weaknesses": [
+      "-"
+    ],
+    "gameplay": [
+      "-"
+    ]
+  },
+  "WB": {
+    "description": "-",
+    "weight": "-",
+    "design": [
+      "-"
+    ],
+    "strengths": [
+      "-"
+    ],
+    "weaknesses": [
+      "-"
+    ],
+    "gameplay": [
+      "-"
+    ]
+  },
+  "Z": {
+    "description": "-",
+    "weight": "-",
+    "design": [
+      "-"
+    ],
+    "strengths": [
+      "-"
+    ],
+    "weaknesses": [
+      "-"
+    ],
+    "gameplay": [
+      "-"
     ]
   }
 }
