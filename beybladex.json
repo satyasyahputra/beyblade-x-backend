@@ -12,6 +12,8 @@
     "assist": "",
     "ratchet": "3-60",
     "bit": "F",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": [
       "https://takaratomyasia.com/img/product/910381/thumb-product-910381-B1.jpg"
     ]
@@ -26,6 +28,8 @@
     "assist": "",
     "ratchet": "4-60",
     "bit": "T",
+    "type": "BALANCE",
+    "chip": "",
     "image_urls": [
       "https://takaratomyasia.com/img/product/910398/product-910398-A01.jpg"
     ]
@@ -42,6 +46,8 @@
     "assist": "",
     "ratchet": "4-80",
     "bit": "B",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://takaratomyasia.com/img/product/910473/thumb-product-910473-C01.jpg"
     ]
@@ -57,6 +63,8 @@
     "assist": "",
     "ratchet": "3-80",
     "bit": "N",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://takaratomyasia.com/img/product/910480/thumb-product-910480-BX601.jpg",
       "https://takaratomyasia.com/img/product/910404/thumb-product-910404-D01.jpg"
@@ -72,6 +80,8 @@
     "assist": "",
     "ratchet": "3-80",
     "bit": "B",
+    "type": "BALANCE",
+    "chip": "",
     "image_urls": [
       "https://takaratomyasia.com/img/product/910572/thumb-product-910572-C2.jpg"
     ]
@@ -86,6 +96,8 @@
     "assist": "",
     "ratchet": "4-60",
     "bit": "N",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://takaratomyasia.com/img/product/910572/thumb-product-910572-C3.jpg"
     ]
@@ -100,6 +112,8 @@
     "assist": "",
     "ratchet": "4-80",
     "bit": "T",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://takaratomyasia.com/img/product/910572/thumb-product-910572-C4.jpg?20240627_155331"
     ]
@@ -114,6 +128,8 @@
     "assist": "",
     "ratchet": "4-80",
     "bit": "HN",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://takaratomyasia.com/img/product/910565/thumb-product-910565-A1.jpg"
     ]
@@ -128,6 +144,8 @@
     "assist": "",
     "ratchet": "3-60",
     "bit": "LF",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/7/7c/SharkEdge_3-60LF.png/revision/latest"
     ]
@@ -142,6 +160,8 @@
     "assist": "",
     "ratchet": "4-80",
     "bit": "N",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/8/8b/SharkEdge_4-80N.png/revision/latest"
     ]
@@ -156,6 +176,8 @@
     "assist": "",
     "ratchet": "3-80",
     "bit": "B",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/7/79/DranSword_3-80B.png/revision/latest"
     ]
@@ -170,6 +192,8 @@
     "assist": "",
     "ratchet": "4-80",
     "bit": "LF",
+    "type": "BALANCE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/0/08/HellsScythe_4-80LF.png/revision/latest"
     ]
@@ -184,6 +208,8 @@
     "assist": "",
     "ratchet": "4-60",
     "bit": "LF",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/3/3c/KnightShield_4-60LF.png/revision/latest"
     ]
@@ -198,6 +224,8 @@
     "assist": "",
     "ratchet": "3-60",
     "bit": "T",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/2/2b/WizardArrow_3-60T.png/revision/latest"
     ]
@@ -212,6 +240,8 @@
     "assist": "",
     "ratchet": "5-60",
     "bit": "P",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/5/50/Beyblade_X_-_LeonClaw_5-60P.png/revision/latest"
     ]
@@ -226,6 +256,8 @@
     "assist": "",
     "ratchet": "5-80",
     "bit": "O",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/0/09/ViperTail_5-80O.jpeg/revision/latest"
     ]
@@ -240,6 +272,8 @@
     "assist": "",
     "ratchet": "3-80",
     "bit": "HN",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/9/92/ViperTail_3-80HN.jpg/revision/latest"
     ]
@@ -254,6 +288,8 @@
     "assist": "",
     "ratchet": "4-60",
     "bit": "F",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/a/a7/ViperTail_4-60F.jpg/revision/latest"
     ]
@@ -268,6 +304,8 @@
     "assist": "",
     "ratchet": "3-80",
     "bit": "S",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/e/e3/Beyblade_X_-_RhinoHorn_3-80S.png/revision/latest"
     ]
@@ -282,6 +320,8 @@
     "assist": "",
     "ratchet": "4-60",
     "bit": "R",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/2/25/DranDagger_4-60R.jpeg/revision/latest/scale-to-width-down/512"
     ]
@@ -296,6 +336,8 @@
     "assist": "",
     "ratchet": "3-80",
     "bit": "F",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/2/2d/SharkEdge_3-80F.jpeg/revision/latest"
     ]
@@ -310,6 +352,8 @@
     "assist": "",
     "ratchet": "5-80",
     "bit": "T",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/e/e5/KnightShield_5-80T.jpeg/revision/latest"
     ]
@@ -324,6 +368,8 @@
     "assist": "",
     "ratchet": "5-60",
     "bit": "HT",
+    "type": "BALANCE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/d/d1/HellsChain_5-60HT.jpeg/revision/latest"
     ]
@@ -338,6 +384,8 @@
     "assist": "",
     "ratchet": "3-60",
     "bit": "LF",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/b/bf/KnightLance_3-60LF.jpeg/revision/latest"
     ]
@@ -352,6 +400,8 @@
     "assist": "",
     "ratchet": "4-80",
     "bit": "N",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/7/70/WizardArrow_4-80N.jpeg/revision/latest"
     ]
@@ -366,6 +416,8 @@
     "assist": "",
     "ratchet": "9-60",
     "bit": "GF",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/b/b4/Beyblade_X_-_PhoenixWing_9-60GF.png/revision/latest",
       "https://static.wikia.nocookie.net/beyblade/images/3/3e/PhoenixWing_9-60GF_Metal_Coat_Black.png/revision/latest"
@@ -381,6 +433,8 @@
     "assist": "",
     "ratchet": "5-80",
     "bit": "GB",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/8/89/WyvernGale_5-80GB.jpeg/revision/latest"
     ]
@@ -395,6 +449,8 @@
     "assist": "",
     "ratchet": "3-60",
     "bit": "T",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/0/02/WyvernGale_3-60T.jpeg/revision/latest/scale-to-width-down/512"
     ]
@@ -409,6 +465,8 @@
     "assist": "",
     "ratchet": "4-60",
     "bit": "GB",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/d/d7/KnightLance_4-60GB.jpeg/revision/latest"
     ]
@@ -423,6 +481,8 @@
     "assist": "",
     "ratchet": "5-60",
     "bit": "F",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/c/c0/ViperTail_5-60F.jpeg/revision/latest"
     ]
@@ -437,6 +497,8 @@
     "assist": "",
     "ratchet": "3-80",
     "bit": "HN",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/c/c0/LeonClaw_3-80HN.jpeg/revision/latest"
     ]
@@ -451,6 +513,8 @@
     "assist": "",
     "ratchet": "4-80",
     "bit": "GB",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/4/44/WizardArrow_4-80GB.jpeg/revision/latest"
     ]
@@ -465,6 +529,8 @@
     "assist": "",
     "ratchet": "5-60",
     "bit": "GP",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/d/d8/UnicornSting_5-60GP_%28Angled_View%29.jpeg/revision/latest/scale-to-width-down/512"
     ]
@@ -479,6 +545,8 @@
     "assist": "",
     "ratchet": "9-80",
     "bit": "GN",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/2/24/SphinxCowl_9-80GN.jpeg/revision/latest"
     ]
@@ -493,6 +561,8 @@
     "assist": "",
     "ratchet": "4-60",
     "bit": "HT",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/9/9e/SphinxCowl_4-80HT.jpeg/revision/latest"
     ]
@@ -507,6 +577,8 @@
     "assist": "",
     "ratchet": "5-60",
     "bit": "O",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/d/db/SphinxCowl_5-60O.jpeg/revision/latest"
     ]
@@ -521,6 +593,8 @@
     "assist": "",
     "ratchet": "4-70",
     "bit": "Q",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/1/14/TyrannoBeat_4-70Q.jpeg/revision/latest/scale-to-width-down/512"
     ]
@@ -535,6 +609,8 @@
     "assist": "",
     "ratchet": "3-60",
     "bit": "S",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/0/05/TyrannoBeat_3-60S.jpeg/revision/latest"
     ]
@@ -549,6 +625,8 @@
     "assist": "",
     "ratchet": "9-80",
     "bit": "O",
+    "type": "BALANCE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/8/86/HellsChain_9-80O.jpeg/revision/latest"
     ]
@@ -563,6 +641,8 @@
     "assist": "",
     "ratchet": "4-70",
     "bit": "P",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/2/22/DranDagger_4-70P.jpeg/revision/latest"
     ]
@@ -577,6 +657,8 @@
     "assist": "",
     "ratchet": "1-60",
     "bit": "Q",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/8/88/SharkEdge_1-60Q.jpeg/revision/latest"
     ]
@@ -591,6 +673,8 @@
     "assist": "",
     "ratchet": "5-80",
     "bit": "Q",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/9/92/RhinoHorn_5-80Q.jpeg/revision/latest"
     ]
@@ -605,6 +689,8 @@
     "assist": "",
     "ratchet": "3-60",
     "bit": "U",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/7/73/WeissTiger_3-60U_%28Angled_View%29.jpeg/revision/latest/scale-to-width-down/512"
     ]
@@ -619,6 +705,8 @@
     "assist": "",
     "ratchet": "2-60",
     "bit": "C",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/9/9a/CobaltDragoon_2-60C_%28Angled_View%29.jpeg/revision/latest/scale-to-width-down/512"
     ]
@@ -633,6 +721,8 @@
     "assist": "",
     "ratchet": "4-60",
     "bit": "D",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/1/13/BlackShell_4-60D.jpg/revision/latest"
     ]
@@ -647,6 +737,8 @@
     "assist": "",
     "ratchet": "9-80",
     "bit": "B",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/1/18/BlackShell_9-80B.jpeg/revision/latest"
     ]
@@ -661,6 +753,8 @@
     "assist": "",
     "ratchet": "3-70",
     "bit": "D",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/0/07/UnicornSting_3-70D.jpeg/revision/latest"
     ]
@@ -675,6 +769,8 @@
     "assist": "",
     "ratchet": "1-60",
     "bit": "R",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/5/56/WizardRod_1-60R.jpeg/revision/latest"
     ]
@@ -689,6 +785,8 @@
     "assist": "",
     "ratchet": "5-80",
     "bit": "H",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/0/02/PhoenixWing_5-80H.jpeg/revision/latest"
     ]
@@ -703,6 +801,8 @@
     "assist": "",
     "ratchet": "5-70",
     "bit": "D",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/c/c8/ViperTail_5-70D.jpeg/revision/latest"
     ]
@@ -717,6 +817,8 @@
     "assist": "",
     "ratchet": "5-80",
     "bit": "E",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/2/2e/WhaleWave_5-80E.png/revision/latest"
     ]
@@ -731,6 +833,8 @@
     "assist": "",
     "ratchet": "4-70",
     "bit": "HN",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/5/59/WhaleWave_4-70HN.png/revision/latest"
     ]
@@ -745,6 +849,8 @@
     "assist": "",
     "ratchet": "3-80",
     "bit": "GB",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/b/b0/WhaleWave_3-80GB.png/revision/latest"
     ]
@@ -759,6 +865,8 @@
     "assist": "",
     "ratchet": "5-60",
     "bit": "F",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/b/b0/BearScratch_5-60F.png/revision/latest"
     ]
@@ -773,6 +881,8 @@
     "assist": "",
     "ratchet": "4-70",
     "bit": "TP",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/6/60/CrimsonGaruda_4-70TP_%28Angled_View%29.png/revision/latest"
     ]
@@ -787,6 +897,8 @@
     "assist": "",
     "ratchet": "7-80",
     "bit": "GP",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/e/ed/ShelterDrake_7-80GP.png/revision/latest"
     ]
@@ -801,6 +913,8 @@
     "assist": "",
     "ratchet": "5-70",
     "bit": "O",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/4/4f/ShelterDrake_5-70O.png/revision/latest"
     ]
@@ -815,6 +929,8 @@
     "assist": "",
     "ratchet": "3-60",
     "bit": "O",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/2/27/ShelterDrake_3-60D.png/revision/latest"
     ]
@@ -830,6 +946,8 @@
     "assist": "",
     "ratchet": "4-60",
     "bit": "F",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/5/5a/CobaltDrake_4-60F.jpeg/revision/latest/scale-to-width-down/512"
     ]
@@ -845,6 +963,8 @@
     "assist": "",
     "ratchet": "5-60",
     "bit": "HT",
+    "type": "BALANCE",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -858,6 +978,8 @@
     "assist": "",
     "ratchet": "3-80",
     "bit": "T",
+    "type": "NONE",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -871,6 +993,8 @@
     "assist": "",
     "ratchet": "4-60",
     "bit": "T",
+    "type": "BALANCE",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -885,6 +1009,8 @@
     "assist": "",
     "ratchet": "",
     "bit": "",
+    "type": "NONE",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -898,6 +1024,8 @@
     "assist": "",
     "ratchet": "3-80",
     "bit": "F",
+    "type": "BALANCE",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -911,6 +1039,8 @@
     "assist": "",
     "ratchet": "5-60",
     "bit": "P",
+    "type": "NONE",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -924,6 +1054,8 @@
     "assist": "",
     "ratchet": "5-60",
     "bit": "GF",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -937,6 +1069,8 @@
     "assist": "",
     "ratchet": "",
     "bit": "",
+    "type": "BALANCE",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -949,6 +1083,8 @@
     "assist": "",
     "ratchet": "",
     "bit": "",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -961,6 +1097,8 @@
     "assist": "",
     "ratchet": "2-80",
     "bit": "GP",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -973,6 +1111,8 @@
     "assist": "",
     "ratchet": "2-60",
     "bit": "C",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -985,6 +1125,8 @@
     "assist": "",
     "ratchet": "1-60",
     "bit": "F",
+    "type": "NONE",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -997,6 +1139,8 @@
     "assist": "",
     "ratchet": "1-60",
     "bit": "F",
+    "type": "NONE",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -1010,6 +1154,8 @@
     "assist": "",
     "ratchet": "9-80",
     "bit": "DB",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -1022,6 +1168,8 @@
     "assist": "",
     "ratchet": "4-60",
     "bit": "LF",
+    "type": "NONE",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -1034,6 +1182,8 @@
     "assist": "",
     "ratchet": "9-60",
     "bit": "LF",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -1046,6 +1196,8 @@
     "assist": "",
     "ratchet": "4-80",
     "bit": "DB",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -1058,6 +1210,8 @@
     "assist": "",
     "ratchet": "7-60",
     "bit": "D",
+    "type": "DEFENSE",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -1070,6 +1224,8 @@
     "assist": "",
     "ratchet": "2-80",
     "bit": "E",
+    "type": "BALANCE",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -1082,6 +1238,8 @@
     "assist": "",
     "ratchet": "9-60",
     "bit": "GF",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -1094,6 +1252,8 @@
     "assist": "",
     "ratchet": "2-60",
     "bit": "Q",
+    "type": "NONE",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -1106,6 +1266,8 @@
     "assist": "",
     "ratchet": "3-60",
     "bit": "GF",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -1118,6 +1280,8 @@
     "assist": "",
     "ratchet": "2-60",
     "bit": "RA",
+    "type": "NONE",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -1130,6 +1294,8 @@
     "assist": "",
     "ratchet": "4-60",
     "bit": "RA",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -1142,6 +1308,8 @@
     "assist": "",
     "ratchet": "3-70",
     "bit": "RA",
+    "type": "NONE",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -1156,6 +1324,8 @@
     "assist": "",
     "ratchet": "1-60",
     "bit": "A",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/7/7d/DranBuster_1-60A_%28Special_Ver.%3B_Angled_View%29.jpg/revision/latest"
     ]
@@ -1170,6 +1340,8 @@
     "assist": "",
     "ratchet": "3-70",
     "bit": "H",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/8/8e/HellsHammer_3-70H_%28Angled_View%29.jpg/revision/latest/scale-to-width-down/512"
     ]
@@ -1186,6 +1358,8 @@
     "assist": "",
     "ratchet": "5-70",
     "bit": "DB",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/5/5f/WizardRod_5-70DB_%28Angled_View%29.jpg/revision/latest/scale-to-width-down/512"
     ]
@@ -1200,6 +1374,8 @@
     "assist": "",
     "ratchet": "1-80",
     "bit": "MN",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/d/dd/ShinobiShadow_1-80MN.jpeg/revision/latest"
     ]
@@ -1214,6 +1390,8 @@
     "assist": "",
     "ratchet": "9-60",
     "bit": "LF",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/4/40/ShinobiShadow_9-60LF_%28UX-05_02%29.jpeg/revision/latest"
     ]
@@ -1228,6 +1406,8 @@
     "assist": "",
     "ratchet": "3-70",
     "bit": "GP",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/0/09/ShinobiShadow_3-70GP_%28UX-05_03%29.jpeg/revision/latest"
     ]
@@ -1242,6 +1422,8 @@
     "assist": "",
     "ratchet": "7-60",
     "bit": "GN",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/6/63/LeonCrest_7-60GN_%28Angled_View%29.jpeg/revision/latest/scale-to-width-down/512"
     ]
@@ -1256,6 +1438,8 @@
     "assist": "",
     "ratchet": "9-70",
     "bit": "G",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/4/45/PhoenixRudder_9-70G.jpeg/revision/latest"
     ]
@@ -1270,6 +1454,8 @@
     "assist": "",
     "ratchet": "2-60",
     "bit": "S",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/8/89/WyvernGale_2-60S.jpeg/revision/latest"
     ]
@@ -1284,6 +1470,8 @@
     "assist": "",
     "ratchet": "1-80",
     "bit": "GF",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/5/50/SphinxCowl_1-80GF.jpeg/revision/latest/scale-to-width-down/512"
     ]
@@ -1298,6 +1486,8 @@
     "assist": "",
     "ratchet": "3-80",
     "bit": "FB",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/1/17/SilverWolf_3-80FB_%28Angled_View%29.jpeg/revision/latest/scale-to-width-down/512"
     ]
@@ -1312,6 +1502,8 @@
     "assist": "",
     "ratchet": "2-70",
     "bit": "L",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/6/6d/SamuraiSaber_2-70L_%28Angled_View%29.png/revision/latest"
     ]
@@ -1326,6 +1518,8 @@
     "assist": "",
     "ratchet": "3-85",
     "bit": "BS",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/7/78/KnightMail_3-85BS.png/revision/latest"
     ]
@@ -1340,8 +1534,10 @@
     "assist": "",
     "ratchet": "7-70",
     "bit": "B",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYYotqhJWmRlOduH_GIyBYAVg_VbQvai832g\u0026s"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYYotqhJWmRlOduH_GIyBYAVg_VbQvai832g&s"
     ]
   },
   {
@@ -1354,6 +1550,8 @@
     "assist": "",
     "ratchet": "1-60",
     "bit": "RA",
+    "type": "NONE",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -1366,6 +1564,8 @@
     "assist": "",
     "ratchet": "",
     "bit": "P",
+    "type": "NONE",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -1378,6 +1578,8 @@
     "assist": "",
     "ratchet": "",
     "bit": "MN",
+    "type": "NONE",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -1390,6 +1592,8 @@
     "assist": "",
     "ratchet": "",
     "bit": "R",
+    "type": "NONE",
+    "chip": "",
     "image_urls": []
   },
   {
@@ -1402,6 +1606,8 @@
     "assist": "",
     "ratchet": "9-60",
     "bit": "LR",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/9/9f/ImpactDrake_9-60LR_%28Angled_View%29.jpeg/revision/latest/scale-to-width-down/512"
     ]
@@ -1416,6 +1622,8 @@
     "assist": "",
     "ratchet": "0-80",
     "bit": "GB",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/3/35/GhostCircle_0-80GB.png/revision/latest"
     ]
@@ -1430,6 +1638,8 @@
     "assist": "",
     "ratchet": "4-60",
     "bit": "H",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/9/9c/GhostCircle_4-60H.png/revision/latest"
     ]
@@ -1444,6 +1654,8 @@
     "assist": "",
     "ratchet": "3-80",
     "bit": "F",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/6/6a/ShinobiShadow_3-80F.png/revision/latest"
     ]
@@ -1458,6 +1670,8 @@
     "assist": "",
     "ratchet": "0-80",
     "bit": "E",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/e/e4/LeonClaw_0-80E.png/revision/latest"
     ]
@@ -1472,6 +1686,8 @@
     "assist": "",
     "ratchet": "2-60",
     "bit": "N",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/0/02/PhoenixFeather_2-60N.png/revision/latest"
     ]
@@ -1486,6 +1702,8 @@
     "assist": "",
     "ratchet": "0-80",
     "bit": "C",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/f/f1/WyvernGale_0-80C.png/revision/latest"
     ]
@@ -1500,6 +1718,8 @@
     "assist": "",
     "ratchet": "1-60",
     "bit": "UN",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/8/80/GolemRock_1-60UN_%28Angled_View%29.jpeg/revision/latest/scale-to-width-down/512"
     ]
@@ -1514,6 +1734,8 @@
     "assist": "",
     "ratchet": "0-70",
     "bit": "Z",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/e/e4/ScorpioSpear_0-70Z_%28Angled_View%29.jpeg/revision/latest/scale-to-width-down/512"
     ]
@@ -1528,6 +1750,8 @@
     "assist": "",
     "ratchet": "4-50",
     "bit": "UF",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/b/b1/SharkScale_4-50UF.png/revision/latest"
     ]
@@ -1542,6 +1766,8 @@
     "assist": "",
     "ratchet": "1-70",
     "bit": "L",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/0/0c/TyrannoRoar_1-70L.png/revision/latest"
     ]
@@ -1556,6 +1782,8 @@
     "assist": "",
     "ratchet": "J3-60",
     "bit": "GF",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/1/12/HellsBrave_J3-60GF.png/revision/latest"
     ]
@@ -1570,6 +1798,8 @@
     "assist": "",
     "ratchet": "3-70",
     "bit": "A",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://satyasyahputra.github.io/beyblade-x-backend/beyblade-images/aero-pegasus.jpg"
     ]
@@ -1585,6 +1815,8 @@
     "assist": "",
     "ratchet": "S6-60",
     "bit": "V",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/e/e5/DranBrave_S6-60V_%28Angled_View%29.jpeg/revision/latest/scale-to-width-down/512"
     ]
@@ -1599,6 +1831,8 @@
     "assist": "",
     "ratchet": "R4-55",
     "bit": "LO",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/8/80/WizardArc_R4-55LO_%28Angled_View%29.jpeg/revision/latest/scale-to-width-down/512"
     ]
@@ -1614,6 +1848,8 @@
     "assist": "",
     "ratchet": "B6-80",
     "bit": "W",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/d/d7/PerseusDark_B6-80W_%28Angled_View%29.jpeg/revision/latest/scale-to-width-down/512"
     ]
@@ -1628,6 +1864,8 @@
     "assist": "",
     "ratchet": "T4-70",
     "bit": "K",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/b/b1/HellsReaper_T4-70K.png/revision/latest"
     ]
@@ -1642,6 +1880,8 @@
     "assist": "",
     "ratchet": "C4-55",
     "bit": "D",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/5/5d/RhinoReaper_C4-55D.png/revision/latest"
     ]
@@ -1656,6 +1896,8 @@
     "assist": "",
     "ratchet": "T3-85",
     "bit": "O",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/d/d8/HellsArc_T3-85O.png/revision/latest"
     ]
@@ -1670,6 +1912,8 @@
     "assist": "",
     "ratchet": "9-80",
     "bit": "K",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/e/e6/LeonCrest_9-80K.png/revision/latest"
     ]
@@ -1684,6 +1928,8 @@
     "assist": "",
     "ratchet": "4-70",
     "bit": "LF",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/e/e0/PhoenixRudder_4-70LF.png/revision/latest"
     ]
@@ -1698,6 +1944,8 @@
     "assist": "",
     "ratchet": "7-60",
     "bit": "K",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/7/72/WhaleWave_7-60K.png/revision/latest"
     ]
@@ -1712,6 +1960,8 @@
     "assist": "",
     "ratchet": "J9-70",
     "bit": "GR",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/e/e3/FoxBrush_J9-70GR.png/revision/latest"
     ]
@@ -1726,6 +1976,8 @@
     "assist": "",
     "ratchet": "J0-80",
     "bit": "DB",
+    "type": "STAMINA",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/8/86/FoxBrush_J0-80DB.png/revision/latest"
     ]
@@ -1740,6 +1992,8 @@
     "assist": "",
     "ratchet": "J2-60",
     "bit": "U",
+    "type": "BALANCE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/c/cf/FoxBrush_J2-60U.png/revision/latest"
     ]
@@ -1754,6 +2008,8 @@
     "assist": "A",
     "ratchet": "Tr",
     "bit": "Tr",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/8/8c/PegasusBlast_ATr_%28Angled_View%29.jpeg/revision/latest/scale-to-width-down/512"
     ]
@@ -1768,6 +2024,8 @@
     "assist": "",
     "ratchet": "W5-80",
     "bit": "WB",
+    "type": "STAMINA",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/3/37/CerberusFlame_W5-80WB.png/revision/latest"
     ]
@@ -1782,6 +2040,8 @@
     "assist": "",
     "ratchet": "M3-85",
     "bit": "HT",
+    "type": "BALANCE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/4/42/WhaleFlame_M3-85HT.png/revision/latest"
     ]
@@ -1796,6 +2056,8 @@
     "assist": "",
     "ratchet": "W1-60",
     "bit": "F",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/6/6b/CerberusDark_W1-60F.png/revision/latest?cb=20250613031930"
     ]
@@ -1810,6 +2072,8 @@
     "assist": "",
     "ratchet": "5-80",
     "bit": "MN",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/b/b0/DranBuster_5-80MN.png/revision/latest"
     ]
@@ -1824,6 +2088,8 @@
     "assist": "",
     "ratchet": "7-70",
     "bit": "WB",
+    "type": "NONE",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/d/d4/BlackShell_7-70WB.png/revision/latest"
     ]
@@ -1838,6 +2104,8 @@
     "assist": "",
     "ratchet": "4-55",
     "bit": "WB",
+    "type": "ATTACK",
+    "chip": "",
     "image_urls": [
       "https://static.wikia.nocookie.net/beyblade/images/b/b3/CobaltDragoon_4-55WB.png/revision/latest"
     ]
