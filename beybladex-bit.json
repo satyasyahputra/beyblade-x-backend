@@ -18,7 +18,8 @@
     "gameplay": [
       "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts.",
       "Generally with Accel: You can do either hard shoot flat launch or try to tilt and win the match, the stamina with accel is OK but it is generally preferred to try to flat launch with the bit if you want to maximize the capabilities."
-    ]
+    ],
+    "type": "ATTACK"
   },
   "B": {
     "description": "Ball has very good stamina and is a must have for any bladers trying to make stamina combos.",
@@ -35,7 +36,8 @@
     ],
     "gameplay": [
       "Somewhat tilted angle shoot and throw: To maximize the effectiveness of this Bit, you can employ a slight angle and throw the Beyblade on the opposing side from where you launch. This is to avoid knockouts and to conserve stamina."
-    ]
+    ],
+    "type": "STAMINA"
   },
   "BS" : {
     "description": "Bound Spike is a defense bit with a unique \"bounce ability\" that provides shock absorption and KO resistance. Despite its low burst resistance stat, its mechanical design makes it durable against impacts.",
@@ -51,7 +53,8 @@
     ],
     "gameplay": [
       "To use this bit effectively, you can try a launch with a slightly tilted angle. The user should hold the Beyblade on the corner to lead it into the center of the stadium. This technique allows for powerful hits while preventing the Beyblade from being knocked out."
-    ]
+    ],
+    "type": "DEFENSE"
   },
   "C": {
     "description": "Cyclone offers more benefits than a regular Flat Bit due to its speed and attack power while also providing similar control to the Rush Bit, making it a strong choice for those looking to balance control and aggression.",
@@ -69,7 +72,8 @@
     ],
     "gameplay": [
       "Flat Launch: To maximize the effectiveness of this Bit, you must do a flat launch. You waste too much stamina trying to tilt, as the shape of the bit works against itself tilted."
-    ]
+    ],
+    "type": "ATTACK"
   },
   "D": {
     "description": "Dot is a solid choice for defense, allowing Beys to move around while offering better stamina than Needle or High Needle.",
@@ -86,7 +90,8 @@
     "gameplay": [
       "Somewhat tilted angle shoot and hold: To maximize the effectiveness of this Bit, you can employ a slight angle and hold the Beyblade on to the corner of where you are to lead into the middle to get those big hits without being knocked out.",
       "Be aware of the top corners on the opposite side of where the Xtreme Finish is: Aim to try to KO with your movement."
-    ]
+    ],
+    "type": "DEFENSE"
   },
   "DB": {
     "description": "Disc Ball has very good stamina and is a must have for any bladers trying to make stamina combos.",
@@ -105,7 +110,8 @@
     ],
     "gameplay": [
       "Somewhat tilted angle shoot and throw: To maximize the effectiveness of this Bit, you can employ a slight angle and throw the Beyblade on the opposing side from where you launch. This is to avoid knockouts and to conserve stamina."
-    ]
+    ],
+    "type": "STAMINA"
   },
   "E": {
     "description": "Elevate is a versatile Balance Type Bit that showcases impressive strengths while also presenting some risks. Its ability to deliver a unique blend of stamina and aggressive attack makes it a valuable choice for Beyblade X players. The curved gears allow for dynamic movement and the potential for powerful KOs, particularly when launched effectively. However, its low burst resistance and susceptibility to self-KOs introduce significant risks, necessitating careful control and technique during battles. Overall, Elevate is a welcome addition to any Beyblade collection.",
@@ -123,7 +129,8 @@
     ],
     "gameplay": [
       "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts."
-    ]
+    ],
+    "type": "BALANCE"
   },
   "F": {
     "description": "Flat is the go to for basic attack combos and does the job well enough, it is a must have for any bladers running attack combos.",
@@ -145,7 +152,8 @@
     "gameplay": [
       "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts.",
       "Generally with Flat: You can do either flat shoot or tilt on case by case basis depending if you want to try to focus on the Xtreme Line to try and KO or try to destabilize and harm the opponent."
-    ]
+    ],
+    "type": "ATTACK"
   },
   "FB": {
     "description": "Free Ball is very similar to Orb; you can use it as an alternate stamina bit to Ball, It is perfectly fine to use nothing that special; it is a welcome addition to anyone collection.",
@@ -164,7 +172,8 @@
     "gameplay": [
       "Somewhat tilted angle shoot and throw: To maximize the effectiveness of this Bit, you can employ a slight angle and throw the Beyblade on the opposing side from where you launch. This is to avoid knockouts and to conserve stamina.",
       "STRONG Shoot: Free Ball requires to be as good as ball that you MUST have a strong shoot otherwise it can die pretty bad."
-    ]
+    ],
+    "type": "STAMINA"
   },
   "G": {
     "description": "Glide is a solid Bit but suffers from inconsistency. Due to Takara Tomy's quality control, the POM Ball's exposure can vary, affecting performance. With optimization, Glide can be a must-have for competitive players, but it is also a fine addition for collectors.",
@@ -182,7 +191,8 @@
     ],
     "gameplay": [
       "Tilt: Launch at a slight angle and throw the Beyblade on the opposing side to avoid knockouts and conserve stamina."
-    ]
+    ],
+    "type": "STAMINA"
   },
   "GB": {
     "description": "Gear Ball is too inconsistent to be seriously considered for anything, while the stamina can be greater than regular ball, the fact the gimmick is focused on the Xtreme Line with no real added Burst resistance makes this suffer. Gear Ball bursts far too easily compared to other ball variants and should not be prioritized over them. The most you get out of Gear Ball is just stamina vs stamina battles. As such it is a welcome addition to any bladers collection but should not really get used.",
@@ -202,7 +212,8 @@
       "Somewhat tilted angle shoot and throw: To maximize the effectiveness of this Bit, you can employ a slight angle and throw the Beyblade on the opposing side from where you launch. This is to avoid knockouts and to conserve stamina.",
       "Be aware of the top corners on the opposite side of where the Xtreme Finish is: Aim to try to KO with your movement.",
       "Needs a STRONG shoot to be consistent."
-    ]
+    ],
+    "type": "STAMINA"
   },
   "GF": {
     "description": "Gear Flat is a high-speed attack bit with excellent burst resistance, making it ideal for aggressive playstyles and Xtreme Dash launches. However, its low stamina and risk of self-KO require careful launching.",
@@ -221,7 +232,8 @@
     ],
     "gameplay": [
       "Flat launch or a somewhat tilted angle shoot: To take advantage of the stadium's features and go for knockouts, use a flat launch or a slightly tilted angle."
-    ]
+    ],
+    "type": "ATTACK"
   },
   "GP": {
     "description": "GearPoint is a Beyblade X bit with high burst resistance. It has a small semi-sphere on the bottom with extended gears in a cone shape. The design is intended to provide stamina when the bit is still and aggression when it tilts.",
@@ -241,23 +253,21 @@
     "gameplay": [
       "To maximize the bit's effectiveness, you should use a slightly tilted angle and throw the Beyblade on the opposing side from your launch position. This technique helps to avoid knockouts and conserve stamina.",
       "A strong shoot is required for the bit to be consistent."
-    ]
+    ],
+    "type": "BALANCE"
   },
   "GR": {
-    "description": "-",
-    "weight": "-",
+    "description": "",
+    "weight": "?g",
     "design": [
-      "-"
     ],
     "strengths": [
-      "-"
     ],
     "weaknesses": [
-      "-"
     ],
     "gameplay": [
-      "-"
-    ]
+    ],
+    "type": "ATTACK"
   },
   "H": {
     "description": "Hexa is a defense bit with a cone-like shape and divided sections. It provides good KO and burst resistance when tilted but can be easily knocked out if not. The Xtreme Dash gimmick is not considered very useful.",
@@ -276,7 +286,8 @@
       "A somewhat tilted angle shoot and hold technique is recommended.",
       "Launch the Beyblade at a slight angle and hold it on the corner to guide it toward the middle. This allows it to land big hits without getting knocked out.",
       "Be aware of the top corners on the opposite side of the Xtreme Finish and aim to KO opponents with your movement."
-    ]
+    ],
+    "type": "BALANCE"
   },
   "HN": {
     "description": "High Needle is a defense bit that is a taller variant of the original Needle. It offers similar KO resistance but with better stamina, making it suitable for longer battles.",
@@ -292,7 +303,8 @@
     ],
     "gameplay": [
       "To maximize its effectiveness, you can use a slightly tilted angle and hold the Beyblade on a corner to lead it into the middle for big hits without getting knocked out. You should also be aware of the top corners on the opposite side of the Xtreme Finish and aim to KO with your movement."
-    ]
+    ],
+    "type": "DEFENSE"
   },
   "HT": {
     "description": "The High Taper Bit is a taller version of the regular Taper Bit. It provides a good mix of stamina and attack but has worse stamina than its regular counterpart due to a higher center of gravity, which also makes it more aggressive.",
@@ -314,23 +326,17 @@
     ],
     "gameplay": [
       "To maximize its effectiveness, you can use a flat launch or a slightly tilted angle shot to use the stadium's gimmicks and aim for knockouts."
-    ]
+    ],
+    "type": "BALANCE"
   },
   "K": {
-    "description": "-",
-    "weight": "-",
-    "design": [
-      "-"
-    ],
-    "strengths": [
-      "-"
-    ],
-    "weaknesses": [
-      "-"
-    ],
-    "gameplay": [
-      "-"
-    ]
+    "description": "",
+    "weight": "?g",
+    "design": [],
+    "strengths": [],
+    "weaknesses": [],
+    "gameplay": [],
+    "type": "BALANCE"
   },
   "L": {
     "description": "Level is a versatile attack bit that provides a unique blend of aggression and end-game stamina. Its design allows for dynamic movement and strong KO potential, but its path can be inconsistent and it is vulnerable to self-KOs.",
@@ -350,7 +356,8 @@
     ],
     "gameplay": [
       "Tilt Launch: The recommended strategy is to tilt-launch the bit to get the maximum potential out of it and avoid self-knock-outs."
-    ]
+    ],
+    "type": "ATTACK"
   },
   "LF": {
     "description": "Low Flat has a considerable improvement over regular flat for attack power and speed but has less stamina, due to it improving some blades that need fast hits to win it is a must have for any attack combo.",
@@ -371,7 +378,8 @@
     "gameplay": [
       "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts.",
       "With Low Flat: It has a lot of speed and power, but stamina won't be there since it does have a slight advantage"
-    ]
+    ],
+    "type": "ATTACK"
   },
   "MN": {
     "description": "Due to the fact that this has worse stamina than regular Needle and KO resistance, not improved at all, and it dents stadiums, this Bit should never get used and just be in the collection only.",
@@ -391,7 +399,8 @@
     "gameplay": [
       "Somewhat tilted angle shoot and hold: To maximize the effectiveness of this Bit, you can employ a slight angle and keep the Beyblade on to the corner of where you are to lead into the middle to get those big hits without being knocked out.",
       "Be aware of the top corners on the opposite side of where the Xtreme Finish is: Aim to try to KO with your movement."
-    ]
+    ],
+    "type": "DEFENSE"
   },
   "N": {
     "description": "Needle is a defense bit with a sharp, cone-shaped point. Its main strength is its \"Tanky KO Resistance,\" allowing it to withstand powerful hits. However, its low stamina and burst resistance make it vulnerable to outspinning and bursting.",
@@ -407,7 +416,8 @@
     ],
     "gameplay": [
       "The recommended gameplay involves a \"Somewhat tilted angle shoot and hold\". Players should launch the Beyblade at a slight angle and hold it near a corner of the stadium to lead it into the center. This strategy allows for landing powerful hits without being knocked out. The user should also be aware of the top corners on the opposite side of the Xtreme Finish and aim to use their movement to achieve KOs."
-    ]
+    ],
+    "type": "DEFENSE"
   },
   "O":{
     "description": "Being as good as Ball, Orb has good stamina and is a must have for any bladers trying to make stamina combos as an alternative to Ball.",
@@ -426,7 +436,8 @@
     "gameplay": [
       "Somewhat tilted angle shoot and throw: To maximize the effectiveness of this Bit, you can employ a slight angle and throw the Beyblade on the opposing side from where you launch. This is to avoid knockouts and to conserve stamina.",
       "STRONG Shoot: Orb requires to be as good as ball that you MUST have a strong shoot otherwise it can die pretty bad."
-    ]
+    ],
+    "type": "STAMINA"
   },
   "P": {
     "description": "Point is the best non attack tip right before that of Taper, its attack power and stamina allow it to be more considered than your Flat Bits, it offers good endgame stamina and counter movement. It is a must have for any bladers collecting.",
@@ -448,7 +459,8 @@
     "gameplay": [
       "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts.",
       "With Point: In general attack vs attack battles you could just tilt to conserve stamina and to hold a good ground against attackers while against anything that is stamina or defense give a good flat launch to do damage or KO, be aware this bit takes practise to use right."
-    ]
+    ],
+    "type": "BALANCE"
   },
   "Q": {
     "description": "Quake is a bit that one should try to use competitively, while the randomness of jumping can be fun and potentially mastered to make it useful. For consistency's sake, you should not waste time trying to use it, and it should be for collection only.",
@@ -467,7 +479,8 @@
     "gameplay": [
       "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts.",
       "Generally with Quake: You can do either flat shoot or tilt on case by case basis depending if you want to try to focus on the Xtreme Line to try and KO or try to destabilize and harm the opponent."
-    ]
+    ],
+    "type": "ATTACK"
   },
   "R": {
     "description": "Rush allows itself to be the most consistent attack bit that allows for consistent Xtreme rushes, while its endgame stamina could be questionable, the negatives are outweighed by the positives, thus is a must have for any bladers collection.",
@@ -488,7 +501,8 @@
     "gameplay": [
       "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts.",
       "In the case of Rush: you want to decide if you tilt or do a flat launch since if you do flat you will do repeated Xtreme Dash movement, or if you do tilt it could work against certain opponents to counter and defeat them."
-    ]
+    ],
+    "type": "ATTACK"
   },
   "RA": {
     "description": "Rubber Accel is a bit with a high skill ceiling. If you're able to master it, it offers a fun and dynamic experience, but for most players, it's better to stick with more consistent attack bits. The main issues include stamina drain, difficulty controlling its movements (often skipping around the stadium), and a tendency to waste momentum. It’s a challenging bit to use, and while it can be exciting when it works, it might not be the best choice for consistent performance.",
@@ -508,7 +522,8 @@
     ],
     "gameplay": [
       "Use a hard launch or slight tilt to maintain speed and stability while maximizing KO potential. Maximize Speed: Focus on flat launches to achieve consistent speed and take advantage of the rubber's grip and recoil control."
-    ]
+    ],
+    "type": "ATTACK"
   },
   "S": {
     "description": "Spike is the worst Bit they have ever done for defense, it is so bad that there is quite literally nothing that can seriously be recommended, this tip is not to be used at all, leave it in the bin. While one could argue that there are combos that could work to its nature it feels like a waste, if you really did want to use this bit, you would have to use it on setups that you would use Needle on.",
@@ -526,7 +541,8 @@
     ],
     "gameplay": [
       "Somewhat tilted angle shoot and hold: To maximize the effectiveness of this Bit, you can employ a slight angle and hold the Beyblade on to the corner of where you are to lead into the middle to get those big hits without being knocked out."
-    ]
+    ],
+    "type": "DEFENSE"
   },
   "T": {
     "description": "The Taper Bit is similar to Flat where the design of this Bit is a semi-flat. So while it is still able to be used for attack getting that aggressive movement, you have greatly improved stamina compared to regular flat.",
@@ -546,7 +562,8 @@
     ],
     "gameplay": [
       "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts."
-    ]
+    ],
+    "type": "ATTACK"
   },
   "TP": {
     "description": "Trans Point is a bit that is inconsistent in performance. While it has good stamina and aggression, it suffers from self-bursting on the Xtreme Rail and is vulnerable to bursting when the mode change occurs. If one is to use this bit, it’s best to keep it in low mode and launch away from the Xtreme Rails to minimize risk.",
@@ -569,7 +586,8 @@
     ],
     "gameplay": [
       "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts."
-    ]
+    ],
+    "type": "BALANCE"
   },
   "U": {
     "description": "Unite, compared to Taper, offers slightly faster speed and stamina at the cost of self-KO risk and a lack of stability in endgame stamina in some rounds. Due to this, if one is using Unite, one should be careful of how they launch this bit going into battle. As such, Unite is a welcome addition to anyone's collection due to the benefits it offers.",
@@ -589,54 +607,46 @@
     ],
     "gameplay": [
       "Tilt: To maximize the effectiveness of this Bit, you must tilt it, you cannot do a flat launch other wise you can self KO pretty bad, not unless you are confident in your skill should you try and risk it."
-    ]
+    ],
+    "type": "BALANCE"
   },
   "W": {
-    "description": "-",
-    "weight": "-",
+    "description": "",
+    "weight": "?g",
     "design": [
-      "-"
     ],
     "strengths": [
-      "-"
     ],
     "weaknesses": [
-      "-"
     ],
     "gameplay": [
-      "-"
-    ]
+    ],
+    "type": "DEFENSE"
   },
   "WB": {
-    "description": "-",
-    "weight": "-",
+    "description": "",
+    "weight": "?g",
     "design": [
-      "-"
     ],
     "strengths": [
-      "-"
     ],
     "weaknesses": [
-      "-"
     ],
     "gameplay": [
-      "-"
-    ]
+    ],
+    "type": "STAMINA"
   },
   "Z": {
-    "description": "-",
-    "weight": "-",
+    "description": "",
+    "weight": "?g",
     "design": [
-      "-"
     ],
     "strengths": [
-      "-"
     ],
     "weaknesses": [
-      "-"
     ],
     "gameplay": [
-      "-"
-    ]
+    ],
+    "type": "BALANCE"
   }
 }
