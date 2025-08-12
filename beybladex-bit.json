@@ -1,450 +1,473 @@
 {
   "A": {
     "description": "Accel is a decent alternative to Flat if one wants to use it, while a bit inconsistent it is a welcomeaddition to nayones collection.",
-    "weight": "2.6g",
     "design": [
       "Accel is a bit that has a flat bottom with an indent on there, and features a stat of 80 for high Burst resistance. Accel has a total of 16 gears to allow it to accelerate more on the Xtreme Rails."
     ],
+    "gameplay": [
+      "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts.",
+      "Generally with Accel: You can do either hard shoot flat launch or try to tilt and win the match, the stamina with accel is OK but it is generally preferred to try to flat launch with the bit if you want to maximize the capabilities."
+    ],
+    "name": "Accel",
     "strengths": [
       "Decent attack bit for Beyblade X: Accel is an ok attack bit meant to be specifically used on attack blades, being a slightly more inconsistent flat.",
       "Focused On Xtreme Dash gimmick: The Bit is somewhat consistent with the Xtreme Dash to be able to pick up high speeds and KO",
       "Able to pick up strong speeds and KO: The Bit excels in achieving high rotational speeds, making it proficient at knocking out opponents from the stadium.",
       "Burst Resistance: Due to being a Bit with a 80 Stats in Burst resistance this makes this bit great to use due to minimal Burst risk."
     ],
+    "type": "ATTACK",
     "weaknesses": [
       "Inconsistent path followed: Accel has the issue where it can't like follow the path properly sometimes and it bounces around the Xtreme Rail in some battles.",
       "Vulnerability to self-KO: If the Bit is hard-launched and catches the stadium path, it can self-KO, which is a potential weakness. Control and technique are important when using this Bit."
     ],
-    "gameplay": [
-      "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts.",
-      "Generally with Accel: You can do either hard shoot flat launch or try to tilt and win the match, the stamina with accel is OK but it is generally preferred to try to flat launch with the bit if you want to maximize the capabilities."
-    ],
-    "type": "ATTACK"
+    "weight": "2.6g"
   },
   "B": {
     "description": "Ball has very good stamina and is a must have for any bladers trying to make stamina combos.",
-    "weight": "2.1g",
     "design": [
       "Ball is a Beyblade X bit with low burst resistance and a semi-sphere on the bottom."
-    ],
-    "strengths": [
-      "Highest Stamina: The Ball bit due to its design of semi sphere is currently the best bit to use for pure stamina in Beyblade X."
-    ],
-    "weaknesses": [
-      "KO Risk: Due to not having a shape that is all that special for defense, it can get easily hit and thrown out of the stadium and knocked out.",
-      "Burst Risk: Due to being a bit with 20 in burst resistance, there is a potential risk to use as it has lower resistance than Balance and Attack bits. This is not the end all be all just something to consider."
     ],
     "gameplay": [
       "Somewhat tilted angle shoot and throw: To maximize the effectiveness of this Bit, you can employ a slight angle and throw the Beyblade on the opposing side from where you launch. This is to avoid knockouts and to conserve stamina."
     ],
-    "type": "STAMINA"
+    "name": "Ball",
+    "strengths": [
+      "Highest Stamina: The Ball bit due to its design of semi sphere is currently the best bit to use for pure stamina in Beyblade X."
+    ],
+    "type": "STAMINA",
+    "weaknesses": [
+      "KO Risk: Due to not having a shape that is all that special for defense, it can get easily hit and thrown out of the stadium and knocked out.",
+      "Burst Risk: Due to being a bit with 20 in burst resistance, there is a potential risk to use as it has lower resistance than Balance and Attack bits. This is not the end all be all just something to consider."
+    ],
+    "weight": "2.1g"
   },
-  "BS" : {
+  "BS": {
     "description": "Bound Spike is a defense bit with a unique \"bounce ability\" that provides shock absorption and KO resistance. Despite its low burst resistance stat, its mechanical design makes it durable against impacts.",
-    "weight": "2g",
     "design": [
       "Bound Spike is a Beyblade X bit with low burst resistance. It has a flat bottom and a small, sharp protrusion. A key feature of its design is that it never fully locks into the ratchet, which gives it a \"bounce ability.\""
-    ],
-    "strengths": [
-      "The bit's design provides shock absorption and KO resistance. Because it constantly moves in and out of the ratchet, it can mitigate impact forces and reduce the chance of bursting. This bouncing motion also dissipates energy from attacks, helping the Beyblade stay grounded and avoid being knocked out. Despite having low burst resistance on paper, its mechanical properties make it very durable, often allowing it to last until the end of a battle."
-    ],
-    "weaknesses": [
-      "Bound Spike is a defense bit, so its main weakness is a lack of stamina. It can be outspun by attacker or stamina combos, especially if the launch is not executed correctly."
     ],
     "gameplay": [
       "To use this bit effectively, you can try a launch with a slightly tilted angle. The user should hold the Beyblade on the corner to lead it into the center of the stadium. This technique allows for powerful hits while preventing the Beyblade from being knocked out."
     ],
-    "type": "DEFENSE"
+    "name": "Bound Spike",
+    "strengths": [
+      "The bit's design provides shock absorption and KO resistance. Because it constantly moves in and out of the ratchet, it can mitigate impact forces and reduce the chance of bursting. This bouncing motion also dissipates energy from attacks, helping the Beyblade stay grounded and avoid being knocked out. Despite having low burst resistance on paper, its mechanical properties make it very durable, often allowing it to last until the end of a battle."
+    ],
+    "type": "DEFENSE",
+    "weaknesses": [
+      "Bound Spike is a defense bit, so its main weakness is a lack of stamina. It can be outspun by attacker or stamina combos, especially if the launch is not executed correctly."
+    ],
+    "weight": "2g"
   },
   "C": {
     "description": "Cyclone offers more benefits than a regular Flat Bit due to its speed and attack power while also providing similar control to the Rush Bit, making it a strong choice for those looking to balance control and aggression.",
-    "weight": "2.1g",
     "design": [
       "Cyclone is a bit with a curved star-shaped pattern and an 80 stat in Burst resistance, making it highly resistant to bursting."
     ],
+    "gameplay": [
+      "Flat Launch: To maximize the effectiveness of this Bit, you must do a flat launch. You waste too much stamina trying to tilt, as the shape of the bit works against itself tilted."
+    ],
+    "name": "Cyclone",
     "strengths": [
       "High Speed and KO Potential: Cyclone can pick up fast speeds, making it proficient at knocking out opponents or delivering strong hits that lead to bursts.",
       "Control: Cyclone is similar to Rush Bit, which has good aggression and a lot of control in the stadium.",
       "Burst Resistance: With its high Burst resistance stat, Cyclone is excellent for minimizing the risk of bursting."
     ],
+    "type": "ATTACK",
     "weaknesses": [
       "Vulnerability to Self-KO: If hard-launched and it catches the stadium's path, Cyclone can self-KO. Proper control and technique are crucial when using this bit. Its movement can be inconsistent, but with practice, this can be managed."
     ],
-    "gameplay": [
-      "Flat Launch: To maximize the effectiveness of this Bit, you must do a flat launch. You waste too much stamina trying to tilt, as the shape of the bit works against itself tilted."
-    ],
-    "type": "ATTACK"
+    "weight": "2.1g"
   },
   "D": {
     "description": "Dot is a solid choice for defense, allowing Beys to move around while offering better stamina than Needle or High Needle.",
-    "weight": "2.0g",
     "design": [
       "Dot is a cone-shaped bit with low burst resistance and tiny spheres protruding from the bottom."
-    ],
-    "strengths": [
-      "Stamina: Despite being a defense bit, Dot offers stamina comparable to Orb, providing solid defense while maintaining good endurance."
-    ],
-    "weaknesses": [
-      "KO Risk: When new, Dot can be somewhat aggressive due to the protrusions on the bottom, increasing the risk of a knockout. However, this weakness diminishes as the bit wears down."
     ],
     "gameplay": [
       "Somewhat tilted angle shoot and hold: To maximize the effectiveness of this Bit, you can employ a slight angle and hold the Beyblade on to the corner of where you are to lead into the middle to get those big hits without being knocked out.",
       "Be aware of the top corners on the opposite side of where the Xtreme Finish is: Aim to try to KO with your movement."
     ],
-    "type": "DEFENSE"
+    "name": "Dot",
+    "strengths": [
+      "Stamina: Despite being a defense bit, Dot offers stamina comparable to Orb, providing solid defense while maintaining good endurance."
+    ],
+    "type": "DEFENSE",
+    "weaknesses": [
+      "KO Risk: When new, Dot can be somewhat aggressive due to the protrusions on the bottom, increasing the risk of a knockout. However, this weakness diminishes as the bit wears down."
+    ],
+    "weight": "2.0g"
   },
   "DB": {
     "description": "Disc Ball has very good stamina and is a must have for any bladers trying to make stamina combos.",
-    "weight": "3.2g",
     "design": [
       "Disc Ball is a Beyblade X bit with low burst resistance and a semi-sphere on the bottom with the added wide disc of support and is nearly 2mm taller than regular Ball."
     ],
+    "gameplay": [
+      "Somewhat tilted angle shoot and throw: To maximize the effectiveness of this Bit, you can employ a slight angle and throw the Beyblade on the opposing side from where you launch. This is to avoid knockouts and to conserve stamina."
+    ],
+    "name": "Disc Ball",
     "strengths": [
       "Highest Stamina: Disc Ball, if one balances tunes, can be the most consistent and highest stamina bit in Beyblade X right now. It can still lose to Ball or even Orb, but it should generally be able to beat it.",
       "KO Defense: Due to the shape of Disc Ball it has a wide disc that supports the stability of it and also allows it to not be KO'd as easily.",
       "Weight: Disc Ball is the heaviest bit so far which can be used to have good KO resistance to help give weight to combinations."
     ],
+    "type": "STAMINA",
     "weaknesses": [
       "Height: Disc Ball is basically if it was a double High Bit being nearly 2mm increased from regular Ball.",
       "Burst Risk: Due to being a bit with 20 in burst resistance and tall, there is a massive Burst risk if one does not tilt launch or optimize their launch because it can lose very poorly to attackers."
     ],
-    "gameplay": [
-      "Somewhat tilted angle shoot and throw: To maximize the effectiveness of this Bit, you can employ a slight angle and throw the Beyblade on the opposing side from where you launch. This is to avoid knockouts and to conserve stamina."
-    ],
-    "type": "STAMINA"
+    "weight": "3.2g"
   },
   "E": {
     "description": "Elevate is a versatile Balance Type Bit that showcases impressive strengths while also presenting some risks. Its ability to deliver a unique blend of stamina and aggressive attack makes it a valuable choice for Beyblade X players. The curved gears allow for dynamic movement and the potential for powerful KOs, particularly when launched effectively. However, its low burst resistance and susceptibility to self-KOs introduce significant risks, necessitating careful control and technique during battles. Overall, Elevate is a welcome addition to any Beyblade collection.",
-    "weight": "3.2g",
     "design": [
       "Elevate is a Balance-Type Bit designed for low resistance. It features a flat tip with a central bump surrounded by a large disc."
-    ],
-    "strengths": [
-      "Mixed Stamina and Attack: Elevate excels as a mixed stamina and attack Bit for Beyblade X. Due to its curved gears, when it commits to an Xtreme Dash, it lives up to its name by elevating off the ground, creating unique movement that curves to the side. This Bit effectively combines good aggression with solid stamina, especially in the endgame, thanks to the wide support disc.",
-      "KO Potential: Elevate's unique aspect is its ability to sometimes accelerate to extraordinary speeds, leading to powerful KOs. It can also curve and replicate a flower pattern, effectively achieving KOs in the Beyblade X Stadium."
-    ],
-    "weaknesses": [
-      "Burst Risk: Due to its low burst resistance, Elevate can behave erratically at times. A Beyblade might slam into it, causing it to burst or fly so fast that the gears in the stadium could cause it to burst. This makes it a significant risk in battle; while it has good stamina performance, the potential for bursting remains a concern.",
-      "Vulnerability to Self-KO: If the Bit is hard-launched and catches the stadium path, it can self-KO. This emphasizes the need for control and technique when using this Bit. Gameplan: To maximize the effectiveness of Elevate, employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts."
     ],
     "gameplay": [
       "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts."
     ],
-    "type": "BALANCE"
+    "name": "Elevate",
+    "strengths": [
+      "Mixed Stamina and Attack: Elevate excels as a mixed stamina and attack Bit for Beyblade X. Due to its curved gears, when it commits to an Xtreme Dash, it lives up to its name by elevating off the ground, creating unique movement that curves to the side. This Bit effectively combines good aggression with solid stamina, especially in the endgame, thanks to the wide support disc.",
+      "KO Potential: Elevate's unique aspect is its ability to sometimes accelerate to extraordinary speeds, leading to powerful KOs. It can also curve and replicate a flower pattern, effectively achieving KOs in the Beyblade X Stadium."
+    ],
+    "type": "BALANCE",
+    "weaknesses": [
+      "Burst Risk: Due to its low burst resistance, Elevate can behave erratically at times. A Beyblade might slam into it, causing it to burst or fly so fast that the gears in the stadium could cause it to burst. This makes it a significant risk in battle; while it has good stamina performance, the potential for bursting remains a concern.",
+      "Vulnerability to Self-KO: If the Bit is hard-launched and catches the stadium path, it can self-KO. This emphasizes the need for control and technique when using this Bit. Gameplan: To maximize the effectiveness of Elevate, employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts."
+    ],
+    "weight": "3.2g"
   },
   "F": {
     "description": "Flat is the go to for basic attack combos and does the job well enough, it is a must have for any bladers running attack combos.",
-    "weight": "2.3g",
-    "image_url": "https://satyasyahputra.github.io/beyblade-x-backend/bit-images/F.png",
     "design": [
       "As Flat is well...flat its simple design works well for X for attack. Flat is a bit bottom that has a flat bottom with an indent on there, and features a stat of 80 for high Burst resistance."
     ],
+    "gameplay": [
+      "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts.",
+      "Generally with Flat: You can do either flat shoot or tilt on case by case basis depending if you want to try to focus on the Xtreme Line to try and KO or try to destabilize and harm the opponent."
+    ],
+    "image_url": "https://satyasyahputra.github.io/beyblade-x-backend/bit-images/F.png",
+    "name": "Flat",
     "strengths": [
       "Great attack bit for Beyblade X: The Flat Bit is well-suited for aggressive playstyles and can be effective in offensive strategies.",
       "Uses the Xtreme Dash gimmick easily: The Bit works well with the Xtreme Dash performance tip, allowing for high speed and KO potential.",
       "Able to pick up strong speeds and KO: The Bit excels in achieving high rotational speeds, making it proficient at knocking out opponents from the stadium.",
       "Burst Resistance: Due to being a Bit with a 80 Stats in Burst resistance this makes this bit great to use due to minimal Burst risk."
     ],
+    "type": "ATTACK",
     "weaknesses": [
       "Low stamina: The Bit may not be ideal for battles that require endurance, as it lacks stamina. Stamina is important for outlasting opponents in long battles. In the context of a battle if you get your hits at the start and don't miss you have nothing to worry about.",
       "Vulnerability to self-KO: If the Bit is hard-launched and catches the stadium path, it can self-KO, which is a potential weakness. Control and technique are important when using this Bit."
     ],
-    "gameplay": [
-      "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts.",
-      "Generally with Flat: You can do either flat shoot or tilt on case by case basis depending if you want to try to focus on the Xtreme Line to try and KO or try to destabilize and harm the opponent."
-    ],
-    "type": "ATTACK"
+    "weight": "2.3g"
   },
   "FB": {
     "description": "Free Ball is very similar to Orb; you can use it as an alternate stamina bit to Ball, It is perfectly fine to use nothing that special; it is a welcome addition to anyone collection.",
-    "weight": "2g",
     "design": [
       "Free Ball is a Beyblade X bit with low burst resistance and a semi-sphere on the bottom, the bit can also freely rotate on the ratchet."
-    ],
-    "strengths": [
-      "GOOD Stamina: Free Ball is very comparable to Ball for its stamina performance being an alright pick to use. It feels best on builds with the goal of destablizing their opponents like Silver Wolf but if you want to use it on regular stamina blades it can do fine.",
-      "DEFENSE: Free Ball has the benefit of having some pretty good KO resistance, while not as crazy as Orb it can sometimes resist big hits around the stadium. An example can be sometimes it gets hit to do an Xtreme Dash and can sometimes slow down to not speed up as crazy. Other times it could also just go wild around so do not bank on this strategy as it is inconsistent."
-    ],
-    "weaknesses": [
-      "Destabilization: If combo is not balance tuned meaning how the ratchet is assembled in placement, it can result in Free Ball failing miserably and destabilizing bad.",
-      "Burst Risk: Due to being a bit with 20 in burst resistance, there is a potential risk to use as it has lower resistance than Balance and Attack bits. This is not the end all be all just something to consider."
     ],
     "gameplay": [
       "Somewhat tilted angle shoot and throw: To maximize the effectiveness of this Bit, you can employ a slight angle and throw the Beyblade on the opposing side from where you launch. This is to avoid knockouts and to conserve stamina.",
       "STRONG Shoot: Free Ball requires to be as good as ball that you MUST have a strong shoot otherwise it can die pretty bad."
     ],
-    "type": "STAMINA"
+    "name": "Free Ball",
+    "strengths": [
+      "GOOD Stamina: Free Ball is very comparable to Ball for its stamina performance being an alright pick to use. It feels best on builds with the goal of destablizing their opponents like Silver Wolf but if you want to use it on regular stamina blades it can do fine.",
+      "DEFENSE: Free Ball has the benefit of having some pretty good KO resistance, while not as crazy as Orb it can sometimes resist big hits around the stadium. An example can be sometimes it gets hit to do an Xtreme Dash and can sometimes slow down to not speed up as crazy. Other times it could also just go wild around so do not bank on this strategy as it is inconsistent."
+    ],
+    "type": "STAMINA",
+    "weaknesses": [
+      "Destabilization: If combo is not balance tuned meaning how the ratchet is assembled in placement, it can result in Free Ball failing miserably and destabilizing bad.",
+      "Burst Risk: Due to being a bit with 20 in burst resistance, there is a potential risk to use as it has lower resistance than Balance and Attack bits. This is not the end all be all just something to consider."
+    ],
+    "weight": "2g"
   },
   "G": {
     "description": "Glide is a solid Bit but suffers from inconsistency. Due to Takara Tomy's quality control, the POM Ball's exposure can vary, affecting performance. With optimization, Glide can be a must-have for competitive players, but it is also a fine addition for collectors.",
-    "weight": "2.5g",
     "design": [
       "Glide is a Beyblade X Bit with low burst resistance and a semi-sphere bottom made of POM. It features 16 gears for a focused Xtreme Dash."
-    ],
-    "strengths": [
-      "Destabilizer Stamina: Glide's tall design and supportive bottom allow it to maintain posture and outspin opponents by making them fall under the Bit.",
-      "Xtreme Dash: Depending on the launch, Glide can avoid most attacks. However, improper launches can waste an Xtreme Dash, draining stamina."
-    ],
-    "weaknesses": [
-      "KO Risk: Improper launches can lead to easy knockouts, as Glide doesn't grip the stadium well when hit.",
-      "Burst Risk: Due to its tall design and low burst resistance, Glide is prone to bursts if not launched at the right angle."
     ],
     "gameplay": [
       "Tilt: Launch at a slight angle and throw the Beyblade on the opposing side to avoid knockouts and conserve stamina."
     ],
-    "type": "STAMINA"
+    "name": "Glide",
+    "strengths": [
+      "Destabilizer Stamina: Glide's tall design and supportive bottom allow it to maintain posture and outspin opponents by making them fall under the Bit.",
+      "Xtreme Dash: Depending on the launch, Glide can avoid most attacks. However, improper launches can waste an Xtreme Dash, draining stamina."
+    ],
+    "type": "STAMINA",
+    "weaknesses": [
+      "KO Risk: Improper launches can lead to easy knockouts, as Glide doesn't grip the stadium well when hit.",
+      "Burst Risk: Due to its tall design and low burst resistance, Glide is prone to bursts if not launched at the right angle."
+    ],
+    "weight": "2.5g"
   },
   "GB": {
     "description": "Gear Ball is too inconsistent to be seriously considered for anything, while the stamina can be greater than regular ball, the fact the gimmick is focused on the Xtreme Line with no real added Burst resistance makes this suffer. Gear Ball bursts far too easily compared to other ball variants and should not be prioritized over them. The most you get out of Gear Ball is just stamina vs stamina battles. As such it is a welcome addition to any bladers collection but should not really get used.",
-    "weight": "2.1g",
     "design": [
       "GearBall is a Beyblade X bit with low burst resistance and a large semi-sphere on the bottom."
-    ],
-    "strengths": [
-      "General High Stamina: The Ball bit due to its design of semi sphere is currently the best bit to use for pure stamina in Beyblade X.",
-      "Xtreme Dash: If launched correctly similar to a point gear ball can be used to do have movement that can fight back against whatever Beyblade it is up against to KO them or Xtreme."
-    ],
-    "weaknesses": [
-      "KO Risk: Due to shape not being something that can really grip the stadium it can easily be KO'd costing you big points.",
-      "Gimmick failure?: Since the bit has low burst resistance and it is focused on fast movement it forces this bit to just die easily to Burst Finish and not be as consistent as you want. At BEST, you can have this used for pure stamina battles as opposed to any attack stuff. It can just perish too much to be considered."
     ],
     "gameplay": [
       "Somewhat tilted angle shoot and throw: To maximize the effectiveness of this Bit, you can employ a slight angle and throw the Beyblade on the opposing side from where you launch. This is to avoid knockouts and to conserve stamina.",
       "Be aware of the top corners on the opposite side of where the Xtreme Finish is: Aim to try to KO with your movement.",
       "Needs a STRONG shoot to be consistent."
     ],
-    "type": "STAMINA"
+    "name": "Gear Ball",
+    "strengths": [
+      "General High Stamina: The Ball bit due to its design of semi sphere is currently the best bit to use for pure stamina in Beyblade X.",
+      "Xtreme Dash: If launched correctly similar to a point gear ball can be used to do have movement that can fight back against whatever Beyblade it is up against to KO them or Xtreme."
+    ],
+    "type": "STAMINA",
+    "weaknesses": [
+      "KO Risk: Due to shape not being something that can really grip the stadium it can easily be KO'd costing you big points.",
+      "Gimmick failure?: Since the bit has low burst resistance and it is focused on fast movement it forces this bit to just die easily to Burst Finish and not be as consistent as you want. At BEST, you can have this used for pure stamina battles as opposed to any attack stuff. It can just perish too much to be considered."
+    ],
+    "weight": "2.1g"
   },
   "GF": {
     "description": "Gear Flat is a high-speed attack bit with excellent burst resistance, making it ideal for aggressive playstyles and Xtreme Dash launches. However, its low stamina and risk of self-KO require careful launching.",
-    "weight": "2.3g",
     "design": [
       "Gear Flat is a variation of the standard Flat Bit that has a jagged, gear-like shape with an indent. It has an 80 burst resistance rating."
     ],
+    "gameplay": [
+      "Flat launch or a somewhat tilted angle shoot: To take advantage of the stadium's features and go for knockouts, use a flat launch or a slightly tilted angle."
+    ],
+    "name": "Gear Flat",
     "strengths": [
       "Maximum Attack Potential: As of January 2023, Gear Flat is the fastest bit in Beyblade X, giving it the highest possible attack potential.",
       "Xtreme Dash: Gear Flat is made for Xtreme Line launches and is excellent at knocking out or Xtreme Finishing opponents.",
       "Burst Resistance: Gear Flat has a minimal risk of bursting thanks to its 80 burst resistance rating."
     ],
+    "type": "ATTACK",
     "weaknesses": [
       "Low Stamina: Gear Flat's high speed causes it to lose stamina quickly.",
       "Vulnerability to Self-KO: Like other flat bits, Gear Flat can self-KO if launched improperly or at a bad angle, though it occasionally results in an Xtreme Finish against the opponent."
     ],
-    "gameplay": [
-      "Flat launch or a somewhat tilted angle shoot: To take advantage of the stadium's features and go for knockouts, use a flat launch or a slightly tilted angle."
-    ],
-    "type": "ATTACK"
+    "weight": "2.3g"
   },
   "GP": {
     "description": "GearPoint is a Beyblade X bit with high burst resistance. It has a small semi-sphere on the bottom with extended gears in a cone shape. The design is intended to provide stamina when the bit is still and aggression when it tilts.",
-    "weight": "2.3g",
     "design": [
       "GearPoint is a Beyblade X bit with high burst resistance. It has a small semi-sphere on the bottom with extended gears in a cone shape. The design is intended to provide stamina when the bit is still and aggression when it tilts."
-    ],
-    "strengths": [
-      "Decent Stamina: As a gear variant of Point, it offers good stamina, sometimes outperforming regular Point bits, though not matching the performance of a ball bit.",
-      "Good counter-movement: Similar to the regular Point bit, it can be used for counter-movement to fight back against opposing Beyblades.",
-      "Xtreme Dash: If launched correctly, it can be used for a powerful movement to knock out opponents or trigger an Xtreme finish."
-    ],
-    "weaknesses": [
-      "KO Risk: The shape of the bit makes it difficult to grip the stadium, which means it can be easily knocked out.",
-      "Mold Variation: There are two different molds for Gear Point. The first mold has a more exposed ball, which allows for stable stamina on a hard launch. The second mold has a less exposed ball, causing the bit to be aggressive immediately. The second mold is considered less effective but still usable."
     ],
     "gameplay": [
       "To maximize the bit's effectiveness, you should use a slightly tilted angle and throw the Beyblade on the opposing side from your launch position. This technique helps to avoid knockouts and conserve stamina.",
       "A strong shoot is required for the bit to be consistent."
     ],
-    "type": "BALANCE"
+    "name": "Gear Point",
+    "strengths": [
+      "Decent Stamina: As a gear variant of Point, it offers good stamina, sometimes outperforming regular Point bits, though not matching the performance of a ball bit.",
+      "Good counter-movement: Similar to the regular Point bit, it can be used for counter-movement to fight back against opposing Beyblades.",
+      "Xtreme Dash: If launched correctly, it can be used for a powerful movement to knock out opponents or trigger an Xtreme finish."
+    ],
+    "type": "BALANCE",
+    "weaknesses": [
+      "KO Risk: The shape of the bit makes it difficult to grip the stadium, which means it can be easily knocked out.",
+      "Mold Variation: There are two different molds for Gear Point. The first mold has a more exposed ball, which allows for stable stamina on a hard launch. The second mold has a less exposed ball, causing the bit to be aggressive immediately. The second mold is considered less effective but still usable."
+    ],
+    "weight": "2.3g"
   },
   "GR": {
     "description": "",
-    "weight": "?g",
-    "design": [
-    ],
-    "strengths": [
-    ],
-    "weaknesses": [
-    ],
-    "gameplay": [
-    ],
-    "type": "ATTACK"
+    "design": [],
+    "gameplay": [],
+    "name": "Gear Rush",
+    "strengths": [],
+    "type": "ATTACK",
+    "weaknesses": [],
+    "weight": "?g"
   },
   "H": {
     "description": "Hexa is a defense bit with a cone-like shape and divided sections. It provides good KO and burst resistance when tilted but can be easily knocked out if not. The Xtreme Dash gimmick is not considered very useful.",
-    "weight": "2.6g",
     "design": [
       "Hexa is a Beyblade X bit with a cone-like shape and divided sections. It also has 16 gears, which are designed to focus on Xtreme Dash when the bit touches the rails."
-    ],
-    "strengths": [
-      "KO Resistance: When tilted, Hexa moves in a hammer-like motion of tilting down and returning to a straight position, which allows it to nullify big hits. For this to work, it must be used at a tilted angle; otherwise, it can be easily knocked out.",
-      "Burst Resistance: Hexa has a high burst resistance of 80 due to its thick shaft, making it effective for defense. This high resistance makes it a priority over other defense bits like Needle or High Needle."
-    ],
-    "weaknesses": [
-      "Xtreme Dash: Although Hexa has a gimmick for counter-movement on the Xtreme Line, it can accelerate too much, which wastes stamina or causes it to speed into a pocket. The article states that this gimmick is not useful enough to be worth attempting."
     ],
     "gameplay": [
       "A somewhat tilted angle shoot and hold technique is recommended.",
       "Launch the Beyblade at a slight angle and hold it on the corner to guide it toward the middle. This allows it to land big hits without getting knocked out.",
       "Be aware of the top corners on the opposite side of the Xtreme Finish and aim to KO opponents with your movement."
     ],
-    "type": "BALANCE"
+    "name": "Hexa",
+    "strengths": [
+      "KO Resistance: When tilted, Hexa moves in a hammer-like motion of tilting down and returning to a straight position, which allows it to nullify big hits. For this to work, it must be used at a tilted angle; otherwise, it can be easily knocked out.",
+      "Burst Resistance: Hexa has a high burst resistance of 80 due to its thick shaft, making it effective for defense. This high resistance makes it a priority over other defense bits like Needle or High Needle."
+    ],
+    "type": "BALANCE",
+    "weaknesses": [
+      "Xtreme Dash: Although Hexa has a gimmick for counter-movement on the Xtreme Line, it can accelerate too much, which wastes stamina or causes it to speed into a pocket. The article states that this gimmick is not useful enough to be worth attempting."
+    ],
+    "weight": "2.6g"
   },
   "HN": {
     "description": "High Needle is a defense bit that is a taller variant of the original Needle. It offers similar KO resistance but with better stamina, making it suitable for longer battles.",
-    "weight": "2.2g",
     "design": [
       "High Needle is a Beyblade X bit with low burst resistance and a cone shape on the bottom. It is a taller variant, being 1mm taller than the original Needle."
-    ],
-    "strengths": [
-      "It has similar KO resistance to the original Needle but with the added benefit of more stamina due to its more smushed cone shape. This allows for longer-lasting stamina in attack battles and better performance in the end game."
-    ],
-    "weaknesses": [
-      "The bit has a Burst Risk due to its low burst resistance of 20, which is lower than Balance and Attack bits."
     ],
     "gameplay": [
       "To maximize its effectiveness, you can use a slightly tilted angle and hold the Beyblade on a corner to lead it into the middle for big hits without getting knocked out. You should also be aware of the top corners on the opposite side of the Xtreme Finish and aim to KO with your movement."
     ],
-    "type": "DEFENSE"
+    "name": "High Needle",
+    "strengths": [
+      "It has similar KO resistance to the original Needle but with the added benefit of more stamina due to its more smushed cone shape. This allows for longer-lasting stamina in attack battles and better performance in the end game."
+    ],
+    "type": "DEFENSE",
+    "weaknesses": [
+      "The bit has a Burst Risk due to its low burst resistance of 20, which is lower than Balance and Attack bits."
+    ],
+    "weight": "2.2g"
   },
   "HT": {
     "description": "The High Taper Bit is a taller version of the regular Taper Bit. It provides a good mix of stamina and attack but has worse stamina than its regular counterpart due to a higher center of gravity, which also makes it more aggressive.",
-    "weight": "2.2g",
     "design": [
       "The HighTaper Bit has high Burst resistance and features a semi-flat shape with an indent on the bottom. It is also taller than the regular Taper Bit."
     ],
+    "gameplay": [
+      "To maximize its effectiveness, you can use a flat launch or a slightly tilted angle shot to use the stadium's gimmicks and aim for knockouts."
+    ],
+    "name": "High Taper",
     "strengths": [
       "It is a great mixed stamina and attack bit for Beyblade X, providing improved stamina compared to a regular Flat bit while still allowing for aggressive movement.",
       "It works well with the Xtreme Dash gimmick, enabling high speed and knockout potential.",
       "It is proficient at achieving high rotational speeds to knock out opponents.",
       "It has an 80 Stats in Burst resistance, minimizing burst risk."
     ],
+    "type": "BALANCE",
     "weaknesses": [
       "It has worse stamina than a regular Taper bit because its higher center of gravity makes it more aggressive.",
       "It has mixed attack potential and can fail at attack performance, similar to how Flat can fail for stamina. It requires a good launch to perform similarly to a Flat bit when optimizing for a shot.",
       "The semi-flat design is both a pro and a con, offering more controlled stamina but less pure attack.",
       "If launched too hard, it can catch the stadium path and self-KO, making control and technique important."
     ],
-    "gameplay": [
-      "To maximize its effectiveness, you can use a flat launch or a slightly tilted angle shot to use the stadium's gimmicks and aim for knockouts."
-    ],
-    "type": "BALANCE"
+    "weight": "2.2g"
   },
   "K": {
     "description": "",
-    "weight": "?g",
     "design": [],
-    "strengths": [],
-    "weaknesses": [],
     "gameplay": [],
-    "type": "BALANCE"
+    "name": "Kick",
+    "strengths": [],
+    "type": "BALANCE",
+    "weaknesses": [],
+    "weight": "?g"
   },
   "L": {
     "description": "Level is a versatile attack bit that provides a unique blend of aggression and end-game stamina. Its design allows for dynamic movement and strong KO potential, but its path can be inconsistent and it is vulnerable to self-KOs.",
-    "weight": "2.6g",
     "design": [
       "Level is an attack-focused Bit with a unique design featuring three acceleration levels (outer, middle, and inner), each influencing its speed. It has a large circular shape that contributes to good in-game stamina, and 16 gears that help it accelerate along the Xtreme Rails. The bit also has an 80 Burst Resistance stat, making it highly resistant to bursting."
     ],
+    "gameplay": [
+      "Tilt Launch: The recommended strategy is to tilt-launch the bit to get the maximum potential out of it and avoid self-knock-outs."
+    ],
+    "name": "Level",
     "strengths": [
       "Solid attack bit for Beyblade X: It is designed for aggressive setups and provides strong knock-out potential with good end-game stamina.",
       "Focused on Xtreme Dash gimmick: The bit is somewhat consistent in utilizing the Xtreme Dash to achieve high speeds and knock out opponents.",
       "Able to pick up strong speeds and KO: It excels at reaching high rotational speeds, which makes it effective at knocking opponents out of the stadium.",
       "Burst Resistance: With a Burst resistance stat of 80, there is a minimal risk of the bit bursting during a battle."
     ],
+    "type": "ATTACK",
     "weaknesses": [
       "Inconsistent path followed: The Level bit can sometimes fail to follow the Xtreme Rail path properly and may bounce around the stadium.",
       "Vulnerability to self-KO: If launched too hard and it catches the stadium path, it has the potential to knock itself out."
     ],
-    "gameplay": [
-      "Tilt Launch: The recommended strategy is to tilt-launch the bit to get the maximum potential out of it and avoid self-knock-outs."
-    ],
-    "type": "ATTACK"
+    "weight": "2.6g"
   },
   "LF": {
     "description": "Low Flat has a considerable improvement over regular flat for attack power and speed but has less stamina, due to it improving some blades that need fast hits to win it is a must have for any attack combo.",
-    "weight": "2.1g",
     "design": [
       "The LowFlat is 1mm shorter than the regular flat and doesn't have the hole in the middle that the regular flat does. Because of these factors, it is able to move a bit faster than the regular flat and not have nearly as much stamina."
     ],
+    "gameplay": [
+      "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts.",
+      "With Low Flat: It has a lot of speed and power, but stamina won't be there since it does have a slight advantage"
+    ],
+    "name": "Low Flat",
     "strengths": [
       "Great attack bit for Beyblade X: The Flat Bit is well-suited for aggressive playstyles and can be effective in offensive strategies.",
       "Uses the Xtreme Dash gimmick easily: The Bit works well with the Xtreme Dash performance tip, allowing for high speed and KO potential.",
       "Able to pick up strong speeds and KO: The Bit excels in achieving high rotational speeds, making it proficient at knocking out opponents from the stadium.",
       "Burst Resistance: This bit has 80 Stats in Burst resistance, which makes it great to use due to minimal Burst risk."
     ],
+    "type": "ATTACK",
     "weaknesses": [
       "Low stamina: The Bit may not be ideal for battles that require endurance, as it lacks stamina. Stamina is important for outlasting opponents in long battles. In the context of a battle, if you get your hits at the start and don't miss, you have nothing to worry about. It is basically the same issue with Flat, just even more.",
       "Vulnerability to self-KO: If the Bit is hard-launched and catches the stadium path, it can self-KO, which is a potential weakness. Control and technique are essential when using this Bit. Due to it being super fast now and the modified design, this is even more of an issue."
     ],
-    "gameplay": [
-      "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts.",
-      "With Low Flat: It has a lot of speed and power, but stamina won't be there since it does have a slight advantage"
-    ],
-    "type": "ATTACK"
+    "weight": "2.1g"
   },
   "MN": {
     "description": "Due to the fact that this has worse stamina than regular Needle and KO resistance, not improved at all, and it dents stadiums, this Bit should never get used and just be in the collection only.",
-    "weight": "2.7g",
     "design": [
       "Metal Needle is a Beyblade X bit with low burst resistance and a sharp metal cone shape on the bottom."
     ],
+    "gameplay": [
+      "Somewhat tilted angle shoot and hold: To maximize the effectiveness of this Bit, you can employ a slight angle and keep the Beyblade on to the corner of where you are to lead into the middle to get those big hits without being knocked out.",
+      "Be aware of the top corners on the opposite side of where the Xtreme Finish is: Aim to try to KO with your movement."
+    ],
+    "name": "Metal Needle",
     "strengths": [
       "None"
     ],
+    "type": "DEFENSE",
     "weaknesses": [
       "Weight: The use of metal has the benefit of being slightly heavier than the average Bit. However, this weight is inconsequential for any real difference in performance compared to regular Needle for KO resistance.",
       "Stamina: Despite being metal, it arguably has way worse stamina than a regular Needle, losing balance far easier than the regular needle.",
       "Burst Risk: The Bit has 20 in burst resistance, there is a potential risk of using it, as it has lower resistance than Balance and Attack Bits. This is not the be-all and end-all; it is just something to consider.",
       "Destruction of Stadium: Due to being Metal while on a regular 34g Bit, the stadium shouldn't get dented on any heavier Bit. Your stadium will slowly start to see dents, especially if you try to slam or hard launch, you can get dents even easier. Making this Bit virtually pointless in every category possible."
     ],
-    "gameplay": [
-      "Somewhat tilted angle shoot and hold: To maximize the effectiveness of this Bit, you can employ a slight angle and keep the Beyblade on to the corner of where you are to lead into the middle to get those big hits without being knocked out.",
-      "Be aware of the top corners on the opposite side of where the Xtreme Finish is: Aim to try to KO with your movement."
-    ],
-    "type": "DEFENSE"
+    "weight": "2.7g"
   },
   "N": {
     "description": "Needle is a defense bit with a sharp, cone-shaped point. Its main strength is its \"Tanky KO Resistance,\" allowing it to withstand powerful hits. However, its low stamina and burst resistance make it vulnerable to outspinning and bursting.",
-    "weight": "2g",
     "design": [
       "Needle is a Beyblade X bit with low burst resistance and a sharp, cone-shaped point on its bottom."
-    ],
-    "strengths": [
-      "The bit's primary strength is its \"Tanky KO Resistance\". The sharp, focused point allows it to stick to the stadium and withstand strong hits, effectively holding its ground."
-    ],
-    "weaknesses": [
-      "Needle's weaknesses include \"Stamina Risk\" and \"Burst Risk\". As a defense bit, it prioritizes defense over stamina, making it vulnerable to being outspun by attack or stamina-focused combos if not launched correctly. Additionally, with a burst resistance of 20, there's a potential risk of it bursting more easily than Balance and Attack bits."
     ],
     "gameplay": [
       "The recommended gameplay involves a \"Somewhat tilted angle shoot and hold\". Players should launch the Beyblade at a slight angle and hold it near a corner of the stadium to lead it into the center. This strategy allows for landing powerful hits without being knocked out. The user should also be aware of the top corners on the opposite side of the Xtreme Finish and aim to use their movement to achieve KOs."
     ],
-    "type": "DEFENSE"
+    "name": "Needle",
+    "strengths": [
+      "The bit's primary strength is its \"Tanky KO Resistance\". The sharp, focused point allows it to stick to the stadium and withstand strong hits, effectively holding its ground."
+    ],
+    "type": "DEFENSE",
+    "weaknesses": [
+      "Needle's weaknesses include \"Stamina Risk\" and \"Burst Risk\". As a defense bit, it prioritizes defense over stamina, making it vulnerable to being outspun by attack or stamina-focused combos if not launched correctly. Additionally, with a burst resistance of 20, there's a potential risk of it bursting more easily than Balance and Attack bits."
+    ],
+    "weight": "2g"
   },
-  "O":{
+  "O": {
     "description": "Being as good as Ball, Orb has good stamina and is a must have for any bladers trying to make stamina combos as an alternative to Ball.",
-    "weight": "2g",
     "design": [
       "Orb is a Beyblade X bit with low burst resistance and a small semi-sphere on the bottom."
-    ],
-    "strengths": [
-      "GOOD Stamina: Orb is very comparable to Ball for its stamina performance being more or less the same, making it a strong pick.",
-      "DEFENSE: Orb has the benefit of having some pretty good KO resistance, while not some large amount it can be a lot tankier to hits dealt to it than regular ball."
-    ],
-    "weaknesses": [
-      "Destabilization: If combo is not balance tuned meaning how the ratchet is assembled in placement, it can result in Orb failing miserably and destabilizing bad.",
-      "Burst Risk: Due to being a bit with 20 in burst resistance, there is a potential risk to use as it has lower resistance than Balance and Attack bits. This is not the end all be all just something to consider."
     ],
     "gameplay": [
       "Somewhat tilted angle shoot and throw: To maximize the effectiveness of this Bit, you can employ a slight angle and throw the Beyblade on the opposing side from where you launch. This is to avoid knockouts and to conserve stamina.",
       "STRONG Shoot: Orb requires to be as good as ball that you MUST have a strong shoot otherwise it can die pretty bad."
     ],
-    "type": "STAMINA"
+    "name": "Orb",
+    "strengths": [
+      "GOOD Stamina: Orb is very comparable to Ball for its stamina performance being more or less the same, making it a strong pick.",
+      "DEFENSE: Orb has the benefit of having some pretty good KO resistance, while not some large amount it can be a lot tankier to hits dealt to it than regular ball."
+    ],
+    "type": "STAMINA",
+    "weaknesses": [
+      "Destabilization: If combo is not balance tuned meaning how the ratchet is assembled in placement, it can result in Orb failing miserably and destabilizing bad.",
+      "Burst Risk: Due to being a bit with 20 in burst resistance, there is a potential risk to use as it has lower resistance than Balance and Attack bits. This is not the end all be all just something to consider."
+    ],
+    "weight": "2g"
   },
   "P": {
     "description": "Point is the best non attack tip right before that of Taper, its attack power and stamina allow it to be more considered than your Flat Bits, it offers good endgame stamina and counter movement. It is a must have for any bladers collecting.",
-    "weight": "2.2g",
     "design": [
       "Point is a flat bit that features a filled area where the indent would usually be with semi sphere ball, and features a stat of 80 for high Burst resistance."
     ],
+    "gameplay": [
+      "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts.",
+      "With Point: In general attack vs attack battles you could just tilt to conserve stamina and to hold a good ground against attackers while against anything that is stamina or defense give a good flat launch to do damage or KO, be aware this bit takes practise to use right."
+    ],
+    "name": "Point",
     "strengths": [
       "Good mix of attack + stamina: Point has the highest stamina compared to any of the current Flat bits released, whether this is LowFlat or GearFlat. This bit excells in having good attack power and stamina throughout the battle, it is best kept in mind if it is a Flat bit not like a full on Taper bit. As it doesn't have the same stamina as Taper but does have better movement to it for attack in battle.",
       "Great attack bit for Beyblade X: This tip basically just has all the qualities of flat but can sometimes tilt and create an aggressive flower movement to harm the opponent.",
@@ -452,126 +475,131 @@
       "Able to pick up strong speeds and KO: The Bit excels in achieving high rotational speeds, making it proficient at knocking out opponents from the stadium.",
       "Burst Resistance: Due to being a Bit with a 80 Stats in Burst resistance this makes this bit great to use due to minimal Burst risk."
     ],
+    "type": "BALANCE",
     "weaknesses": [
       "Inconsistent Movement Pattern: Point can be a hit or miss but depends on person to person, the issue sometimes is getting that right movement for it as you really need to sometimes strong tilt it against stamina combos.",
       "Vulnerability to self-KO: If the Bit is hard-launched and catches the stadium path, it can self-KO, which is a potential weakness. Control and technique are important when using this Bit."
     ],
-    "gameplay": [
-      "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts.",
-      "With Point: In general attack vs attack battles you could just tilt to conserve stamina and to hold a good ground against attackers while against anything that is stamina or defense give a good flat launch to do damage or KO, be aware this bit takes practise to use right."
-    ],
-    "type": "BALANCE"
+    "weight": "2.2g"
   },
   "Q": {
     "description": "Quake is a bit that one should try to use competitively, while the randomness of jumping can be fun and potentially mastered to make it useful. For consistency's sake, you should not waste time trying to use it, and it should be for collection only.",
-    "weight": "2.3g",
     "design": [
       "Quake is a flat bit that is cut diagonally with one side with more exposed gears to cause a jumping motion in battle."
-    ],
-    "strengths": [
-      "Strong Hits: If Used right Quake can actually deliver bit hits and KOs due the fast speed of how it's designed.",
-      "Burst Resistance: This bit has 80 Stats in Burst resistance, which makes it great to use due to minimal Burst risk."
-    ],
-    "weaknesses": [
-      "Low Stamina: The Bit may not be ideal for battles that require endurance, as it lacks stamina. Stamina is essential for outlasting opponents in long battles. In the context of a battle if you get your hits at the start and don't miss you have nothing to worry about. However, with Quake, this issue is even greater as it barely has much stamina to begin with.",
-      "Vulnerability to self-KO: If the Bit is hard-launched and catches the stadium path, it can self-KO, which is a potential weakness. Control and technique are important when using this Bit. Especially with Quake you can easily self KO jumping into any of the stadium pockets."
     ],
     "gameplay": [
       "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts.",
       "Generally with Quake: You can do either flat shoot or tilt on case by case basis depending if you want to try to focus on the Xtreme Line to try and KO or try to destabilize and harm the opponent."
     ],
-    "type": "ATTACK"
+    "name": "Quake",
+    "strengths": [
+      "Strong Hits: If Used right Quake can actually deliver bit hits and KOs due the fast speed of how it's designed.",
+      "Burst Resistance: This bit has 80 Stats in Burst resistance, which makes it great to use due to minimal Burst risk."
+    ],
+    "type": "ATTACK",
+    "weaknesses": [
+      "Low Stamina: The Bit may not be ideal for battles that require endurance, as it lacks stamina. Stamina is essential for outlasting opponents in long battles. In the context of a battle if you get your hits at the start and don't miss you have nothing to worry about. However, with Quake, this issue is even greater as it barely has much stamina to begin with.",
+      "Vulnerability to self-KO: If the Bit is hard-launched and catches the stadium path, it can self-KO, which is a potential weakness. Control and technique are important when using this Bit. Especially with Quake you can easily self KO jumping into any of the stadium pockets."
+    ],
+    "weight": "2.3g"
   },
   "R": {
     "description": "Rush allows itself to be the most consistent attack bit that allows for consistent Xtreme rushes, while its endgame stamina could be questionable, the negatives are outweighed by the positives, thus is a must have for any bladers collection.",
-    "weight": "2.1g",
     "design": [
       "Rush is a small flat but that features an elevated gear focused for the Xtreme line and features a stat of 80 for high Burst resistance."
     ],
+    "gameplay": [
+      "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts.",
+      "In the case of Rush: you want to decide if you tilt or do a flat launch since if you do flat you will do repeated Xtreme Dash movement, or if you do tilt it could work against certain opponents to counter and defeat them."
+    ],
+    "name": "Rush",
     "strengths": [
       "BEST attack bit for Beyblade X: Since Rush is focused on the Xtreme Line and does so consistently it is the best attack bit as it allows for good speed and control in the Xtreme Stadium.",
       "Good Stamina: Since this bit doesn't really waste time in battle it is pretty effective as an attack bit to do the job that is needed.",
       "Able to pick up strong speeds and KO: The Bit excels in achieving high rotational speeds, making it proficient at knocking out opponents from the stadium.",
       "Burst Resistance: Due to being a Bit with an 80 Stats in Burst resistance this makes this bit great to use due to minimal Burst risk."
     ],
+    "type": "ATTACK",
     "weaknesses": [
       "Wear: With how this bit is designed you might end up having this wear and being slightly less consistent than mint, this does not greatly affect gameplay but can get pretty annoying over time due to a poor design by Takara Tomy.",
       "Low stamina: Even though we mentioned good stamina, if this thing wears a lot it can lead to failure to use the Xtreme Line sometimes which can cause a depletion in stamina."
     ],
-    "gameplay": [
-      "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts.",
-      "In the case of Rush: you want to decide if you tilt or do a flat launch since if you do flat you will do repeated Xtreme Dash movement, or if you do tilt it could work against certain opponents to counter and defeat them."
-    ],
-    "type": "ATTACK"
+    "weight": "2.1g"
   },
   "RA": {
     "description": "Rubber Accel is a bit with a high skill ceiling. If you're able to master it, it offers a fun and dynamic experience, but for most players, it's better to stick with more consistent attack bits. The main issues include stamina drain, difficulty controlling its movements (often skipping around the stadium), and a tendency to waste momentum. It’s a challenging bit to use, and while it can be exciting when it works, it might not be the best choice for consistent performance.",
-    "weight": "3g",
     "design": [
       "Rubber Accel is a bit that has a rubber flat bottom with a wide guard to lift above the rails when doing an Xtreme Dash. The bit features a stat of 80 for high Burst resistance. Rubber Accel has a total of 16 gears to allow it to accelerate more on the Xtreme Rails."
     ],
+    "gameplay": [
+      "Use a hard launch or slight tilt to maintain speed and stability while maximizing KO potential. Maximize Speed: Focus on flat launches to achieve consistent speed and take advantage of the rubber's grip and recoil control."
+    ],
+    "name": "Rubber Accel",
     "strengths": [
       "Decent Attack Bit: Rubber Accel is built for attack setups, offering an inconsistent flat profile with good speed. Recoil Control: The rubber material helps grip the stadium, improving recoil control compared to plastic variants.",
       "High Speed & KO Potential: The rubber friction allows for faster movement and increases the KO potential.",
       "Burst Resistance: 80 Burst Resistance minimizes burst risk, making it reliable for attack combos."
     ],
+    "type": "ATTACK",
     "weaknesses": [
       "Inconsistent Movement: Rubber Accel may skip along the rails due to its rubber composition, affecting stability.",
       "Self-KO Risk: Hard launching may cause self-KOs if the bit hits the stadium path incorrectly, requiring careful control.",
       "Gear Interference: The internal gears may slow down the bit, reducing its acceleration potential as the rubber tries to gain speed."
     ],
-    "gameplay": [
-      "Use a hard launch or slight tilt to maintain speed and stability while maximizing KO potential. Maximize Speed: Focus on flat launches to achieve consistent speed and take advantage of the rubber's grip and recoil control."
-    ],
-    "type": "ATTACK"
+    "weight": "3g"
   },
   "S": {
     "description": "Spike is the worst Bit they have ever done for defense, it is so bad that there is quite literally nothing that can seriously be recommended, this tip is not to be used at all, leave it in the bin. While one could argue that there are combos that could work to its nature it feels like a waste, if you really did want to use this bit, you would have to use it on setups that you would use Needle on.",
-    "weight": "-",
     "design": [
       "Spike is a Beyblade X bit that features low burst resistance and a tiny sharp cone shape on the bottom of the bit."
     ],
+    "gameplay": [
+      "Somewhat tilted angle shoot and hold: To maximize the effectiveness of this Bit, you can employ a slight angle and hold the Beyblade on to the corner of where you are to lead into the middle to get those big hits without being knocked out."
+    ],
+    "name": "Spike",
     "strengths": [
       "NONE"
     ],
+    "type": "DEFENSE",
     "weaknesses": [
       "KO Resistance: Spike does not have any good KO resistance it can get tapped and easily get flung out in battle it is the worse out of any needle released right now.",
       "Stamina Risk: Since this is a defense bit the focus is pure defense rather than stamina, so it is possible if you somehow screw up the launch to get bullied and outspun by attackers or go up against a stamina combo and be outspun.",
       "Burst Risk: Due to being a bit with 20 in burst resistance there is a potential risk to use as it has lower resistance than Balance and Attack bits. This is not the end all be all just something to consider."
     ],
-    "gameplay": [
-      "Somewhat tilted angle shoot and hold: To maximize the effectiveness of this Bit, you can employ a slight angle and hold the Beyblade on to the corner of where you are to lead into the middle to get those big hits without being knocked out."
-    ],
-    "type": "DEFENSE"
+    "weight": "-"
   },
   "T": {
     "description": "The Taper Bit is similar to Flat where the design of this Bit is a semi-flat. So while it is still able to be used for attack getting that aggressive movement, you have greatly improved stamina compared to regular flat.",
-    "weight": "2.2g",
     "design": [
       "Taper is a Bit that features high Burst resistance and features a semi-flat with an indent on the bottom."
     ],
+    "gameplay": [
+      "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts."
+    ],
+    "name": "Taper",
     "strengths": [
       "Great mixed stamina and attack bit for Beyblade X: The Taper Bit is similar to Flat where the design of this Bit is a semi-flat. So while it is still able to be used for attack getting that aggressive movement, you have greatly improved stamina compared to regular flat.",
       "Uses the Xtreme Dash gimmick easily: The Bit works well with the Xtreme Dash performance tip, allowing for high speed and KO potential.",
       "Able to pick up somewhat strong speeds and KO: The Bit excels in achieving somewhat high rotational speeds, making it proficient at knocking out opponents from the stadium.",
       "Burst Resistance: Due to being a Bit with an 80 Stats in Burst resistance this makes this bit great to use due to minimal Burst risk."
     ],
+    "type": "ATTACK",
     "weaknesses": [
       "Mixed attack potential: Taper can have the reverse issue of Flat, while Flat can kinda fail for stamina performance, Taper can kinda fail for attack performance. It requires a good shoot to make it get to a very similar performance to Flat when Blader is optimizing for the shoot. This is both a pro and a con, you get the benefit of more controlled stamina but less use of pure attack.",
       "Vulnerability to self-KO: If the Bit is hard-launched and catches the stadium path, it can self-KO, which is a potential weakness. Control and technique are important when using this Bit."
     ],
-    "gameplay": [
-      "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts."
-    ],
-    "type": "ATTACK"
+    "weight": "2.2g"
   },
   "TP": {
     "description": "Trans Point is a bit that is inconsistent in performance. While it has good stamina and aggression, it suffers from self-bursting on the Xtreme Rail and is vulnerable to bursting when the mode change occurs. If one is to use this bit, it’s best to keep it in low mode and launch away from the Xtreme Rails to minimize risk.",
-    "weight": "2.17g",
     "design": [
       "Trans Point is a flat bit that features a filled area where the indent would usually be with an exposed semi sphere ball, and features a stat of 80 for high Burst resistance.",
       "Trans Point can switch between low and tall heights during battle. If using a 60-height setup, the low mode is 50 height and high mode is 70 height."
     ],
+    "gameplay": [
+      "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts."
+    ],
+    "name": "Trans Point",
     "strengths": [
       "Good Stamina Performance: Compared to standard Point, Trans Point leans more towards stamina due to its protruding ball design, making it a solid choice for endurance-based strategies.",
       "Attack Potential: While not as aggressive as Point, Trans Point can still maintain good speed and movement, especially when angled correctly. Its ability to adapt between stamina and attack gives it flexibility against different opponents.",
@@ -579,74 +607,64 @@
       "Able to pick up strong speeds and KO: The Bit excels in achieving high rotational speeds, making it proficient at knocking out opponents from the stadium.",
       "Burst Resistance: Due to being a Bit with a 80 Stats in Burst resistance this makes this bit great to use due to minimal Burst risk."
     ],
+    "type": "BALANCE",
     "weaknesses": [
       "Chaotic and Unpredictable Movement: The mode shifts are not always consistent, making it harder to control in battle. This can result in unexpected behavior, especially under high-speed conditions.",
       "Vulnerability to Tripping: Due to the height-changing mechanism, there’s a risk of the Bit tripping when transitioning between modes, which can lead to instability and reduced effectiveness.",
       "Less Aggressive than Standard Point: While Trans Point retains some attack properties, it is more stamina-focused, making it less effective for pure attack strategies"
     ],
-    "gameplay": [
-      "Flat launch or a somewhat tilted angle shoot: To maximize the effectiveness of this Bit, you can employ a flat launch or a slight angle to utilize the stadium's gimmicks and aim for knockouts."
-    ],
-    "type": "BALANCE"
+    "weight": "2.17g"
   },
   "U": {
     "description": "Unite, compared to Taper, offers slightly faster speed and stamina at the cost of self-KO risk and a lack of stability in endgame stamina in some rounds. Due to this, if one is using Unite, one should be careful of how they launch this bit going into battle. As such, Unite is a welcome addition to anyone's collection due to the benefits it offers.",
-    "weight": "2.2g",
     "design": [
       "Unite is a bit with high Burst resistance and a rounded semi-flat bottom with an indent and a tiny ball in the hole."
     ],
+    "gameplay": [
+      "Tilt: To maximize the effectiveness of this Bit, you must tilt it, you cannot do a flat launch other wise you can self KO pretty bad, not unless you are confident in your skill should you try and risk it."
+    ],
+    "name": "Unite",
     "strengths": [
       "Great mixed stamina and attack bit for Beyblade X: The Unite Bit is similar to Taper and Ball, but its design is rounded semi-flat. The big difference compared to Taper is that Unite is a lot more aggressive in its movement pattern, being a lot faster in movement. It also has slightly better stamina than that of regular Taper but can tip over and lose stamina badly.",
       "Uses the Xtreme Dash gimmick easily: The Bit works well with the Xtreme Dash performance tip, allowing for high speed and KO potential.",
       "Able to pick up somewhat strong speeds and KO: The Bit excels in achieving somewhat high rotational speeds, making it proficient at knocking out opponents from the stadium.",
       "Burst Resistance: This bit has 80 Stats in Burst resistance, which makes it great to use due to minimal Burst risk."
     ],
+    "type": "BALANCE",
     "weaknesses": [
       "Vulnerability to self-KO: If the Bit is hard-launched and catches the stadium path, instead of going directly down to the Xtreme Zone it will (if your bey is right rotation) go all the way to the left side to the knockout zone. There can even be times where it doesn't get triggered to do so and still hops over easily into any KO zone making it a bit tricky to use.",
       "It can self-KO, which is a potential weakness. Control and technique are important when using this Bit."
     ],
-    "gameplay": [
-      "Tilt: To maximize the effectiveness of this Bit, you must tilt it, you cannot do a flat launch other wise you can self KO pretty bad, not unless you are confident in your skill should you try and risk it."
-    ],
-    "type": "BALANCE"
+    "weight": "2.2g"
   },
   "W": {
     "description": "",
-    "weight": "?g",
-    "design": [
-    ],
-    "strengths": [
-    ],
-    "weaknesses": [
-    ],
-    "gameplay": [
-    ],
-    "type": "DEFENSE"
+    "design": [],
+    "gameplay": [],
+    "name": "Wedge",
+    "strengths": [],
+    "type": "DEFENSE",
+    "weaknesses": [],
+    "weight": "?g"
   },
   "WB": {
     "description": "",
-    "weight": "?g",
-    "design": [
-    ],
-    "strengths": [
-    ],
-    "weaknesses": [
-    ],
-    "gameplay": [
-    ],
-    "type": "STAMINA"
+    "design": [],
+    "gameplay": [],
+    "name": "Wall Ball",
+    "strengths": [],
+    "type": "STAMINA",
+    "weaknesses": [],
+    "weight": "?g"
   },
   "Z": {
     "description": "",
-    "weight": "?g",
-    "design": [
-    ],
-    "strengths": [
-    ],
-    "weaknesses": [
-    ],
-    "gameplay": [
-    ],
-    "type": "BALANCE"
+    "design": [],
+    "gameplay": [],
+    "name": "Zap",
+    "strengths": [],
+    "type": "BALANCE",
+    "weaknesses": [],
+    "weight": "?g"
   }
 }
