@@ -397,6 +397,26 @@
     ],
     "weight": "2.1g"
   },
+  "LO": {
+    "description": "",
+    "design": [],
+    "gameplay": [],
+    "name": "Low Orb",
+    "strengths": [],
+    "type": "STAMINA",
+    "weaknesses": [],
+    "weight": "1.9g"
+  },
+  "LR": {
+    "description": "",
+    "design": [],
+    "gameplay": [],
+    "name": "Low Rush",
+    "strengths": [],
+    "type": "ATTACK",
+    "weaknesses": [],
+    "weight": "1.9g"
+  },
   "MN": {
     "description": "Due to the fact that this has worse stamina than regular Needle and KO resistance, not improved at all, and it dents stadiums, this Bit should never get used and just be in the collection only.",
     "design": [
@@ -635,6 +655,36 @@
       "Vulnerability to self-KO: If the Bit is hard-launched and catches the stadium path, instead of going directly down to the Xtreme Zone it will (if your bey is right rotation) go all the way to the left side to the knockout zone. There can even be times where it doesn't get triggered to do so and still hops over easily into any KO zone making it a bit tricky to use.",
       "It can self-KO, which is a potential weakness. Control and technique are important when using this Bit."
     ],
+    "weight": "2.2g"
+  },
+  "UF": {
+    "description": "",
+    "design": [],
+    "gameplay": [],
+    "name": "Under Flat",
+    "strengths": [],
+    "type": "ATTACK",
+    "weaknesses": [],
+    "weight": "2.0g"
+  },
+  "UN": {
+    "description": "",
+    "design": [],
+    "gameplay": [],
+    "name": "Under Needle",
+    "strengths": [],
+    "type": "DEFENSE",
+    "weaknesses": [],
+    "weight": "1.9g"
+  },
+  "V": {
+    "description": "",
+    "design": [],
+    "gameplay": [],
+    "name": "Wedge",
+    "strengths": [],
+    "type": "ATTACK",
+    "weaknesses": [],
     "weight": "2.2g"
   },
   "W": {
